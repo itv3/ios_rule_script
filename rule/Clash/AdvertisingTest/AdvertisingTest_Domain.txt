@@ -1,97 +1,68 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-28 02:38:14
-# DOMAIN: 10368
+# UPDATED: 2022-09-29 02:38:05
+# DOMAIN: 10360
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 90051
+# DOMAIN-SUFFIX: 90096
 # IP-CIDR: 242
-# TOTAL: 100925
-0f6f763bf7.com
-3p-geo.yahoo.com
-3p-udc.yahoo.com
+# TOTAL: 100962
 46186911.vtt
 80055404.vtt
-888x.cyou
 absurdapple.com
-adfox.yandex.ru
 adfstat.yandex.ru
 ads.yahoo.com
 ads.youtube.com
-adsdk.yandex.ru
-an.yandex.ru
 anxiousapples.com
 api.sec.miui.com
 app.ssp.yahoo.com
 appboy-images.com
-apple.www.letv.com
 applebarq.com
 applequan.com
 applescringe.com
-awaps.yandex.ru
 awsync.yandex.ru
-bats.video.yahoo.com
 beacon.search.yahoo.com
 beap-bc.yahoo.com
-brocode3s.com
-bs.yandex.ru
-collector2c.zhihuishu.com
-cookiex.ngd.yahoo.com
+bnlg.fun
+bust3koop.cyou
+cataractoutputprogramming.com
 crypta.js
 d1stxfv94hrhia.cloudfront
-delivery.akadigital.vn
+d3rb9wasp2y8gw.cloudfront.net
 dmg-dd.oss-accelerate.aliyuncs.com
-febnylhx.com
-fin.ovh
 fpb1.apple886.com
-ganon.yahoo.com
-geo.yahoo.com
-haop5wopa.icu
-hspjthms.com
+hatsheisaco.xyz
 https-apple.com
+huadiximeng.cn
 iadsdk.apple.com
 ib.snssdk.com
-iccorm.com
-iiroz.xyz
-informer.yandex.ru
-jill.fc.yahoo.com
-jmwant.co
+jmmunnojlcwgsrt.com
 jpaasne.e.shifen.com
+jwuyjehlbndrkd.com
 log.strm.yandex.ru
 marketingsolutions.yahoo.com
-mc.yandex.ru
+mbazhaheix.top
 mediaappletree.com
 meitaolianmeng.ltd
 mm.n3w1d0ma1n
 mo.vlpyj.xy
-n1hf.cn
-nol.yahoo.com
-nongjih.cn
-onlyry.net
-pdxubxc.cn
+op00.biz
+polkmnhytgb.com
 pr.comet.yahoo.com
-psoukesh.com
-pv.sohu.com
-qg9z.cn
-qhovrbepxmunqy.com
-qinlingshui.com
+resetmascara.com
+reswsentativ.xyz
 rrf.fat1domain1
-salleyte.top
-sd1f.top
 shackapple.com
-shipostrich.com
+similm.me
 stats.video.search.yahoo.com
 sub.powerapple.com
-supportmetrics.apple.com
-test.vast
 theapple.site
-tomponcainite.com
-visit.webhosting.yahoo.com
-vztkmhf.cn
+uqaqmc.cn
 wondefulapplend.com
-worthless-living.pro
-wpercent.qwertyuadf.com
 wzjs1.oss-accelerate.aliyuncs.com
+xg2car.co
+xibqq.xyz
+xrn8.xyz
 youtube.local
 ad.xy2013.cn
 ads.play.cbsi.video
@@ -7412,6 +7383,7 @@ taozgpkjzpdtgr.com
 tapffdskgjr.com
 targetctracker.com
 tarteaucitron.ml
+tat.pandora.xiaomi.com
 tataget.ru
 tatami-solutions.com
 tauwhout.net
@@ -9641,7 +9613,6 @@ zzxlukodff.com
 zzxosget.com
 519332da.rtc.youme.im
 gvod.aiseejapp.atianqi.com
-tat.pandora.xiaomi.com
 204.scloud.lfengmobile.com
 2mdnsys.com
 39d83s.com
@@ -10353,13 +10324,31 @@ ymsdk.apkcar.com
 yume.com
 zen.sr
 10008919.pomelo.fashion
+3p-geo.yahoo.com
+3p-udc.yahoo.com
 ad.kddi-fs.com
+adfox.yandex.ru
+adsdk.yandex.ru
+an.yandex.ru
+apple.www.letv.com
+awaps.yandex.ru
+bats.video.yahoo.com
+bs.yandex.ru
 cdn1.skrill.com
+collector2c.zhihuishu.com
+cookiex.ngd.yahoo.com
 fvf3adsna5qc.www.earthclassmail.com
+ganon.yahoo.com
+geo.yahoo.com
+informer.yandex.ru
 insight.olx.ba
+jill.fc.yahoo.com
 l.ctrl.blog
 log.kuwo.cn
+mc.yandex.ru
 metrics.apple.com
+nol.yahoo.com
+pv.sohu.com
 retcode.taobao.com
 securemetrics.apple.com
 securemetrics.experience.apple
@@ -10367,14 +10356,17 @@ securemvt.apple.com
 securemvt.apple.com.cn
 ssp.rambler.ru
 sugar.zhihu.com
+supportmetrics.apple.com
 t.nypost.com
 tags.esri.rw
+test.vast
 tms.hft.everyplate.com
 tms.hft.factor75.com
 tms.hft.greenchef.com
 tms.hft.hellofresh.com
 track.mrgugu.com
 views.b1tv.ro
+visit.webhosting.yahoo.com
 .0-000.store
 .0.code.cotsta.ru
 .0001.best
@@ -10463,6 +10455,7 @@ views.b1tv.ro
 .0f461325bf56c3e1b9.com
 .0f4l.xyz
 .0f659ec191.com
+.0f6f763bf7.com
 .0fd94232df.com
 .0fmm.com
 .0gw7e6s3wrao9y3q.pro
@@ -11823,6 +11816,7 @@ views.b1tv.ro
 .888casino.com
 .888media.net
 .888promos.com
+.888x.cyou
 .888yh.xyz
 .889433.com
 .889fb4992d4e8.com
@@ -12349,6 +12343,7 @@ views.b1tv.ro
 .abnegatespitefulweep.com
 .abnegationbanquet.com
 .aboage.com
+.aboardcarr.com
 .abodealley.com
 .abolishcareful.com
 .aboluowang.com
@@ -13853,6 +13848,7 @@ views.b1tv.ro
 .ads-cloud.rovio.com
 .ads-connect.com
 .ads-de.spray.net
+.ads-delivery.b-cdn.net
 .ads-delivery.gameforge.com
 .ads-dev.pinterest.com
 .ads-dot-fbc-web-2018.uc.r.appspot.com
@@ -16931,6 +16927,7 @@ views.b1tv.ro
 .areelektrosstor.com
 .arefqpiqfjsooi.com
 .arejoysew.com
+.areliux.cc
 .arena-quantum.co.uk
 .arena.altitudeplatform.com
 .arenalitteraccommodation.com
@@ -17714,6 +17711,7 @@ views.b1tv.ro
 .ayst.love
 .ayuki.ink
 .ayunzhizuo.ltd
+.ayverwe.cn
 .aywfsjpglvhzdk.com
 .aywgucxmh.com
 .ayyfewggggfbhf.com
@@ -18433,6 +18431,7 @@ views.b1tv.ro
 .bbaannrr03.com
 .bbaannrr05.com
 .bbaannrr11.com
+.bbazhaheiv.top
 .bbcode.fr
 .bbcrgate.com
 .bbeeejafhacbigaeih.ru
@@ -19936,6 +19935,7 @@ views.b1tv.ro
 .brocardcored.com
 .broced.co
 .brocode1s.com
+.brocode3s.com
 .brodmn.com
 .broidensordini.com
 .brokagedefraud.com
@@ -21634,6 +21634,7 @@ views.b1tv.ro
 .cioco-froll.com
 .ciphuptace.com
 .cipledecline.buzz
+.ciqguphollyj.com
 .circle.am
 .circuitrestbeds.com
 .circuitsdelegende.fr
@@ -24310,6 +24311,7 @@ views.b1tv.ro
 .d7016uqa4s0lw.cloudfront.net
 .d71e6dd31a026d45.com
 .d761erxl2qywg.cloudfront.net
+.d768p7cn.cn
 .d7739252ca.com
 .d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 .d7dc491d44.com
@@ -24855,6 +24857,7 @@ views.b1tv.ro
 .deliv.lexpress.fr
 .deliver.ads2.iid.jp
 .deliver.oztam.com.au
+.delivery.akadigital.vn
 .delivery.myswitchads.com
 .delivery.senvangvn.com
 .delivery.sexyxxx.biz
@@ -26188,6 +26191,7 @@ views.b1tv.ro
 .dv7t7qyvgyrt5.cloudfront.net
 .dvaminusodin.net
 .dvanaro.ru
+.dvaxyqp.cn
 .dvc8653ec6uyk.cloudfront.net
 .dvdsm0rlx65fo.cloudfront.net
 .dvgigmhdhwtvb.com
@@ -27357,6 +27361,7 @@ views.b1tv.ro
 .esmentbrads.com
 .esmoutonsenrages.fr
 .esmystem.com
+.esnoownmw.fun
 .esoeoanl.com
 .esopertyva.shop
 .esoterik-lenormand.com
@@ -28222,6 +28227,7 @@ views.b1tv.ro
 .featwombknockout.com
 .featyn.com
 .febao.xyz
+.febnylhx.com
 .feboni.info
 .fedethezo.pro
 .fedrocou.net
@@ -28443,6 +28449,7 @@ views.b1tv.ro
 .fimserve.com
 .fin-vecto.ru
 .fin-vector.ru
+.fin.ovh
 .fin.tips
 .finad.de
 .finalid.com
@@ -31259,6 +31266,7 @@ views.b1tv.ro
 .hangfly.net
 .hangoutairbags.com
 .hangoverineffectivecorners.com
+.hangoverrapidlygreat.com
 .hanjw1988.com
 .hanldsw.cn
 .hanlinzhijia.net
@@ -31281,6 +31289,7 @@ views.b1tv.ro
 .haokan3.cn
 .haokoubei.top
 .haomaiweb.com
+.haop5wopa.icu
 .haosdhc.cn
 .haosesaozi.com
 .haoweb.top
@@ -31473,6 +31482,7 @@ views.b1tv.ro
 .headerbiddr.net
 .headerlift.com
 .headerporkfloral.com
+.headlightbailey.com
 .headlinemoment.com
 .headlinesnetwork.com
 .headscamelstooped.com
@@ -32290,6 +32300,7 @@ views.b1tv.ro
 .hqpass.com
 .hqpuoxdtbqpdygf.com
 .hqrsuxsjqycv.info
+.hqscene.com
 .hqtlw.cn
 .hqtrnoqfvqao.xyz
 .hqwlm.com
@@ -32328,6 +32339,7 @@ views.b1tv.ro
 .hsn.uqhv.net
 .hsnsdqd.cn
 .hsoub.com
+.hspjthms.com
 .hspstudio.club
 .hsrvv.com
 .hssapp.shop
@@ -32730,6 +32742,7 @@ views.b1tv.ro
 .ic-live.com
 .iccee.com
 .iccompanzens.fun
+.iccorm.com
 .icdazoy.cn
 .icdecidents.biz
 .icdirect.com
@@ -32917,6 +32930,7 @@ views.b1tv.ro
 .iijls.com
 .iipbuas.cn
 .iiprpq1bsedg.com
+.iiroz.xyz
 .iirpvchv.cn
 .iiueuenutuhaf.com
 .iiutq.xyz
@@ -34497,6 +34511,7 @@ views.b1tv.ro
 .jmulab.cn
 .jmvisuals.com
 .jmvxdkguyv.com
+.jmwant.co
 .jmxpgmmbbnvfxr.xyz
 .jmypaxioemnf.com
 .jmypdkzixne.com
@@ -37932,6 +37947,7 @@ views.b1tv.ro
 .magyarokvagyunk.com
 .mahao.xyz
 .mahaphanin.ru
+.mahdicrofter.com
 .mahidevrat.com
 .mahimeta.com
 .maholinoticed.com
@@ -40278,6 +40294,7 @@ views.b1tv.ro
 .n156adserv.com
 .n161adserv.com
 .n19.biz
+.n1hf.cn
 .n1internet.com
 .n1up.fr
 .n258.cc
@@ -41134,6 +41151,7 @@ views.b1tv.ro
 .nolrougn.com
 .nomalleadzuaff.com
 .nomcyk.cn
+.nomeuspagrus.com
 .nominalexperimentdaybreak.com
 .nominalpowerlessunable.com
 .nomorepecans.com
@@ -41149,6 +41167,7 @@ views.b1tv.ro
 .nonfictionrobustchastise.com
 .nongchanlianhe.top
 .nongfumg.com
+.nongjih.cn
 .nongsonx.uno
 .nongzhifu.cn
 .nonotro.name
@@ -41727,6 +41746,7 @@ views.b1tv.ro
 .ob3o3r7.cn
 .obahet.com
 .obashwmzrfofi.com
+.obazhaheik.top
 .obb.domohoziaka.ru
 .obcimuoahijkdy.xyz
 .obctooauvzjo.com
@@ -42300,6 +42320,7 @@ views.b1tv.ro
 .onlycart.net
 .onlyjugpub.com
 .onlymega.com
+.onlyry.net
 .onlytoday.biz
 .onmarketer.net
 .onmarshtompor.com
@@ -43413,6 +43434,7 @@ views.b1tv.ro
 .pdtqjd.cn
 .pdvacde.com
 .pdxgfnnoan.com
+.pdxubxc.cn
 .pe.5.p2l.info
 .peaceablefitsfamily.com
 .peacebanana.com
@@ -45227,6 +45249,7 @@ views.b1tv.ro
 .psorias.atspace.com
 .psossoot.com
 .psougrie.com
+.psoukesh.com
 .psoumtou.net
 .psozoult.net
 .psozyhotho.pro
@@ -45826,6 +45849,7 @@ views.b1tv.ro
 .qfvedpldkde.com
 .qfxdvti.cn
 .qfzcwlvmhjgjmi.com
+.qg9z.cn
 .qgamsa.com
 .qgbtd.com
 .qgdvyvd.cn
@@ -45843,6 +45867,7 @@ views.b1tv.ro
 .qhlmb.com
 .qhnwj.com
 .qhonzpl.cn
+.qhovrbepxmunqy.com
 .qhqofqeivtno.com
 .qhrixol.cn
 .qhsihvjmut.com
@@ -45882,6 +45907,7 @@ views.b1tv.ro
 .qingtian.love
 .qingyanmjg.com
 .qinhang.pro
+.qinlingshui.com
 .qinlu.ink
 .qinmon.xyz
 .qinongyouxuan.cn
@@ -46584,6 +46610,7 @@ views.b1tv.ro
 .realytics.io
 .realytics.net
 .realzeit.io
+.reapinject.com
 .rearcocoa.com
 .rearedimmortal.com
 .reariikosin.com
@@ -48254,6 +48281,7 @@ views.b1tv.ro
 .saletrack.co.uk
 .saletrybest.su
 .salinasbhut.com
+.salleyte.top
 .sallyfundamental.com
 .salmonads.com
 .salsify-ecdn.com
@@ -48448,6 +48476,7 @@ views.b1tv.ro
 .scarcestream.com
 .scardetect.cn
 .scaredsnake.com
+.scarl.shop
 .scarlet-clicks.info
 .scarletcashwi5.com
 .scarofnght.com
@@ -48574,6 +48603,7 @@ views.b1tv.ro
 .scwharzkopf.fr
 .scythesandwiches.com
 .sd.5.p2l.info
+.sd1f.top
 .sd5doozry8.com
 .sda.seesaa.jp
 .sda.tamdiem247.com
@@ -49272,6 +49302,7 @@ views.b1tv.ro
 .shinystat.shiny.it
 .shiokambing2.com
 .shionmanc.club
+.shipostrich.com
 .shippinginsights.com
 .shiruru.cn
 .shiryharu.pro
@@ -49338,6 +49369,7 @@ views.b1tv.ro
 .shopusuallyvirtue.com
 .shopworld.info
 .shopzyapp.com
+.shorantonto.com
 .shoreexi.net
 .shoresmmrnews.com
 .short-share.com
@@ -52305,6 +52337,7 @@ views.b1tv.ro
 .tdstats.com
 .tdtxjhel.com
 .tdtxkvj.cn
+.tdugvspdnq.com
 .te.about.com
 .te.adlandpro.com
 .te.advance.net
@@ -53264,6 +53297,7 @@ views.b1tv.ro
 .tomog.pro
 .tomonline-inc.com
 .tomorrownewstoday.com
+.tomponcainite.com
 .tomqcaljnjvge.com
 .tomrigdabih.com
 .tomsonguitars.co.uk
@@ -55559,6 +55593,7 @@ views.b1tv.ro
 .valtrex.3.p2l.info
 .valtrex.4.p2l.info
 .valtrex.7h.com
+.valuabletuskbadge.com
 .valuad.cloud
 .valuead.com
 .valueclick.com
@@ -56629,6 +56664,7 @@ views.b1tv.ro
 .vzovmzc.cn
 .vzrufh.com
 .vztfc.com
+.vztkmhf.cn
 .vzyuphrmanfbks.com
 .w-chat.xf.cz
 .w-m-w.net
@@ -57812,6 +57848,7 @@ views.b1tv.ro
 .worsterring.com
 .worthathousandwords.com
 .worthersefim.club
+.worthless-living.pro
 .worthlessscowledexactly.com
 .worthylighteravert.com
 .woryuc.com
@@ -57847,6 +57884,7 @@ views.b1tv.ro
 .wpad.farm
 .wpadmngr.com
 .wpdstat.com
+.wpercent.qwertyuadf.com
 .wpfc.ml
 .wpfukdvchi.com
 .wpib0jr.cn
@@ -59652,6 +59690,7 @@ views.b1tv.ro
 .ym-a.cc
 .ym8p.net
 .ymail-activate1.bugs3.com
+.ymdxl.com
 .ymdxxkj.icu
 .ymetrica.com
 .ymetrica1.com
@@ -74002,7 +74041,6 @@ views.b1tv.ro
 .a.4csh.net
 .a.6vids.space
 .a.77shw.com
-.a.888x.cyou
 .a.abismo-katheryne.top
 .a.ac.qq.com
 .a.acxiom.com
@@ -74968,7 +75006,6 @@ views.b1tv.ro
 .ads-api.twitter.com
 .ads-b-480313385.us-west-1.elb.amazonaws.com
 .ads-c-1854119718.us-west-1.elb.amazonaws.com
-.ads-delivery.b-cdn.net
 .ads-go.adroi.com.cn
 .ads-img-qc.xhscdn.com
 .ads-lfi3olnec7fr.stackpathdns.com
@@ -75439,6 +75476,7 @@ views.b1tv.ro
 .ak.dxsvr.com
 .akane-ad.com
 .akpiug.rarecarat.com
+.aksfrxd.cn
 .akstat.io.edgekey.net
 .aktion.esprit-club.com
 .akubebas.com
@@ -75502,6 +75540,7 @@ views.b1tv.ro
 .alskd34.com
 .also.greatsecuritydebate.net
 .altrooz.com
+.alwys.net
 .am0624.com
 .am2lma0ay.xrpmerchstore.com
 .ama.planet-wissen.de
@@ -76513,7 +76552,6 @@ views.b1tv.ro
 .byvue.com
 .byxcbk.ipekevi.com
 .bza.co
-.bzcdn.fin.ovh
 .bzcjy.cn
 .bzcuta.titleboxing.com
 .bzotoin.pics
@@ -76768,7 +76806,6 @@ views.b1tv.ro
 .cdn.pyadx.com
 .cdn.qform24.com
 .cdn.reamaze.com
-.cdn.rebuyengine.com
 .cdn.split.io
 .cdn.surroundtm.com
 .cdn.swellrewards.com
@@ -77372,6 +77409,7 @@ views.b1tv.ro
 .cookihq.com
 .cool.ah-me.com
 .cool18.ga
+.coolmethod2theupdates.life
 .coolppa.cn
 .cooltui.com
 .coolyi.com
@@ -77627,7 +77665,6 @@ views.b1tv.ro
 .d3oltyb66oj2v8.cloudfront.net
 .d3pkae9owd2lcf.cloudfront.net
 .d5k6iufjynyu8.cloudfront.net
-.d768p7cn.cn
 .d8rk54i4mohrb.cloudfront.net
 .d9ad.com
 .d9etzk30b05yg.cloudfront.net
@@ -78197,6 +78234,7 @@ views.b1tv.ro
 .drau.viessmann.si
 .drawpad.org
 .dreamine.com
+.drkness.net
 .dronml.ml
 .dropssurgery.com
 .drrykr.com
@@ -78241,7 +78279,6 @@ views.b1tv.ro
 .duomilm.com
 .duoroumao.cn
 .duote.com
-.dvaxyqp.cn
 .dvgtm.akadns.net
 .dvhcob.jtrip.co.jp
 .dvkbfj.cn
@@ -78802,7 +78839,6 @@ views.b1tv.ro
 .escobar.pr0gramm.com
 .escortso.com
 .eshkol.io
-.esnoownmw.fun
 .esqjac.costakreuzfahrten.de
 .essdhn.makuake.com
 .esterlonder.com
@@ -79630,6 +79666,7 @@ views.b1tv.ro
 .gw100-10.com
 .gwapplication-legacying.net.zooplus.de
 .gwguyh.edreams.es
+.gx2f.top
 .gxbrowser.net
 .gxcaxz.cresus.fr
 .gxdmxx.com
@@ -79680,7 +79717,6 @@ views.b1tv.ro
 .hanaa.cn
 .handll.com
 .handycam.alicdn.com
-.hangoverrapidlygreat.com
 .hanhooo.cn
 .hanyingmall.cn
 .hao1.loxue.com
@@ -83160,6 +83196,7 @@ views.b1tv.ro
 .oncahh.boxlunch.com
 .onclickclear.com
 .one-workspace.matrix42.com
+.oneclck.net
 .onecollector.cloudapp.aria.akadns.net
 .onelink.me
 .onelnk.com
@@ -84315,12 +84352,12 @@ views.b1tv.ro
 .reader.sh.vip.qq.com
 .readrboard.com
 .real-user-monitoring.a.autoscout24.com
+.realfinanceblogcenter.com
 .realitycash.com
 .reallypab.com
 .realpush.media
 .realpush.network
 .realtime.clinch.co
-.reapinject.com
 .rear9axis.com
 .reasedoper.pw
 .recommend.union.39.net
@@ -85185,7 +85222,6 @@ views.b1tv.ro
 .shoo5woop.com
 .shop.kicker.de
 .shopeasy.by
-.shorantonto.com
 .short-video.kakamobi.cn
 .shortpixel.ai
 .shouji360.org
@@ -85298,6 +85334,7 @@ views.b1tv.ro
 .slimsk.pro
 .sljkj.com
 .sloth.pricingforhackers.com
+.slowdn.net
 .slryca.meyou.jp
 .sltint.adv.ott.cibntv.net
 .slut2fuck.net
@@ -88020,6 +88057,7 @@ views.b1tv.ro
 .ucweb.com
 .udiab2.jianshu.com
 .udjfnbl.zwdu.com
+.udpztkb.cn
 .udr26c.cn
 .udsgty.alkosto.com
 .udzsg.premiata.it
@@ -88820,6 +88858,7 @@ views.b1tv.ro
 .wsds.cn
 .wsgwc.com
 .wsicmo.bogsfootwear.com.au
+.wsnoownme.fun
 .wsuqzu.armani.com
 .wt.generalihealthsolutions.de
 .wtaphf.descomplica.com.br
@@ -88972,7 +89011,6 @@ views.b1tv.ro
 .x.niuliyan.cn
 .x.ojgoy.cn
 .x.pluso.ru
-.x1cdn.fin.ovh
 .x1ka.cn
 .x57772.com
 .x8ad.com
@@ -89257,7 +89295,6 @@ views.b1tv.ro
 .yly.hywly.com
 .ym193.com
 .ymcvxo.check24.de
-.ymdxl.com
 .ymixqb.nationalgeographic.com
 .ymjnws.billigvvs.dk
 .ymph.y8u975.cn
