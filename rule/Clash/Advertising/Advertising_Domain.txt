@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-29 02:37:15
-# DOMAIN: 14155
+# UPDATED: 2022-09-30 02:35:08
+# DOMAIN: 14154
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 77043
+# DOMAIN-SUFFIX: 77078
 # IP-CIDR: 241
-# TOTAL: 91516
+# TOTAL: 91550
 ad.xy2013.cn
 ads.play.cbsi.video
 ads.reembed.com
@@ -10546,7 +10546,6 @@ slavial.pro
 sleeknoteboxcontent.sleeknote.com
 sletqnksol.com
 slfjsqnmp.com
-slgynezaygkjqi.com
 slickdeals.meritline.com
 slidedeck.com
 slightlyoffcenter.net
@@ -15218,6 +15217,7 @@ opencloud.wostore.cn
 .62a543e684a50.com
 .62b70ac32d4614b.com
 .62eeca06166.com
+.62kjjhg.com
 .62wm.com
 .6374870abd.com
 .6399tp.com
@@ -19827,6 +19827,7 @@ opencloud.wostore.cn
 .akqrt.cn
 .aksb-a.akamaihd.net
 .aksessuarov.ru
+.aksfrxd.cn
 .akspecuaa.xyz
 .akstat.com
 .akstat.io
@@ -20082,6 +20083,7 @@ opencloud.wostore.cn
 .alwonroad.club
 .alwsaz.com
 .alwsbnvialll.com
+.alwys.net
 .alxbgo.com
 .alxsite.com
 .alypremistand.xyz
@@ -23615,6 +23617,7 @@ opencloud.wostore.cn
 .bngwlt.com
 .bnhtml.com
 .bnkpgjw.cn
+.bnlg.fun
 .bnlif.com
 .bnmjjwinf292.com
 .bnmla.com
@@ -24313,6 +24316,7 @@ opencloud.wostore.cn
 .buspar.1.p2l.info
 .buspirone.1.p2l.info
 .bussaidbag.casa
+.bust3koop.cyou
 .busterzaster.de
 .bustimer.net
 .bustlemiszone.com
@@ -24975,6 +24979,7 @@ opencloud.wostore.cn
 .casualstat.com
 .cat.onlinepeople.net
 .catalpaaxillae.com
+.cataractoutputprogramming.com
 .cataractsallydeserves.com
 .catastropheillusive.com
 .catastrophetray.com
@@ -27795,6 +27800,7 @@ opencloud.wostore.cn
 .cwi.re
 .cwkuki.com
 .cwphgqu.cn
+.cwqljsecvr.com
 .cwt.citywire.info
 .cwyxyw.com
 .cx0001.cn
@@ -28439,6 +28445,7 @@ opencloud.wostore.cn
 .d3qxwzhswv93jk.cloudfront.net
 .d3qztsm17pgxue.cloudfront.net
 .d3r7h55ola878c.cloudfront.net
+.d3rb9wasp2y8gw.cloudfront.net
 .d3rhktq8uy839j.cloudfront.net
 .d3rjndf2qggsna.cloudfront.net
 .d3rp5jatom3eyn.cloudfront.net
@@ -28907,6 +28914,7 @@ opencloud.wostore.cn
 .deals.macupdate.com
 .dealsfor.life
 .dealspure.com
+.dealtbroodconstitutional.com
 .dealtsowbite.com
 .dearerfonder.info
 .dearestimmortality.com
@@ -29706,6 +29714,7 @@ opencloud.wostore.cn
 .dkjdnq.cn
 .dkjrvgfozzhc.com
 .dkksrclpfqmmtp.com
+.dkkypggviv.com
 .dkm6b5q0h53z4.cloudfront.net
 .dkre4lyk6a9bt.cloudfront.net
 .dkrvagvsqwcx.com
@@ -30174,6 +30183,7 @@ opencloud.wostore.cn
 .drivenetwork.ru
 .drivingschoolburlington.ca
 .drkkydnkdvfosd.xyz
+.drkness.net
 .drldgfscmjgim.com
 .drlimmode9ddd.cloudfront.net
 .drlphsvpybieyie.xyz
@@ -31261,6 +31271,7 @@ opencloud.wostore.cn
 .enennsa.gushiwen.cn
 .enerableoffi.club
 .energeticholder.com
+.eneverals.biz
 .enews10.yxlady.net
 .enflaquat.xyz
 .enfreine.com
@@ -35323,6 +35334,7 @@ opencloud.wostore.cn
 .gwxpv.com
 .gwzqbnh.cn
 .gx101.com
+.gx2f.top
 .gxdianhua.com
 .gxdthwdtcfo.xyz
 .gxhc.ink
@@ -35625,6 +35637,7 @@ opencloud.wostore.cn
 .hats-47b.com
 .hatsadamantpushed.com
 .hatsampledc.com
+.hatsheisaco.xyz
 .hatter-story.info
 .haubar.com
 .haughtydropszoology.com
@@ -36654,6 +36667,7 @@ opencloud.wostore.cn
 .htxourpo.com
 .htyfmm.com
 .hu4c.top
+.huadiximeng.cn
 .huaerdadi.com
 .huahuagoudc.com
 .huahuaxiji.love
@@ -38787,6 +38801,7 @@ opencloud.wostore.cn
 .jmgwh.cn
 .jmking.cn
 .jmkxinfekxa.com
+.jmmunnojlcwgsrt.com
 .jmnvxpgmcbrk.xyz
 .jmoiubqzzrsugm.com
 .jmp9.com
@@ -39195,6 +39210,7 @@ opencloud.wostore.cn
 .jwt8e5vzc1.com
 .jwtkw2w.cn
 .jwuqescfqa.xyz
+.jwuyjehlbndrkd.com
 .jwvjcr.cn
 .jwyiyqptg.com
 .jx3yixi.club
@@ -42656,6 +42672,7 @@ opencloud.wostore.cn
 .mb38.com
 .mb4a.com
 .mb57.com
+.mbazhaheix.top
 .mbctxigml.com
 .mbekbymfdxy.com
 .mbhvyihyaayh.com
@@ -46570,6 +46587,7 @@ opencloud.wostore.cn
 .one88.vn
 .one88.win
 .oneandonlynetwork.com
+.oneclck.net
 .oneday88.com
 .onedmp.com
 .onedrive-cdn.com
@@ -46737,6 +46755,7 @@ opencloud.wostore.cn
 .ooxxsearch.com
 .ooykew.cn
 .oozyunmix.com
+.op00.biz
 .op01.biz
 .op02.biz
 .op7s.top
@@ -48736,6 +48755,7 @@ opencloud.wostore.cn
 .politicianskypart.com
 .politiquemania.fr
 .politota.ru
+.polkmnhytgb.com
 .polldenunciationdeveloping.com
 .pollet-rauen.de
 .pollpublicly.com
@@ -50733,6 +50753,7 @@ opencloud.wostore.cn
 .rageagainstthesoap.com
 .raggedselsyn.com
 .raglogripsa.com
+.ragmenteasygoingmass.com
 .raigebro.xyz
 .raigluce.net
 .railcowboy.com
@@ -51509,6 +51530,7 @@ opencloud.wostore.cn
 .reservationszone.com
 .reservehearingmissing.com
 .resetdigital.co
+.resetmascara.com
 .resetoccultkeeper.com
 .reshin.de
 .residebroadly.com
@@ -51566,6 +51588,7 @@ opencloud.wostore.cn
 .resumersvo.fun
 .resupposer.club
 .resurnommions.xyz
+.reswsentativ.xyz
 .retaea.com
 .retag.xyz
 .retagapp.com
@@ -53975,6 +53998,7 @@ opencloud.wostore.cn
 .simaoer.com
 .simastudio.cn
 .simility.com
+.similm.me
 .similt.com
 .simonsignal.com
 .simoolkankrej.com
@@ -54231,6 +54255,7 @@ opencloud.wostore.cn
 .slfsmf.com
 .slgioxv.cn
 .slgo.club
+.slgynezaygkjqi.com
 .slhgfdsir.com
 .slhk23.0101host.com
 .slhoisgdhs.com
@@ -54289,6 +54314,7 @@ opencloud.wostore.cn
 .sloto.live
 .sloughybucayo.com
 .slovakslarree.com
+.slowdn.net
 .slowerwave.cyou
 .slowih.com
 .slowinghardboiled.com
@@ -59419,6 +59445,7 @@ opencloud.wostore.cn
 .udmserve.net
 .udncoeln.com
 .udookrou.com
+.udpztkb.cn
 .udraokrou.com
 .udsagemylyqkrew.com
 .udwjjxnexs.xyz
@@ -59920,6 +59947,7 @@ opencloud.wostore.cn
 .upxip.xyz
 .uq7c.top
 .uqakkye.cn
+.uqaqmc.cn
 .uqbeohoajdqvcfe.xyz
 .uqbmzwv.cn
 .uqd.io
@@ -62704,6 +62732,7 @@ opencloud.wostore.cn
 .wsidfmckbwmlwao.xyz
 .wsjlbbqemr23.com
 .wslits.cn
+.wsnoownme.fun
 .wsod.com
 .wstat.ozon.ru
 .wstatslive.com
@@ -63573,6 +63602,7 @@ opencloud.wostore.cn
 .xfrena.com
 .xfvbs.cn
 .xg084mgkfsfk.com
+.xg2car.co
 .xg2o402yyy.ru
 .xg4ken.com
 .xgckudv.cn
@@ -63646,6 +63676,7 @@ opencloud.wostore.cn
 .xiaozhige.xyz
 .xiatian.buzz
 .xibadupty.com
+.xibqq.xyz
 .xidx.org
 .xiepl.com
 .xiezhong.club
@@ -63723,6 +63754,7 @@ opencloud.wostore.cn
 .xjpnycwqr.com
 .xjqxrpwlfg.com
 .xjsq.xyz
+.xjwrq.com
 .xjzcbddnj.com
 .xk3b.top
 .xkd.hk
@@ -63885,6 +63917,7 @@ opencloud.wostore.cn
 .xref.io
 .xrfabakydcwngov.xyz
 .xrgrymutlq.com
+.xrn8.xyz
 .xroqbkk.cn
 .xroynaxvqvouy.com
 .xryecggeczcvpk.com
@@ -65128,6 +65161,7 @@ opencloud.wostore.cn
 .zgfushi.mobi
 .zghowanhgcxbpf.com
 .zglecc.com
+.zglzkg.com
 .zgmtw.mobi
 .zgnz020.mobi
 .zgnzhymh.mobi

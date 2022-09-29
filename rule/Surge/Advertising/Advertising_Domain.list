@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-29 02:37:12
+# UPDATED: 2022-09-30 02:35:06
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
-# DOMAIN: 14155
+# DOMAIN: 14154
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 77043
+# DOMAIN-SUFFIX: 77078
 # IP-CIDR: 241
 # URL-REGEX: 301
-# TOTAL: 91818
+# TOTAL: 91852
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -10548,7 +10548,6 @@ slavial.pro
 sleeknoteboxcontent.sleeknote.com
 sletqnksol.com
 slfjsqnmp.com
-slgynezaygkjqi.com
 slickdeals.meritline.com
 slidedeck.com
 slightlyoffcenter.net
@@ -15895,6 +15894,7 @@ zzxosget.com
 .62a543e684a50.com
 .62b70ac32d4614b.com
 .62eeca06166.com
+.62kjjhg.com
 .62wm.com
 .634lj7p7g3lv.unstoppabledomains.com
 .6374870abd.com
@@ -22777,6 +22777,7 @@ zzxosget.com
 .akrwi.cn
 .aksb-a.akamaihd.net
 .aksessuarov.ru
+.aksfrxd.cn
 .akspecuaa.xyz
 .akstat.com
 .akstat.io
@@ -23103,6 +23104,7 @@ zzxosget.com
 .alwonroad.club
 .alwsaz.com
 .alwsbnvialll.com
+.alwys.net
 .alxbgo.com
 .alxsite.com
 .alypremistand.xyz
@@ -28125,6 +28127,7 @@ zzxosget.com
 .bnhtml.com
 .bninc2.cn
 .bnkpgjw.cn
+.bnlg.fun
 .bnlif.com
 .bnmjjwinf292.com
 .bnmla.com
@@ -29044,6 +29047,7 @@ zzxosget.com
 .buspirone.1.p2l.info
 .busrol.st-eustachenissan.com
 .bussaidbag.casa
+.bust3koop.cyou
 .busterzaster.de
 .bustimer.net
 .bustlemiszone.com
@@ -29968,6 +29972,7 @@ zzxosget.com
 .catalog.video.msn.com
 .catalogdiscovery.com
 .catalpaaxillae.com
+.cataractoutputprogramming.com
 .cataractsallydeserves.com
 .catastropheillusive.com
 .catastrophetray.com
@@ -34071,6 +34076,7 @@ zzxosget.com
 .cwmlm.com
 .cwphgqu.cn
 .cwpush.com
+.cwqljsecvr.com
 .cwt.citywire.info
 .cwx.lianwangtech.com
 .cwyxyw.com
@@ -34818,6 +34824,7 @@ zzxosget.com
 .d3qxwzhswv93jk.cloudfront.net
 .d3qztsm17pgxue.cloudfront.net
 .d3r7h55ola878c.cloudfront.net
+.d3rb9wasp2y8gw.cloudfront.net
 .d3rhktq8uy839j.cloudfront.net
 .d3rjndf2qggsna.cloudfront.net
 .d3rp5jatom3eyn.cloudfront.net
@@ -35591,6 +35598,7 @@ zzxosget.com
 .deals.macupdate.com
 .dealsfor.life
 .dealspure.com
+.dealtbroodconstitutional.com
 .dealtsowbite.com
 .dearerfonder.info
 .dearestimmortality.com
@@ -36628,6 +36636,7 @@ zzxosget.com
 .dkjdnq.cn
 .dkjrvgfozzhc.com
 .dkksrclpfqmmtp.com
+.dkkypggviv.com
 .dkm6b5q0h53z4.cloudfront.net
 .dkmnn.top
 .dko.vente-unique.nl
@@ -37344,6 +37353,7 @@ zzxosget.com
 .drivingschoolburlington.ca
 .drjgjngf.com
 .drkkydnkdvfosd.xyz
+.drkness.net
 .drldgfscmjgim.com
 .drlimmode9ddd.cloudfront.net
 .drlphsvpybieyie.xyz
@@ -39173,6 +39183,7 @@ zzxosget.com
 .energeticholder.com
 .energeticladybug.com
 .energy.eneco.be
+.eneverals.biz
 .enews.learninga-z.com
 .enews10.yxlady.net
 .enflaquat.xyz
@@ -44952,6 +44963,7 @@ zzxosget.com
 .gwzqbnh.cn
 .gx.idg.se
 .gx101.com
+.gx2f.top
 .gx38.cn
 .gxdhgb.com
 .gxdianhua.com
@@ -45399,6 +45411,7 @@ zzxosget.com
 .hats.haibao.cn
 .hatsadamantpushed.com
 .hatsampledc.com
+.hatsheisaco.xyz
 .hatter-story.info
 .haubar.com
 .haughtydropszoology.com
@@ -46790,6 +46803,7 @@ zzxosget.com
 .hu.sharpmarketing.eu
 .hu.xbhy.com
 .hu4c.top
+.huadiximeng.cn
 .huaerdadi.com
 .huaerduo.com
 .huahuagoudc.com
@@ -50135,6 +50149,7 @@ zzxosget.com
 .jmgwh.cn
 .jmking.cn
 .jmkxinfekxa.com
+.jmmunnojlcwgsrt.com
 .jmnvxpgmcbrk.xyz
 .jmoiubqzzrsugm.com
 .jmonitor.jiuzhilan.com
@@ -50727,6 +50742,7 @@ zzxosget.com
 .jwt8e5vzc1.com
 .jwtkw2w.cn
 .jwuqescfqa.xyz
+.jwuyjehlbndrkd.com
 .jwvjcr.cn
 .jwyiyqptg.com
 .jwz.3conline.com
@@ -56037,6 +56053,7 @@ zzxosget.com
 .mb57.com
 .mbai.cn
 .mbaik.com
+.mbazhaheix.top
 .mbctxigml.com
 .mbd.weathercn.com
 .mbdlog.iqiyi.com
@@ -61722,6 +61739,7 @@ zzxosget.com
 .one88.win
 .oneandonlynetwork.com
 .oneapm.com
+.oneclck.net
 .oneday88.com
 .onedmp.com
 .onedrive-cdn.com
@@ -61920,6 +61938,7 @@ zzxosget.com
 .oozgka.immoscout24.ch
 .oozyunmix.com
 .op-drive-sto.carrefour.fr
+.op00.biz
 .op01.biz
 .op02.biz
 .op7s.top
@@ -64794,6 +64813,7 @@ zzxosget.com
 .politicianskypart.com
 .politiquemania.fr
 .politota.ru
+.polkmnhytgb.com
 .polkoa.com
 .polldenunciationdeveloping.com
 .pollet-rauen.de
@@ -67457,6 +67477,7 @@ zzxosget.com
 .rageagainstthesoap.com
 .raggedselsyn.com
 .raglogripsa.com
+.ragmenteasygoingmass.com
 .raigebro.xyz
 .raigluce.net
 .railcowboy.com
@@ -68428,6 +68449,7 @@ zzxosget.com
 .reservehearingmissing.com
 .resetdigital.co
 .resetgey.com
+.resetmascara.com
 .resetoccultkeeper.com
 .reshin.de
 .residebroadly.com
@@ -68515,6 +68537,7 @@ zzxosget.com
 .resumersvo.fun
 .resupposer.club
 .resurnommions.xyz
+.reswsentativ.xyz
 .retaea.com
 .retag.xyz
 .retagapp.com
@@ -72072,6 +72095,7 @@ zzxosget.com
 .simg.yemeksepeti.com
 .similarweb.com
 .simility.com
+.similm.me
 .similt.com
 .simon184.cn
 .simonsignal.com
@@ -72404,6 +72428,7 @@ zzxosget.com
 .slfsmf.com
 .slgioxv.cn
 .slgo.club
+.slgynezaygkjqi.com
 .slhgfdsir.com
 .slhk23.0101host.com
 .slhoisgdhs.com
@@ -72475,6 +72500,7 @@ zzxosget.com
 .sloto.live
 .sloughybucayo.com
 .slovakslarree.com
+.slowdn.net
 .slowerwave.cyou
 .slowih.com
 .slowinghardboiled.com
@@ -82309,6 +82335,7 @@ zzxosget.com
 .udookrou.com
 .udorik.com
 .udpolimenew.baidu.com
+.udpztkb.cn
 .udr9.livera.nl
 .udraokrou.com
 .udrig.com
@@ -82989,6 +83016,7 @@ zzxosget.com
 .upz1.destinia.lt
 .uq7c.top
 .uqakkye.cn
+.uqaqmc.cn
 .uqbeohoajdqvcfe.xyz
 .uqbmzwv.cn
 .uqd.io
@@ -86695,6 +86723,7 @@ zzxosget.com
 .wsjlbbqemr23.com
 .wslits.cn
 .wsmcdn.audioeye.com
+.wsnoownme.fun
 .wsod.com
 .wsoue.com
 .wspeed.qq.com
@@ -88124,6 +88153,7 @@ zzxosget.com
 .xfywn.com
 .xfzcds.netprint.ru
 .xg084mgkfsfk.com
+.xg2car.co
 .xg2o402yyy.ru
 .xg4ken.com
 .xgckudv.cn
@@ -88242,6 +88272,7 @@ zzxosget.com
 .xibadupty.com
 .xibao100.com
 .xibei70.com
+.xibqq.xyz
 .xidexableact.cn
 .xidx.org
 .xiepl.com
@@ -88362,6 +88393,7 @@ zzxosget.com
 .xjqxrpwlfg.com
 .xjsq.xyz
 .xjtxcj.com
+.xjwrq.com
 .xjzcbddnj.com
 .xjzxrn.sugarfreeshops.com
 .xjzyq.com
@@ -88620,6 +88652,7 @@ zzxosget.com
 .xref.io
 .xrfabakydcwngov.xyz
 .xrgrymutlq.com
+.xrn8.xyz
 .xroqbkk.cn
 .xroun.com
 .xroynaxvqvouy.com
@@ -90454,6 +90487,7 @@ zzxosget.com
 .zgksb.com
 .zgktxx.com
 .zglecc.com
+.zglzkg.com
 .zgmtw.mobi
 .zgncpjyw.cn
 .zgnz020.mobi
