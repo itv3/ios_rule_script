@@ -1,11 +1,11 @@
 # NAME: ChinaIPs
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-30 02:37:06
+# UPDATED: 2022-10-01 02:36:08
 # IP-ASN: 932
-# IP-CIDR: 6282
-# IP-CIDR6: 4289
-# TOTAL: 11503
+# IP-CIDR: 6283
+# IP-CIDR6: 4291
+# TOTAL: 11506
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
 IP-CIDR,1.0.32.0/19,no-resolve
@@ -170,7 +170,8 @@ IP-CIDR,103.100.64.0/22,no-resolve
 IP-CIDR,103.100.88.0/22,no-resolve
 IP-CIDR,103.101.121.0/24,no-resolve
 IP-CIDR,103.101.122.0/23,no-resolve
-IP-CIDR,103.101.124.0/22,no-resolve
+IP-CIDR,103.101.124.0/24,no-resolve
+IP-CIDR,103.101.126.0/23,no-resolve
 IP-CIDR,103.101.144.0/21,no-resolve
 IP-CIDR,103.101.180.0/22,no-resolve
 IP-CIDR,103.101.184.0/22,no-resolve
@@ -680,6 +681,7 @@ IP-CIDR,103.19.232.0/22,no-resolve
 IP-CIDR,103.19.40.0/21,no-resolve
 IP-CIDR,103.19.64.0/21,no-resolve
 IP-CIDR,103.19.72.0/22,no-resolve
+IP-CIDR,103.190.122.0/23,no-resolve
 IP-CIDR,103.192.0.0/19,no-resolve
 IP-CIDR,103.192.112.0/22,no-resolve
 IP-CIDR,103.192.128.0/20,no-resolve
@@ -4039,8 +4041,7 @@ IP-CIDR,203.119.128.0/17,no-resolve
 IP-CIDR,203.119.24.0/22,no-resolve
 IP-CIDR,203.119.28.0/23,no-resolve
 IP-CIDR,203.119.30.0/24,no-resolve
-IP-CIDR,203.119.32.0/24,no-resolve
-IP-CIDR,203.119.34.0/23,no-resolve
+IP-CIDR,203.119.32.0/22,no-resolve
 IP-CIDR,203.119.80.0/22,no-resolve
 IP-CIDR,203.119.85.0/24,no-resolve
 IP-CIDR,203.12.100.0/23,no-resolve
@@ -6236,7 +6237,7 @@ IP-CIDR,67.198.174.0/24,no-resolve
 IP-CIDR,67.198.177.0/24,no-resolve
 IP-CIDR,67.198.179.0/24,no-resolve
 IP-CIDR,67.198.184.0/23,no-resolve
-IP-CIDR,67.198.189.0/24,no-resolve
+IP-CIDR,67.198.188.0/24,no-resolve
 IP-CIDR,67.198.192.0/23,no-resolve
 IP-CIDR,67.198.195.0/24,no-resolve
 IP-CIDR,67.198.199.0/24,no-resolve
@@ -6301,6 +6302,7 @@ IP-CIDR6,2001:470:f823::/48,no-resolve
 IP-CIDR6,2001:470:f840::/48,no-resolve
 IP-CIDR6,2001:470:f846::/48,no-resolve
 IP-CIDR6,2001:500:15:3200::/56,no-resolve
+IP-CIDR6,2001:67c:2964::/48,no-resolve
 IP-CIDR6,2001:7fa:10::/48,no-resolve
 IP-CIDR6,2001:7fa:5::/48,no-resolve
 IP-CIDR6,2001:c68::/32,no-resolve
@@ -6316,6 +6318,7 @@ IP-CIDR6,2001:df0:1bc0::/48,no-resolve
 IP-CIDR6,2001:df0:2180::/48,no-resolve
 IP-CIDR6,2001:df0:25c0::/48,no-resolve
 IP-CIDR6,2001:df0:26c0::/48,no-resolve
+IP-CIDR6,2001:df0:27e::/48,no-resolve
 IP-CIDR6,2001:df0:2d80::/48,no-resolve
 IP-CIDR6,2001:df0:2e00::/48,no-resolve
 IP-CIDR6,2001:df0:2e80::/48,no-resolve

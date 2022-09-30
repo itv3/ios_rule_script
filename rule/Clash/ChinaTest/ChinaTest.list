@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-30 02:36:45
+# UPDATED: 2022-10-01 02:35:48
 # DOMAIN: 87
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66337
+# DOMAIN-SUFFIX: 66341
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 66448
+# TOTAL: 66452
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdp.cloud.unity3d.com
@@ -4473,6 +4473,7 @@ DOMAIN-SUFFIX,51chuguo.org
 DOMAIN-SUFFIX,51chuli.com
 DOMAIN-SUFFIX,51cir.com
 DOMAIN-SUFFIX,51cjyy.com
+DOMAIN-SUFFIX,51cocoa.com
 DOMAIN-SUFFIX,51code.com
 DOMAIN-SUFFIX,51cok.com
 DOMAIN-SUFFIX,51comp.com
@@ -50911,6 +50912,7 @@ DOMAIN-SUFFIX,swiftmi.com
 DOMAIN-SUFFIX,swiftstar.net
 DOMAIN-SUFFIX,swijoy.com
 DOMAIN-SUFFIX,switchvip.com
+DOMAIN-SUFFIX,switchxiazai.com
 DOMAIN-SUFFIX,swjoy.com
 DOMAIN-SUFFIX,swkong.com
 DOMAIN-SUFFIX,swliuxue.com
@@ -54862,6 +54864,7 @@ DOMAIN-SUFFIX,vcloudstc.com
 DOMAIN-SUFFIX,vcloudstc.net
 DOMAIN-SUFFIX,vcloudvod.com
 DOMAIN-SUFFIX,vclusters.com
+DOMAIN-SUFFIX,vcnews.com
 DOMAIN-SUFFIX,vcode.cc
 DOMAIN-SUFFIX,vcomic.com
 DOMAIN-SUFFIX,vcomputes.com
@@ -56191,6 +56194,7 @@ DOMAIN-SUFFIX,weijinsuo.com
 DOMAIN-SUFFIX,weijiu.org
 DOMAIN-SUFFIX,weijiuxin.com
 DOMAIN-SUFFIX,weijj.com
+DOMAIN-SUFFIX,weijq.com
 DOMAIN-SUFFIX,weiju.net
 DOMAIN-SUFFIX,weijuju.com
 DOMAIN-SUFFIX,weikaowu.com

@@ -1,10 +1,10 @@
 # NAME: ChinaIPsTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-30 02:37:51
+# UPDATED: 2022-10-01 02:36:46
 # IP-ASN: 932
-# IP-CIDR: 11391
-# TOTAL: 12323
+# IP-CIDR: 11395
+# TOTAL: 12327
 IP-CIDR,1.0.1.0/24,no-resolve
 IP-CIDR,1.0.2.0/23,no-resolve
 IP-CIDR,1.0.32.0/19,no-resolve
@@ -146,7 +146,6 @@ IP-CIDR,101.96.128.0/17,no-resolve
 IP-CIDR,101.96.16.0/20,no-resolve
 IP-CIDR,101.96.8.0/22,no-resolve
 IP-CIDR,101.99.96.0/19,no-resolve
-IP-CIDR,102.129.184.0/24,no-resolve
 IP-CIDR,102.176.130.0/24,no-resolve
 IP-CIDR,103.1.168.0/22,no-resolve
 IP-CIDR,103.1.20.0/22,no-resolve
@@ -736,6 +735,7 @@ IP-CIDR,103.19.40.0/21,no-resolve
 IP-CIDR,103.19.64.0/21,no-resolve
 IP-CIDR,103.19.72.0/22,no-resolve
 IP-CIDR,103.190.118.0/24,no-resolve
+IP-CIDR,103.190.122.0/23,no-resolve
 IP-CIDR,103.190.178.0/24,no-resolve
 IP-CIDR,103.192.0.0/19,no-resolve
 IP-CIDR,103.192.112.0/22,no-resolve
@@ -2157,6 +2157,7 @@ IP-CIDR,106.80.0.0/12,no-resolve
 IP-CIDR,107.176.0.0/15,no-resolve
 IP-CIDR,107.6.231.0/24,no-resolve
 IP-CIDR,107.6.240.0/24,no-resolve
+IP-CIDR,109.206.240.0/24,no-resolve
 IP-CIDR,109.206.243.0/24,no-resolve
 IP-CIDR,109.233.185.0/24,no-resolve
 IP-CIDR,109.244.0.0/16,no-resolve
@@ -3866,6 +3867,7 @@ IP-CIDR,2001:470:f823::/48,no-resolve
 IP-CIDR,2001:470:f840::/48,no-resolve
 IP-CIDR,2001:470:f846::/48,no-resolve
 IP-CIDR,2001:500:15:3200::/56,no-resolve
+IP-CIDR,2001:67c:2964::/48,no-resolve
 IP-CIDR,2001:7fa:10::/48,no-resolve
 IP-CIDR,2001:7fa:5::/48,no-resolve
 IP-CIDR,2001:c68::/32,no-resolve
@@ -3881,6 +3883,7 @@ IP-CIDR,2001:df0:1bc0::/48,no-resolve
 IP-CIDR,2001:df0:2180::/48,no-resolve
 IP-CIDR,2001:df0:25c0::/48,no-resolve
 IP-CIDR,2001:df0:26c0::/48,no-resolve
+IP-CIDR,2001:df0:27e::/48,no-resolve
 IP-CIDR,2001:df0:2d80::/48,no-resolve
 IP-CIDR,2001:df0:2e00::/48,no-resolve
 IP-CIDR,2001:df0:2e80::/48,no-resolve
@@ -10198,6 +10201,7 @@ IP-CIDR,2a0d:2587:350c::/48,no-resolve
 IP-CIDR,2a0d:2587:3511::/48,no-resolve
 IP-CIDR,2a0d:2587:3512::/47,no-resolve
 IP-CIDR,2a0d:2587:3516::/47,no-resolve
+IP-CIDR,2a0d:2587:3518::/48,no-resolve
 IP-CIDR,2a0d:2587:3600::/40,no-resolve
 IP-CIDR,2a0d:2587:3800::/37,no-resolve
 IP-CIDR,2a0d:2587:4000::/34,no-resolve
@@ -10274,7 +10278,7 @@ IP-CIDR,2a0e:b107:17f8::/47,no-resolve
 IP-CIDR,2a0e:b107:17fb::/48,no-resolve
 IP-CIDR,2a0e:b107:17fc::/48,no-resolve
 IP-CIDR,2a0e:b107:17fe::/47,no-resolve
-IP-CIDR,2a0e:b107:1980::/48,no-resolve
+IP-CIDR,2a0e:b107:1980::/47,no-resolve
 IP-CIDR,2a0e:b107:1a31:1::/64,no-resolve
 IP-CIDR,2a0e:b107:1a32:2000::/52,no-resolve
 IP-CIDR,2a0e:b107:272::/48,no-resolve
@@ -11329,7 +11333,7 @@ IP-CIDR,67.198.174.0/24,no-resolve
 IP-CIDR,67.198.177.0/24,no-resolve
 IP-CIDR,67.198.179.0/24,no-resolve
 IP-CIDR,67.198.184.0/23,no-resolve
-IP-CIDR,67.198.189.0/24,no-resolve
+IP-CIDR,67.198.188.0/24,no-resolve
 IP-CIDR,67.198.192.0/23,no-resolve
 IP-CIDR,67.198.195.0/24,no-resolve
 IP-CIDR,67.198.199.0/24,no-resolve

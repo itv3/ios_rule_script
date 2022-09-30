@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-09-30 02:36:45
+# UPDATED: 2022-10-01 02:35:48
 # DOMAIN: 87
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66337
+# DOMAIN-SUFFIX: 66341
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 66448
+# TOTAL: 66452
 payload:
   - 'analytics.strava.com'
   - 'blzddist1-a.akamaihd.net'
@@ -4474,6 +4474,7 @@ payload:
   - '+.51chuli.com'
   - '+.51cir.com'
   - '+.51cjyy.com'
+  - '+.51cocoa.com'
   - '+.51code.com'
   - '+.51cok.com'
   - '+.51comp.com'
@@ -50912,6 +50913,7 @@ payload:
   - '+.swiftstar.net'
   - '+.swijoy.com'
   - '+.switchvip.com'
+  - '+.switchxiazai.com'
   - '+.swjoy.com'
   - '+.swkong.com'
   - '+.swliuxue.com'
@@ -54863,6 +54865,7 @@ payload:
   - '+.vcloudstc.net'
   - '+.vcloudvod.com'
   - '+.vclusters.com'
+  - '+.vcnews.com'
   - '+.vcode.cc'
   - '+.vcomic.com'
   - '+.vcomputes.com'
@@ -56192,6 +56195,7 @@ payload:
   - '+.weijiu.org'
   - '+.weijiuxin.com'
   - '+.weijj.com'
+  - '+.weijq.com'
   - '+.weiju.net'
   - '+.weijuju.com'
   - '+.weikaowu.com'
