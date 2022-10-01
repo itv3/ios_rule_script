@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-01 02:35:01
+# UPDATED: 2022-10-02 02:32:12
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
-# DOMAIN: 10356
+# DOMAIN: 10360
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 90200
+# DOMAIN-SUFFIX: 90241
 # IP-CIDR: 242
 # URL-REGEX: 301
-# TOTAL: 101364
+# TOTAL: 101409
 00-gov.cn
 0026645142c89aeb1.com
 00ae8b5a9c1d597.com
@@ -1578,6 +1578,7 @@ campromos.nl
 cannabislyric.com
 cannabispicture.com
 canoeklix.com
+cantateremiss.com
 capquqhuiazl.com
 captifymedia.com
 carbian.info
@@ -1720,7 +1721,6 @@ che-ka.com
 checkabil.com
 checkapi.xyz
 checkmystats.com.au
-chenfoo.cn
 chengruide.com
 chersoat.com
 cherytso.com
@@ -2047,6 +2047,7 @@ d-l-t.com
 d.gz2010.cn
 d.ifengimg.com
 d.kglink.cn
+d.rp-online.de
 d.xaoyo.com
 d.xitongtiandi.net
 d.ynjk120.com
@@ -2729,7 +2730,6 @@ eutsbhvtao.com
 euwyhbib.com
 euywavffcik.com
 euzlyrzg.com
-ev4f.top
 evaffwmdjgtn.com
 evanetpro.com
 evdveuys.com
@@ -2857,6 +2857,7 @@ fatrjjcm.com
 fatrvclgpnb.com
 faunlesnuff.co
 fawhuksy.com
+fawu.asia
 faykdrhpo.com
 fbapi.dxsvr.com
 fbbkavxqzy.com
@@ -2878,6 +2879,7 @@ fcfhjuyanmlvgb.com
 fcgadgets.blogspot.com
 fcihwhsiukz.com
 fclfmfjykupjdk.com
+fcqztan.cn
 fcvwuevewdzpm.com
 fcwpxsmiyy.com
 fd84e9a464aec4387a.com
@@ -3307,7 +3309,6 @@ gfxzwyphyv.com
 gfyrxikptop.com
 gfzluvsjsprkac.com
 ggezvffghs.com
-ggglxue.cn
 ggic03.miguvideo.com
 ggmk.miguvideo.com
 ggntadmnwwm.com
@@ -3528,7 +3529,6 @@ gwohimtyhbthg.com
 gwovohvkzay.com
 gwpjvfqeui.com
 gwucenxvmkowap.com
-gwwsevy.cn
 gwwzlwibbws.com
 gwywsuemmf.com
 gxgydnhz.com
@@ -3715,6 +3715,7 @@ hmmmcjgho.com
 hmora.fred-build.tk
 hmpumxcsex.com
 hmqzcnngnajps.com
+hmychtanrj.com
 hncahnvieotyu.com
 hnhsvlswqtoxgn.com
 hnlsyandeos.com
@@ -3874,6 +3875,7 @@ i000o.com
 i0s26ol9.com
 i401xox.com
 i568vc.cn
+i7by.top
 i864ekhq.com
 iaatzkkqyv.com
 iadfjbrttvgn.com
@@ -5036,6 +5038,7 @@ log.kuwo.cn
 log.strm.yandex.ru
 logfrochi.site
 logger.su
+logging.cmp-resources.link
 logs.starbolt.io
 logws1354.ati-host.net
 lohappbnrpgypu.com
@@ -5046,6 +5049,7 @@ lookit-quick.com
 loomufie.com
 lopsookr.com
 loseads.eu
+loshrhaphae.com
 loteumepag.com
 loudloss.com
 lovacmar.click
@@ -5340,6 +5344,7 @@ merlin.abc.go.com
 merrymilkfoods.com
 metartmoney.met-art.com
 metrics.apple.com
+metrics.mdstrm.com
 metrocuadro.com.ve
 meya41w7.com
 mfdhvdwkdg.com
@@ -5430,6 +5435,7 @@ mmfvtvdqlwxyj.com
 mmi-agency.com
 mmile.com
 mmissedecon.info
+mmmyhkl.cn
 mmo123.co
 mmoptional.com
 mmpcqstnkcelx.com
@@ -5480,7 +5486,6 @@ mojhasmpl.com
 moleagmeq.com
 molfkqiw.com
 mologiq.net
-mon-pagerank.com
 monarchslo.com
 monditomasks.co
 moneromining.online
@@ -6318,7 +6323,6 @@ padspmz.com
 paegcsvchsdlbj.com
 pagead-googlehosted.l.google.com
 pagerage.com
-pajirosandal.com
 pan.dogster.com
 pan.keyunzhan.com
 panection.co
@@ -6685,6 +6689,7 @@ ptrqrnadg.com
 ptzpyhhapyt.com
 pub.aujourdhui.com
 pub.dreamboxcart.com
+pub.servidoresge.com
 publish.pizzazzemail.com
 publish4.com
 pucemara.com
@@ -6786,7 +6791,6 @@ pzszpntjlz.com
 pztcyvdibslx.com
 pzujqxug.com
 pzwsredntjhcwy.com
-q0ibic08.cn
 q0zsp5e3dv.com
 q3d9whbdhpb.tk
 q3sift.com
@@ -6857,7 +6861,6 @@ qhpwanmnbvkiio.com
 qhpwqremdlclpk.com
 qhuktypo.com
 qiaepasvtp.com
-qiaohuailong.work
 qibbblerzykelr.com
 qiheptnm80.com
 qinxpsktrelpl.com
@@ -7011,7 +7014,6 @@ qvrpqwrp.com
 qvsshkcr.com
 qvvxyuuyinxp.com
 qwemfst.com
-qwertyuadf.com
 qwewas.info
 qwewdw.net
 qwkiafssml.com
@@ -7024,6 +7026,7 @@ qwuxwxdr.com
 qwvajuyccl.com
 qwyzzghouu.com
 qwzmje9w.com
+qxihapln.com
 qxkwtmrvnbqxf.com
 qxlohjsxaaq.com
 qxphrauujms.com
@@ -7081,6 +7084,7 @@ rawr.at
 raxlextehqhw.com
 raz-raz-mataz.com
 razwrite.com
+rbazhaheiz.top
 rbefyepmgrhp.com
 rbkubbeytzp.com
 rbrpamcygqplm.com
@@ -7533,6 +7537,7 @@ seecontentdelivery.info
 seegamese.com
 seemybucks.com
 seesaa.jp
+segmentor.snowfox-ai.com
 segments.scopely.io
 seiya.work
 sekusfrgojuc.com
@@ -8012,6 +8017,7 @@ tag-adtrue-com-1341320338.us-west-2.elb.amazonaws.com
 tag.aticdn.net.edgekey.net
 tag.unionstatistics.com
 tagifydiageo.com
+tags.cmp.tail.digital
 tags.esri.rw
 tagshost.com
 tagtool.de
@@ -8092,6 +8098,7 @@ teqhllxidowmi.com
 tercept-serve-beacon-543813600.ap-south-1.elb.amazonaws.com
 tesswithoughcle.info
 test.vast
+testingmetriksbre.ru
 testtralala.xorg.pl
 teueondocabsu.com
 teutorigos-cat.com
@@ -8246,6 +8253,7 @@ topcasino10.com
 tophostbg.net
 torconpro.com
 torntv-tvv.org
+torwq.xyz
 toseesulbvbe.com
 totdorancaltert.club
 totifiquo.com
@@ -8259,7 +8267,6 @@ tpjhxvondqzult.com
 tpkmwnwbzetzbj.com
 tpmrwyhloretut.com
 tpnads.com
-tpqokqi.cn
 tpqweavlol.com
 tpwumuxcasj.com
 tqbmcmttzid.com
@@ -8332,7 +8339,6 @@ tsdzmkpewrdxyl.com
 tsfgnmyhi.com
 tsjehpxqbotsz.com
 tsmdmunzbtu.com
-tsnoownmi.fun
 tsupbmgacu.com
 tsuwirdrddb.com
 tsvlkxhdbc.com
@@ -8624,6 +8630,7 @@ uqhqcoezkn.com
 uqsoxvwffpkrt.com
 uqyatperdvczfw.com
 uqyirvghv.com
+uqykjig.cn
 urcakbypjfvsq.com
 urercontalproces.info
 urfdvrrg.com
@@ -8638,6 +8645,7 @@ urynnngdrt.com
 us-central1-production-242307.cloudfunctions.net
 us.mobitech-content.xyz
 usahacmyhl.com
+usbvhzg.cn
 uscarefusedshi.info
 usclxdvvvnkdrv.com
 usenetoffer.download
@@ -8883,7 +8891,6 @@ vlxszjkbwgt.com
 vlyqzdsucomih.com
 vmay.com
 vmetkehutsu.com
-vmewz.xyz
 vmm-satellite2.com
 vmmphpamtigpbi.com
 vmqgouvq.com
@@ -9091,7 +9098,6 @@ wcyqoiyohhav.com
 wcyrjlszoo.com
 wdaqrxfppj.com
 wdbqsuukggoyg.com
-wdjptto.cn
 wdkbcvnh.com
 wdlnoecwykpon.com
 wdpwhnxfzoozsw.com
@@ -10004,7 +10010,6 @@ yuehosgcoq.com
 yuimtqtp.com
 yume.com
 yumekin.com
-yumingroot.xyz
 yumzgezhl.com
 yupcqrxdg.com
 yupfiles.club
@@ -10063,7 +10068,6 @@ yxyenzslsk.com
 yxyfsghyk.com
 yycocbzc.com
 yydmdsdnbtcduu.com
-yyek3cdeo.cyou
 yyivakszwh.com
 yyvvnutdokptca.com
 yywctdppuncv.com
@@ -11190,6 +11194,7 @@ zzxosget.com
 .1oavsblobprodcus350.blob.core.windows.net
 .1p1eqpotato.com
 .1p3opxwwet.ru
+.1papa.top
 .1pel.com
 .1percent.fr
 .1phads.com
@@ -12893,11 +12898,13 @@ zzxosget.com
 .71d7511a4861068.com
 .71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr
 .71mxc6.cn
+.71sas.com
 .71sem.com
 .71zrh.cn
 .720-trail.co.uk
 .72880178a6767.com
 .729dcbaa57e80c1e.com
+.72asa.com
 .72d77336c1.com
 .733xs.top
 .73508.com
@@ -19443,7 +19450,6 @@ zzxosget.com
 .adxxx.org
 .adxzju.penti.com
 .adyapper.com
-.adyea.com
 .adylalahb.ru
 .adyogis.gotrackier.com
 .adyoulike.com
@@ -20800,6 +20806,7 @@ zzxosget.com
 .allibestru.ru
 .alliedthirteen.com
 .alligator.remotecyberwork.com
+.allimpactdesign.com
 .allinsurance.allinsure.ca
 .allkindlecloud.com
 .allkpop.fr
@@ -21447,6 +21454,7 @@ zzxosget.com
 .anxioushomelessastray.com
 .anxiouslyconsistencytearing.com
 .anyangruisi.com
+.anyany.cc
 .anybagant.club
 .anybest.host
 .anybest.pw
@@ -23241,6 +23249,7 @@ zzxosget.com
 .avenseo.com
 .avenuea.com
 .avenuescrupuloustheological.com
+.average-champion.pro
 .averageamusement.com
 .averaladmi.info
 .averalzaedsk.xyz
@@ -23927,6 +23936,7 @@ zzxosget.com
 .baidutuapi.com
 .baidutv.baidu.com
 .baiduvip.life
+.baiduwudi929.xyz
 .baiduyoukualiyun.com
 .baiduyubaidu.com
 .baiduzhidahao.cc
@@ -25762,6 +25772,7 @@ zzxosget.com
 .bitsumactivationserver.com
 .bittads.com
 .bitterbear.com
+.bitterlythread.com
 .bitterstrawberry.com
 .bitvnvjfakrik.xyz
 .bitx.tv
@@ -29301,6 +29312,7 @@ zzxosget.com
 .chen.pepelela.mom
 .chenaiwx.xyz
 .chendjiangxing.cn
+.chenfoo.cn
 .chengadx.com
 .chengaib.net
 .chengboke.cn
@@ -30308,6 +30320,7 @@ zzxosget.com
 .clkmon.com
 .clkn.apostle.onl
 .clknrtrg.pro
+.clkofafcbk.com
 .clkoffers.com
 .clkpback3.com
 .clkrev.com
@@ -33334,6 +33347,7 @@ zzxosget.com
 .cz0nm0sg-hk.cn
 .cz345.cn
 .cz4444.cn
+.cz5f.top
 .cz9k8b.top
 .czbk.site
 .czdqhyo1.net
@@ -34369,6 +34383,7 @@ zzxosget.com
 .darendaisuki.com
 .darersan.co
 .daretodreamfarm.com
+.darghinruskin.com
 .dargtabet.com
 .daribahactaea.com
 .dariolunus.com
@@ -34829,6 +34844,7 @@ zzxosget.com
 .dcc.ghrtgf.xyz
 .dcc.strbgi.xyz
 .dccc.cloud
+.dcceb78f4a.com
 .dccfog.petco.com
 .dcclaa.bunte.de
 .dcclaa.daskochrezept.de
@@ -35199,6 +35215,7 @@ zzxosget.com
 .deliver.ptgncdn.com
 .delivery-dev.thebloggernetwork.com
 .delivery-pc.wasu.cn
+.delivery.adyea.com
 .delivery.akadigital.vn
 .delivery.dmkt-sp.jp
 .delivery.hunterycity.com
@@ -35523,6 +35540,7 @@ zzxosget.com
 .dfd1ec534a.com
 .dfdjilnzqgtow.com
 .dfdybylchujl.com
+.dfes68.com
 .dffaernr.com
 .dfffpyu8fhawcnd.ru
 .dfgbalon.com
@@ -39943,6 +39961,7 @@ zzxosget.com
 .eshouloo.net
 .eshuy.com
 .esignificanvi.info
+.esiws.com
 .eskimi.com
 .esliga.ru
 .eslipdd.ltd
@@ -40181,6 +40200,7 @@ zzxosget.com
 .euscaroversing.com
 .eusta.de
 .eutehj.com
+.euvsgap.cn
 .euwidget.imshopping.com
 .euwtn.5081.site
 .euxgfqkgpmyvo.com
@@ -40188,6 +40208,7 @@ zzxosget.com
 .ev.api.bdg.com
 .ev.kck.st
 .ev.tpocdm.com
+.ev4f.top
 .eva-ad.24hstatic.com
 .eva.ucas.com
 .evadav.com
@@ -44342,6 +44363,7 @@ zzxosget.com
 .ggdoubi.com
 .ggdydz.com
 .ggg.zj.com
+.ggglxue.cn
 .gggwv.cn
 .gggwwwe.com
 .gghh486.cn
@@ -45972,6 +45994,7 @@ zzxosget.com
 .gwrtheyrn-rot.com
 .gwtc.sfr.fr
 .gwwhheahisrtld.com
+.gwwsevy.cn
 .gwxpv.com
 .gwylm.com
 .gwzqbnh.cn
@@ -51450,6 +51473,7 @@ zzxosget.com
 .jcaqvl.twinset.com
 .jcboloni.cn
 .jcdb88.com
+.jcdbae.cn
 .jcdfdhx.top
 .jcdixdh.cn
 .jcelyj.com
@@ -53473,6 +53497,7 @@ zzxosget.com
 .kinoaction.ru
 .kinobol.ru
 .kinoclub.org
+.kinogogly.pro
 .kinohabr.net
 .kinomagnitamana.ru
 .kinoneeloign.com
@@ -58191,7 +58216,6 @@ zzxosget.com
 .magic-stick.trackdota.com
 .magic.cmcm.com
 .magicads.nl
-.magicadz.co
 .magicalipone.com
 .magicaljoin.com
 .magicalmonth.com
@@ -59070,7 +59094,6 @@ zzxosget.com
 .marketing.zencos.com
 .marketing.zwei.com
 .marketingassets.staples.com.edgekey.net
-.marketingautomation.services
 .marketingenhanced.com
 .marketinghub.zoho.eu
 .marketingus.hso.com
@@ -61950,6 +61973,7 @@ zzxosget.com
 .mon-com-01.com
 .mon-com-net.com
 .mon-conertisseur.fr
+.mon-pagerank.com
 .mon-va.byteoversea.com
 .mon.ad.xelements.cn
 .mon.byteoversea.com
@@ -63158,6 +63182,7 @@ zzxosget.com
 .n26-trusted.n26.com
 .n2s.co.kr
 .n339.asp-cc.com
+.n33d0nem0re.com
 .n38chz7m.site
 .n3owhe6qa4.com
 .n554pc.cn
@@ -67420,6 +67445,7 @@ zzxosget.com
 .paiwhoki.com
 .pajikrqhbqth.xyz
 .pajinse.top
+.pajirosandal.com
 .pakbanners.com
 .pakdru.altrarunning.com
 .pakistant.club
@@ -69154,6 +69180,7 @@ zzxosget.com
 .pjtxmd.epool.ru
 .pjtymy.cn
 .pjuulzj.cn
+.pjwwvpcgbvbyyka.com
 .pjx1ky4xhwip.com
 .pjxna.xyz
 .pk.zhuaji.org
@@ -71807,6 +71834,7 @@ zzxosget.com
 .q-stats.nl
 .q.azcentral.com
 .q.ihgmc.cn
+.q0ibic08.cn
 .q0mn5t187u.ru
 .q0uz4c.cn
 .q0yxfvuo32.ru
@@ -71926,6 +71954,8 @@ zzxosget.com
 .qcmm02.com
 .qcmm05.com
 .qcmm06.com
+.qcmm07.com
+.qcmm09.com
 .qcmxuy.hardloop.de
 .qcppad.merrell.com
 .qcroag.com
@@ -72091,6 +72121,7 @@ zzxosget.com
 .qianyuntengyue.com
 .qiaobaba.top
 .qiaofu.shop
+.qiaohuailong.work
 .qiaopiguniang.com
 .qiaoxiaomiao.com
 .qibalmm.com
@@ -72633,6 +72664,7 @@ zzxosget.com
 .qwerty24.net
 .qwertypay.com
 .qwertytracks.com
+.qwertyuadf.com
 .qwex.ru
 .qwfh39851jtfvkurf21hf.com
 .qwgbxvmtuejv.com
@@ -72848,6 +72880,7 @@ zzxosget.com
 .raggedselsyn.com
 .raglogripsa.com
 .ragmenteasygoingmass.com
+.raicabuy.net
 .raigebro.xyz
 .raigluce.net
 .rail.bankofamerica.com
@@ -80884,6 +80917,7 @@ zzxosget.com
 .soflopxl.com
 .sofseo.cn
 .soft-com.biz
+.soft-little.com
 .soft-you.com
 .soft.chaomeng8.com
 .soft.data.weather.360.cn
@@ -83925,6 +83959,7 @@ zzxosget.com
 .storystack.com
 .stoshewyho.pro
 .stoshoos.com
+.stossfussily.com
 .stotoowu.net
 .stougnee.com
 .stoveseashore.com
@@ -84581,6 +84616,7 @@ zzxosget.com
 .svjxuba.cn
 .svk-native.ru
 .svk100hp.ru
+.svkmxwssih.com
 .svkxlfhrdrn.com
 .svlu.net
 .svlzckw.cn
@@ -88020,6 +88056,7 @@ zzxosget.com
 .tpns.tencent.com
 .tpnygytjdqvq.com
 .tpool.cn
+.tpqokqi.cn
 .tptrk.ru
 .tpubrk.eobuv.com
 .tpush.html5.qq.com
@@ -89807,6 +89844,7 @@ zzxosget.com
 .tslomhfys.com
 .tsml.fun
 .tsmyalesc.club
+.tsnoownmi.fun
 .tsp2002.com
 .tspmagic.tumblr.com
 .tspops.com
@@ -91572,6 +91610,7 @@ zzxosget.com
 .usmetric.rediff.com
 .usmhimw.cn
 .usn.cc
+.usnoownmt.fun
 .usoasopersbe.xyz
 .usocial.pro
 .usounoul.com
@@ -91942,6 +91981,7 @@ zzxosget.com
 .vakagdnj.com
 .vakarek.info
 .val.api.youku.com
+.valadygators.com
 .valatm.cp12.wasu.tv
 .valerie.forbes.com
 .valetisolate.com
@@ -92943,6 +92983,7 @@ zzxosget.com
 .vmcsatellite.com
 .vmctzaxkc.com
 .vmet.ro
+.vmewz.xyz
 .vmhzvqzx.com
 .vmindhls.tc.qq.com
 .vmiua.com
@@ -93992,6 +94033,7 @@ zzxosget.com
 .wdgsl.com
 .wdig.vo.llnwd.net
 .wdiur.com
+.wdjptto.cn
 .wdm.map24.com
 .wdm29.com
 .wdnyom.faces.com
@@ -95082,6 +95124,7 @@ zzxosget.com
 .winvestern.com.cn
 .winvideo.org
 .winzevrocht.com
+.wioe3quod.cyou
 .wip3.adobe.com
 .wipe.de
 .wipedhypocrite.com
@@ -95513,7 +95556,6 @@ zzxosget.com
 .wpcnzz.com
 .wpdstat.com
 .wpe.red
-.wpercent.qwertyuadf.com
 .wpfc.ml
 .wpfukdvchi.com
 .wpgobx.feber.se
@@ -96947,6 +96989,7 @@ zzxosget.com
 .xepkfd.com
 .xerhibx.cn
 .xertive.com
+.xerxyeprhbe.com
 .xev2o.com
 .xewihp.bayut.com
 .xexyc.com
@@ -99097,6 +99140,7 @@ zzxosget.com
 .yumi06.com
 .yumimobi.com
 .yumingdan.top
+.yumingroot.xyz
 .yumkelis.com
 .yummie.fr
 .yummycuisine.club
@@ -99258,6 +99302,7 @@ zzxosget.com
 .yyckjjpuuf.com
 .yycvaemnomsjie.xyz
 .yydtbpms8tf4.com
+.yyek3cdeo.cyou
 .yyeks.com
 .yyffeicd.m.qxs.la
 .yygglm.com

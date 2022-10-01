@@ -1,87 +1,63 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-01 02:35:03
-# DOMAIN: 10356
+# UPDATED: 2022-10-02 02:32:14
+# DOMAIN: 10360
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 90200
+# DOMAIN-SUFFIX: 90241
 # IP-CIDR: 242
-# TOTAL: 101062
-3p-geo.yahoo.com
-3p-udc.yahoo.com
+# TOTAL: 101107
 46186911.vtt
 80055404.vtt
 absurdapple.com
-adfox.yandex.ru
 adfstat.yandex.ru
 ads.yahoo.com
 ads.youtube.com
-adsdk.yandex.ru
-an.yandex.ru
 anxiousapples.com
 api.sec.miui.com
 app.ssp.yahoo.com
 appboy-images.com
-apple.www.letv.com
 applebarq.com
 applequan.com
 applescringe.com
-awaps.yandex.ru
 awsync.yandex.ru
-bats.video.yahoo.com
 beacon.search.yahoo.com
 beap-bc.yahoo.com
-bs.yandex.ru
-chenfoo.cn
-collector2c.zhihuishu.com
-cookiex.ngd.yahoo.com
+cantateremiss.com
 crypta.js
 d1stxfv94hrhia.cloudfront
 dmg-dd.oss-accelerate.aliyuncs.com
-ev4f.top
+fawu.asia
+fcqztan.cn
 fpb1.apple886.com
-ganon.yahoo.com
-geo.yahoo.com
-ggglxue.cn
-gwwsevy.cn
+hmychtanrj.com
 https-apple.com
+i7by.top
 iadsdk.apple.com
 ib.snssdk.com
-informer.yandex.ru
-jill.fc.yahoo.com
 jpaasne.e.shifen.com
 log.strm.yandex.ru
+loshrhaphae.com
 marketingsolutions.yahoo.com
-mc.yandex.ru
 mediaappletree.com
 meitaolianmeng.ltd
 mm.n3w1d0ma1n
+mmmyhkl.cn
 mo.vlpyj.xy
-mon-pagerank.com
-nol.yahoo.com
-pajirosandal.com
 pr.comet.yahoo.com
-pv.sohu.com
-q0ibic08.cn
-qiaohuailong.work
-qwertyuadf.com
+qxihapln.com
+rbazhaheiz.top
 rrf.fat1domain1
 shackapple.com
 stats.video.search.yahoo.com
 sub.powerapple.com
-supportmetrics.apple.com
-test.vast
 theapple.site
-tpqokqi.cn
-tsnoownmi.fun
-visit.webhosting.yahoo.com
-vmewz.xyz
-wdjptto.cn
+torwq.xyz
+uqykjig.cn
+usbvhzg.cn
 wondefulapplend.com
 wzjs1.oss-accelerate.aliyuncs.com
 youtube.local
-yumingroot.xyz
-yyek3cdeo.cyou
 ad.xy2013.cn
 ads.play.cbsi.video
 ads.reembed.com
@@ -10341,28 +10317,56 @@ ymsdk.apkcar.com
 yume.com
 zen.sr
 10008919.pomelo.fashion
+3p-geo.yahoo.com
+3p-udc.yahoo.com
 ad.kddi-fs.com
+adfox.yandex.ru
+adsdk.yandex.ru
+an.yandex.ru
+apple.www.letv.com
+awaps.yandex.ru
+bats.video.yahoo.com
+bs.yandex.ru
 cdn1.skrill.com
+collector2c.zhihuishu.com
+cookiex.ngd.yahoo.com
+d.rp-online.de
 fvf3adsna5qc.www.earthclassmail.com
+ganon.yahoo.com
+geo.yahoo.com
+informer.yandex.ru
 insight.olx.ba
+jill.fc.yahoo.com
 l.ctrl.blog
 log.kuwo.cn
+logging.cmp-resources.link
+mc.yandex.ru
 metrics.apple.com
+metrics.mdstrm.com
+nol.yahoo.com
+pub.servidoresge.com
+pv.sohu.com
 retcode.taobao.com
 securemetrics.apple.com
 securemetrics.experience.apple
 securemvt.apple.com
 securemvt.apple.com.cn
+segmentor.snowfox-ai.com
 ssp.rambler.ru
 sugar.zhihu.com
+supportmetrics.apple.com
 t.nypost.com
+tags.cmp.tail.digital
 tags.esri.rw
+test.vast
+testingmetriksbre.ru
 tms.hft.everyplate.com
 tms.hft.factor75.com
 tms.hft.greenchef.com
 tms.hft.hellofresh.com
 track.mrgugu.com
 views.b1tv.ro
+visit.webhosting.yahoo.com
 .0-000.store
 .0.code.cotsta.ru
 .0001.best
@@ -10686,6 +10690,7 @@ views.b1tv.ro
 .1nimo.com
 .1p1eqpotato.com
 .1p3opxwwet.ru
+.1papa.top
 .1pel.com
 .1percent.fr
 .1phads.com
@@ -11629,6 +11634,7 @@ views.b1tv.ro
 .720-trail.co.uk
 .72880178a6767.com
 .729dcbaa57e80c1e.com
+.72asa.com
 .72d77336c1.com
 .745c.cn
 .746fyw2v.com
@@ -15344,7 +15350,6 @@ views.b1tv.ro
 .adxxx.me
 .adxxx.org
 .adyapper.com
-.adyea.com
 .adylalahb.ru
 .adyoulike.com
 .adysis.com
@@ -15873,6 +15878,7 @@ views.b1tv.ro
 .airdropemboil.com
 .airlead.ru
 .airlinerappetizingcoast.com
+.airlytics.airlock.twcmobile.weather.com
 .airrrxggfafnbl.xyz
 .airsaurd.com
 .airserve.net
@@ -16134,6 +16140,7 @@ views.b1tv.ro
 .alli-ti-hunter.com
 .allibestru.ru
 .alliedthirteen.com
+.allimpactdesign.com
 .allkindlecloud.com
 .allkpop.fr
 .allmediadesk.com
@@ -17553,6 +17560,7 @@ views.b1tv.ro
 .avenseo.com
 .avenuea.com
 .avenuescrupuloustheological.com
+.average-champion.pro
 .averalzaedsk.xyz
 .averoconnector.com
 .avertscratch.com
@@ -17978,6 +17986,7 @@ views.b1tv.ro
 .baidu-image-qqcom.com
 .baidu-jxf.co
 .baidutuapi.com
+.baiduwudi929.xyz
 .baihbw.cn
 .baihz.com
 .baikalize.com
@@ -19226,6 +19235,7 @@ views.b1tv.ro
 .bitsads.xyz
 .bitsoin.fr
 .bittads.com
+.bitterlythread.com
 .bitvnvjfakrik.xyz
 .bitx.tv
 .bitzad.com
@@ -21438,6 +21448,7 @@ views.b1tv.ro
 .chelick.net
 .chemicalmarketindication.com
 .chenaiwx.xyz
+.chenfoo.cn
 .chengdayong.in
 .chenghe.store
 .chengjunjie.top
@@ -22064,6 +22075,7 @@ views.b1tv.ro
 .clkepd.com
 .clkfeed.com
 .clknrtrg.pro
+.clkofafcbk.com
 .clkoffers.com
 .clksecure.com
 .clksite.com
@@ -24489,6 +24501,7 @@ views.b1tv.ro
 .darendaisuki.com
 .darersan.co
 .daretodreamfarm.com
+.darghinruskin.com
 .dargtabet.com
 .daribahactaea.com
 .dariolunus.com
@@ -24656,6 +24669,7 @@ views.b1tv.ro
 .dcbnameapneas.com
 .dcbpm.suning.cn
 .dccc.cloud
+.dcceb78f4a.com
 .dce0k0.cn
 .dcesxdvixnrwlu.com
 .dcf0698a21.com
@@ -24876,6 +24890,7 @@ views.b1tv.ro
 .deliv.lexpress.fr
 .deliver.ads2.iid.jp
 .deliver.oztam.com.au
+.delivery.adyea.com
 .delivery.akadigital.vn
 .delivery.myswitchads.com
 .delivery.senvangvn.com
@@ -25108,6 +25123,7 @@ views.b1tv.ro
 .dfd1ec534a.com
 .dfdjilnzqgtow.com
 .dfdybylchujl.com
+.dfes68.com
 .dffaernr.com
 .dfffpyu8fhawcnd.ru
 .dfgbalon.com
@@ -27531,6 +27547,7 @@ views.b1tv.ro
 .euz.net
 .ev.api.bdg.com
 .ev.tpocdm.com
+.ev4f.top
 .eva-ad.24hstatic.com
 .evadav.com
 .evadav.top
@@ -30050,6 +30067,7 @@ views.b1tv.ro
 .gg.miinaa.com
 .gg.miued.com
 .ggafb.com
+.ggglxue.cn
 .gggwv.cn
 .ggjcswb4rln4.com
 .ggjqcdnmnno.com
@@ -31095,6 +31113,7 @@ views.b1tv.ro
 .gwrtdp-tn690bfadt.tclclouds.com
 .gwrtheyrn-rot.com
 .gwwhheahisrtld.com
+.gwwsevy.cn
 .gwxpv.com
 .gwzqbnh.cn
 .gx101.com
@@ -35427,6 +35446,7 @@ views.b1tv.ro
 .kinoaction.ru
 .kinobol.ru
 .kinoclub.org
+.kinogogly.pro
 .kinomagnitamana.ru
 .kinoneeloign.com
 .kinoprofi.org
@@ -37969,7 +37989,6 @@ views.b1tv.ro
 .magic-flight.fr
 .magic-future.com
 .magic-stick.trackdota.com
-.magicadz.co
 .magicalipone.com
 .magicanfy.com
 .magicianboundary.com
@@ -38218,7 +38237,6 @@ views.b1tv.ro
 .marketing.net.occhiali24.it
 .marketing.nyi.net
 .marketing.osijek031.com
-.marketingautomation.services
 .marketingenhanced.com
 .marketinghub.zoho.eu
 .marketizator.com
@@ -39565,6 +39583,7 @@ views.b1tv.ro
 .momn.site
 .momowa.momoshop.com.tw
 .mon-conertisseur.fr
+.mon-pagerank.com
 .mon-va.byteoversea.com
 .mon.byteoversea.com
 .mon.snssdk.com
@@ -40351,6 +40370,7 @@ views.b1tv.ro
 .n258.cc
 .n2s.co.kr
 .n339.asp-cc.com
+.n33d0nem0re.com
 .n38chz7m.site
 .n3owhe6qa4.com
 .n5725.com
@@ -43137,6 +43157,7 @@ views.b1tv.ro
 .paiwhoki.com
 .pajikrqhbqth.xyz
 .pajinse.top
+.pajirosandal.com
 .pakbanners.com
 .pakistant.club
 .pakpolice.com
@@ -44098,6 +44119,7 @@ views.b1tv.ro
 .pjsxebh.com
 .pjtra.com
 .pjuulzj.cn
+.pjwwvpcgbvbyyka.com
 .pjx1ky4xhwip.com
 .pk331.cn
 .pketred.com
@@ -45793,6 +45815,7 @@ views.b1tv.ro
 .q-counter.com
 .q-stats.nl
 .q.azcentral.com
+.q0ibic08.cn
 .q0mn5t187u.ru
 .q0yxfvuo32.ru
 .q1connect.com
@@ -45856,6 +45879,7 @@ views.b1tv.ro
 .qcmm02.com
 .qcmm05.com
 .qcmm06.com
+.qcmm07.com
 .qcroag.com
 .qctop.com
 .qctt24h.24h.com.vn
@@ -45946,6 +45970,7 @@ views.b1tv.ro
 .qianyuntengyue.com
 .qiaobaba.top
 .qiaofu.shop
+.qiaohuailong.work
 .qiaoxiaomiao.com
 .qibalmm.com
 .qibxdwe1.com
@@ -46276,6 +46301,7 @@ views.b1tv.ro
 .qwertize.com
 .qwertypay.com
 .qwertytracks.com
+.qwertyuadf.com
 .qwex.ru
 .qwfh39851jtfvkurf21hf.com
 .qwgbxvmtuejv.com
@@ -46398,6 +46424,7 @@ views.b1tv.ro
 .raggedselsyn.com
 .raglogripsa.com
 .ragmenteasygoingmass.com
+.raicabuy.net
 .raigebro.xyz
 .raigluce.net
 .railcowboy.com
@@ -50226,6 +50253,7 @@ views.b1tv.ro
 .soflopxl.com
 .sofseo.cn
 .soft-com.biz
+.soft-little.com
 .soft-you.com
 .soft4dle.com
 .softballwaiting.com
@@ -50752,6 +50780,7 @@ views.b1tv.ro
 .srv.tunefindforfans.com
 .srv224.com
 .srvmath.com
+.srvpcn.com
 .srvpub.com
 .srvtrck.com
 .srwww1.com
@@ -51359,6 +51388,7 @@ views.b1tv.ro
 .storystack.com
 .stoshewyho.pro
 .stoshoos.com
+.stossfussily.com
 .stotoowu.net
 .stougnee.com
 .stovoori.net
@@ -51782,6 +51812,7 @@ views.b1tv.ro
 .svjxuba.cn
 .svk-native.ru
 .svk100hp.ru
+.svkmxwssih.com
 .svkxlfhrdrn.com
 .svlu.net
 .svlzckw.cn
@@ -53650,6 +53681,7 @@ views.b1tv.ro
 .tpn134.com
 .tpnygytjdqvq.com
 .tpool.cn
+.tpqokqi.cn
 .tptrk.ru
 .tpvjycisbqklu.com
 .tqlkg.com
@@ -54367,6 +54399,7 @@ views.b1tv.ro
 .tslomhfys.com
 .tsml.fun
 .tsmyalesc.club
+.tsnoownmi.fun
 .tsp2002.com
 .tspops.com
 .tsr.zlatoff.ru
@@ -55655,6 +55688,7 @@ views.b1tv.ro
 .vak345.com
 .vakagdnj.com
 .vakarek.info
+.valadygators.com
 .valerie.forbes.com
 .valetisolate.com
 .valid-dad.com
@@ -56382,6 +56416,7 @@ views.b1tv.ro
 .vmcsatellite.com
 .vmctzaxkc.com
 .vmet.ro
+.vmewz.xyz
 .vmhzvqzx.com
 .vmjmpwdupi.com
 .vmkxcsss.ru
@@ -57011,6 +57046,7 @@ views.b1tv.ro
 .wdeliv.net
 .wdfl.co
 .wdig.vo.llnwd.net
+.wdjptto.cn
 .wdm29.com
 .wdread.pub
 .wdroweavewerre.xyz
@@ -57968,7 +58004,6 @@ views.b1tv.ro
 .wpad.farm
 .wpadmngr.com
 .wpdstat.com
-.wpercent.qwertyuadf.com
 .wpfc.ml
 .wpfukdvchi.com
 .wpib0jr.cn
@@ -58890,6 +58925,7 @@ views.b1tv.ro
 .xepkfd.com
 .xerhibx.cn
 .xertive.com
+.xerxyeprhbe.com
 .xev2o.com
 .xexyc.com
 .xfast.host
@@ -60115,6 +60151,7 @@ views.b1tv.ro
 .yulunanews.name
 .yumenetworks.com
 .yumingdan.top
+.yumingroot.xyz
 .yumkelis.com
 .yummie.fr
 .yummycuisine.club
@@ -60196,6 +60233,7 @@ views.b1tv.ro
 .yyckjjpuuf.com
 .yycvaemnomsjie.xyz
 .yydtbpms8tf4.com
+.yyek3cdeo.cyou
 .yyibqpcg.com
 .yyjvimo.com
 .yyklg.xyz
@@ -73968,6 +74006,7 @@ views.b1tv.ro
 .70950.com
 .71.am
 .7116966.com
+.71sas.com
 .73508.com
 .7555.net
 .7577.cc
@@ -75554,7 +75593,6 @@ views.b1tv.ro
 .aipmedia.com
 .aipu.mobi
 .airbrake.io
-.airlytics.airlock.twcmobile.weather.com
 .airproxyboat.in
 .airproxyproxy.pw
 .airproxyunblocked.org
@@ -75712,6 +75750,7 @@ views.b1tv.ro
 .antns.com
 .antwort.hager.de
 .anura.io
+.anyany.cc
 .anybest.host
 .anybest.pw
 .anybest.site
@@ -77714,6 +77753,7 @@ views.b1tv.ro
 .cysd.7kww.net
 .cz-mktg.vodafone.com
 .cz4444.cn
+.cz5f.top
 .d-kint.d-kintetsu.co.jp
 .d-ns.ga
 .d.13mobi.com
@@ -78935,6 +78975,7 @@ views.b1tv.ro
 .escobar.pr0gramm.com
 .escortso.com
 .eshkol.io
+.esiws.com
 .esqjac.costakreuzfahrten.de
 .essdhn.makuake.com
 .esterlonder.com
@@ -78959,6 +79000,7 @@ views.b1tv.ro
 .euler.pmu.fr
 .eulerian.alinea.fr
 .euro4ads.de
+.euvsgap.cn
 .evanetwork.com
 .evbk.gamooga.com
 .evengparme.com
@@ -80592,6 +80634,7 @@ views.b1tv.ro
 .jc.jtydbz.com
 .jc.lgtianma.cn
 .jcaqvl.twinset.com
+.jcdbae.cn
 .jcpjfyikk.dogbonemarket.com
 .jdbjhd.saniweb.nl
 .jdgtgb.all-in.de
@@ -84265,6 +84308,7 @@ views.b1tv.ro
 .qccskbbjzk.theoddco.co.uk
 .qcgg.net
 .qcgtoz.cwjobs.co.uk
+.qcmm09.com
 .qcppad.merrell.com
 .qczmaa.berni.com.ua
 .qd.easylive.net
@@ -86385,7 +86429,6 @@ views.b1tv.ro
 .srv2020real.com
 .srv2trking.com
 .srvbytrking.com
-.srvpcn.com
 .srvtrkxx1.com
 .srvtrkxx2.com
 .ss.6ib.ru
@@ -88322,6 +88365,7 @@ views.b1tv.ro
 .userlike.com
 .userreport.com
 .usn.cc
+.usnoownmt.fun
 .usocial.pro
 .usuf.candukang.cn
 .ut.dailyfx.com
@@ -88890,6 +88934,7 @@ views.b1tv.ro
 .windowsguidenews.com
 .windychinese.com
 .winnye.com
+.wioe3quod.cyou
 .wipe.de
 .wish.securedtouch.com
 .wishpond.com
