@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-02 02:31:33
+# UPDATED: 2022-10-03 02:32:04
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 14159
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 77180
+# DOMAIN-SUFFIX: 77212
 # IP-CIDR: 241
 # URL-REGEX: 301
-# TOTAL: 91958
+# TOTAL: 91990
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -15768,6 +15768,7 @@ zzxosget.com
 .5814889.com
 .583d46135c.com
 .5857.com
+.588o.top
 .588yw.com
 .58b291f917728a2.com
 .58gs7b32jy.com
@@ -16193,6 +16194,7 @@ zzxosget.com
 .71d7511a4861068.com
 .71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr
 .71mxc6.cn
+.71sas.com
 .71sem.com
 .71zrh.cn
 .720-trail.co.uk
@@ -24074,6 +24076,7 @@ zzxosget.com
 .anxioushomelessastray.com
 .anxiouslyconsistencytearing.com
 .anyangruisi.com
+.anyany.cc
 .anybagant.club
 .anycadark.site
 .anyclip-media.com
@@ -24402,7 +24405,6 @@ zzxosget.com
 .app.monetizze.com.br
 .app.monetrack.com
 .app.noreply.cummins.com
-.app.pendo.io
 .app.pittsburghpanthers.com
 .app.playhousesquare.org
 .app.response.siemens-info.com
@@ -25117,6 +25119,7 @@ zzxosget.com
 .at.pagesjaunes.fr
 .at98.com
 .atableofcup.com
+.atakjyv.cn
 .atamjanebyl.biz
 .atanx.alicdn.com
 .atanx2.alicdn.com
@@ -29784,6 +29787,7 @@ zzxosget.com
 .canonch.pro
 .canopylabs.com
 .canstrm.com
+.cantateremiss.com
 .cantpastelli.one
 .canuckmethod.com
 .canvas-ping.conduit-data.com
@@ -34214,6 +34218,7 @@ zzxosget.com
 .cz09.com
 .cz0nm0sg-hk.cn
 .cz345.cn
+.cz5f.top
 .cz9k8b.top
 .czbk.site
 .czdqhyo1.net
@@ -37423,6 +37428,7 @@ zzxosget.com
 .drrzzl.cn
 .drsw.m.yuyouge.com
 .drtbn.com
+.drtladv.com
 .drtraff.ru
 .drtuproft.com
 .druadirjfviwn.xyz
@@ -38579,6 +38585,7 @@ zzxosget.com
 .eengaums.com
 .eengbalu.fun
 .eensoans.com
+.eentent.streampiay.me
 .eeoqsr.cn
 .eeoylmkd.com
 .eephaush.com
@@ -39705,6 +39712,7 @@ zzxosget.com
 .eshouloo.net
 .eshuy.com
 .esignificanvi.info
+.esiws.com
 .eskimi.com
 .esliga.ru
 .eslipdd.ltd
@@ -39923,6 +39931,7 @@ zzxosget.com
 .euscaroversing.com
 .eusta.de
 .eutehj.com
+.euvsgap.cn
 .euwidget.imshopping.com
 .euwtn.5081.site
 .euxgfqkgpmyvo.com
@@ -40860,6 +40869,7 @@ zzxosget.com
 .favourablequickdelve.com
 .favouritesuitable.com
 .fawhositho.com
+.fawu.asia
 .faxqaaawyb.com
 .fazoumee.net
 .fb-accounts.com
@@ -40938,6 +40948,7 @@ zzxosget.com
 .fcmatch.google.com
 .fcmatch.youtube.com
 .fcouvtlwzocok.com
+.fcqztan.cn
 .fcrbsqtsuvexcsy.com
 .fcrdb.com
 .fcs.ovh
@@ -41671,6 +41682,7 @@ zzxosget.com
 .flygo.ru
 .flyingpt.com
 .flyingsquirellsmooch.com
+.flylikeaguy.com
 .flyly.cc
 .flymob.com
 .flymyads.com
@@ -45401,6 +45413,7 @@ zzxosget.com
 .hardtofindmilk.com
 .haremwhipshook.com
 .haribdathesea.com
+.hariken.co
 .hariqavi.com
 .harlergate.casa
 .harmlesstacticalhonorable.com
@@ -46338,6 +46351,7 @@ zzxosget.com
 .hmuxsxuqhnptfq.com
 .hmw42.host-my-website.com
 .hmyangshengji.com
+.hmychtanrj.com
 .hmyjpt.com
 .hnasd.com
 .hnbhrt.xyz
@@ -47279,6 +47293,7 @@ zzxosget.com
 .i54.xyz
 .i5iog3mlrw.com
 .i6h1x9ss5wtv.ru
+.i7by.top
 .i7ece0xrg4nx.com
 .i8023.icu
 .i87b3.cn
@@ -49732,6 +49747,7 @@ zzxosget.com
 .jcaip.com
 .jcboloni.cn
 .jcdb88.com
+.jcdbae.cn
 .jcdfdhx.top
 .jcdixdh.cn
 .jcelyj.com
@@ -54171,6 +54187,7 @@ zzxosget.com
 .logger.yp.ca
 .loggerbunty.com
 .logging.api.intuit.com
+.logging.cmp-resources.link
 .logging.e-himart.co.kr
 .logging.goodgamestudios.com
 .logging.je-apps.com
@@ -54362,6 +54379,7 @@ zzxosget.com
 .lorybnfh.com
 .lose4admin.de
 .losecounter.de
+.loshrhaphae.com
 .losingfoundation.com
 .losingoldfry.com
 .losstrack.com
@@ -57152,6 +57170,7 @@ zzxosget.com
 .metrics.maxizoo.fr
 .metrics.maxizoo.it
 .metrics.mca-insight.com
+.metrics.mdstrm.com
 .metrics.mhi.com
 .metrics.mhn.com
 .metrics.mibcookies.rbs.com
@@ -57888,6 +57907,7 @@ zzxosget.com
 .mmlala.com
 .mmm.carbuyer.co.uk
 .mmm.theweek.co.uk
+.mmmyhkl.cn
 .mmnetwork.mobi
 .mmngqvbfuzenlk.com
 .mmoframes.com
@@ -59696,7 +59716,6 @@ zzxosget.com
 .netbulvar.eu
 .netc.sfr.fr
 .netcatx.com
-.netcentric.biz
 .netclickstats.com
 .netcommunities.com
 .netcore.co.in
@@ -63571,6 +63590,7 @@ zzxosget.com
 .peltingcatwood.com
 .pemskb.unitedcinemas.jp
 .pendingvillashells.com
+.pendo.io
 .pendulumkeg.com
 .pendulumtemporary.com
 .pengenanu.files.im
@@ -66169,6 +66189,7 @@ zzxosget.com
 .pub.realmedia.fr
 .pub.sapo.pt
 .pub.se.360.cn
+.pub.servidoresge.com
 .pub.sheknows.com
 .pub.toku-tag.jp
 .pub.web.sapo.io
@@ -66760,6 +66781,7 @@ zzxosget.com
 .qcmm05.com
 .qcmm06.com
 .qcmm07.com
+.qcmm09.com
 .qcmxuy.hardloop.de
 .qcroag.com
 .qctop.com
@@ -67376,6 +67398,7 @@ zzxosget.com
 .qxazefkhgayy.com
 .qxfly.com
 .qxhydkz8.hmjdaw.ntt.com
+.qxihapln.com
 .qxjdlf.com
 .qxlidy.ink
 .qxm.pluto.sogou.com
@@ -67714,6 +67737,7 @@ zzxosget.com
 .rb.ras1.site
 .rb.rfn.ru
 .rb.sport-express.ru
+.rbazhaheiz.top
 .rbcdn.com
 .rbck.st3pst3p.com
 .rbgfxxt.cn
@@ -71189,6 +71213,7 @@ zzxosget.com
 .segment.com
 .segment.io
 .segmentify.com
+.segmentor.snowfox-ai.com
 .segmetrics.io
 .segob.gob.mx
 .segs.jp
@@ -77587,12 +77612,12 @@ zzxosget.com
 .tag.contactatonce.co.uk
 .tag.cribnotes.jp
 .tag.datariver.ru
+.tag.dec-connect.decsuite.com
 .tag.elevaate.io
 .tag.flagship.io
 .tag.getdrip.com
 .tag.goadopt.io
 .tag.goldenbees.fr
-.tag.hariken.co
 .tag.karte.io
 .tag.links-analytics.com
 .tag.myplay.com
@@ -77645,6 +77670,7 @@ zzxosget.com
 .tags.catapultx.com
 .tags.cdn.circlesix.co
 .tags.clickagy.com
+.tags.cmp.tail.digital
 .tags.creativille.co.uk
 .tags.creditkarma.com
 .tags.fullcontact.com
@@ -78403,6 +78429,7 @@ zzxosget.com
 .testing.net.zooplus.com
 .testing.net.zooplus.es
 .testing.stg.hwcdn.net.zooplus.de
+.testingmetriksbre.ru
 .testingmgmt.control.docker.net.zooplus.de
 .testnet.nl
 .testpconly12.prepare2upvideosafesystem4setnow.online
@@ -79637,6 +79664,7 @@ zzxosget.com
 .toru0vane.com
 .torusesinact.com
 .torvind.com
+.torwq.xyz
 .torytalenty.site
 .tos5dqejpd.www.freecodecamp.org
 .tosfeed.com
@@ -83119,6 +83147,7 @@ zzxosget.com
 .uqszvk.code.weddingeeos.com
 .uquholhm.cn
 .uqum.52shouyou.com.cn
+.uqykjig.cn
 .uqystk.com
 .uqz.com
 .uralap.com
@@ -83240,6 +83269,7 @@ zzxosget.com
 .usb-vna.coppermountaintech.com
 .usbanners.com
 .usbf.fr
+.usbvhzg.cn
 .uscdn.top
 .uscnvdcxttnh.com
 .uscpn0c485wn.com
@@ -83316,6 +83346,7 @@ zzxosget.com
 .uslioert.com
 .usmetric.rediff.com
 .usmhimw.cn
+.usnoownmt.fun
 .usoasopersbe.xyz
 .usounoul.com
 .usp1.baidu.com
@@ -86317,6 +86348,7 @@ zzxosget.com
 .winvestern.com.cn
 .winvideo.org
 .winzevrocht.com
+.wioe3quod.cyou
 .wip3.adobe.com
 .wipedhypocrite.com
 .wipowaxe.com

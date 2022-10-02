@@ -1,7 +1,7 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-02 02:32:59
+# UPDATED: 2022-10-03 02:33:31
 # DOMAIN: 85
 # DOMAIN-KEYWORD: 10
 # DOMAIN-SUFFIX: 66382
@@ -128,6 +128,7 @@ www4-static.gog-statics.com
 .00544.com
 .0061.com.au
 .00615.net
+.007.pub
 .00791.com
 .007hd.com
 .007manhua.com
@@ -1409,7 +1410,6 @@ www4-static.gog-statics.com
 .15yl.com
 .160.com
 .160.me
-.160edu.net
 .160yx.com
 .161580.com
 .1616.net
@@ -4447,6 +4447,7 @@ www4-static.gog-statics.com
 .521szlx.com
 .521tieba.com
 .521up.com
+.521wmy.com
 .52237377.com
 .522g.com
 .523333.com
@@ -5617,6 +5618,7 @@ www4-static.gog-statics.com
 .6tiantian.com
 .6tie.com
 .6v.com
+.6v6.work
 .6vps.net
 .6wan.com
 .6wtx.com
@@ -12010,7 +12012,6 @@ www4-static.gog-statics.com
 .brand4x4.com
 .brandcn.com
 .brandvista.com
-.brandzg.com
 .brbtyt.com
 .breadtrip.com
 .breakingnewsireland.com
@@ -12563,7 +12564,6 @@ www4-static.gog-statics.com
 .cafagame.com
 .cafamuseum.org
 .cafebeta.com
-.cafecole-maison.com
 .caffci.org
 .caffeenglish.com
 .cagetest.com
@@ -13721,6 +13721,7 @@ www4-static.gog-statics.com
 .chabeichong.com
 .chachaba.com
 .chachaqu.com
+.chacheliang.com
 .chachongba.cc
 .chacuo.net
 .chadan.wang
@@ -13758,6 +13759,7 @@ www4-static.gog-statics.com
 .chaishiguan.com
 .chaitin.com
 .chajiandaquan.com
+.chajiaotong.com
 .chajie.com
 .chajn.org
 .chakahao.com
@@ -21061,7 +21063,6 @@ www4-static.gog-statics.com
 .enbrands.com
 .enec.net
 .enelcn.com
-.enen6.com
 .enet360.com
 .enetedu.com
 .enfi.vip
@@ -21561,7 +21562,6 @@ www4-static.gog-statics.com
 .extfans.com
 .exthin.net
 .extmail.org
-.extremep2p.com
 .extron-tech.com
 .extstars.com
 .exuanfang.cc
@@ -29098,6 +29098,7 @@ www4-static.gog-statics.com
 .hysdknb.com
 .hysec.com
 .hysemi-ic.com
+.hyshi.net
 .hysteeltube.com
 .hyt368.com
 .hytcshare.com
@@ -30665,7 +30666,6 @@ www4-static.gog-statics.com
 .intsig.net
 .intsweet.com
 .intwho.com
-.intwk.com
 .inuobi.com
 .inuu6.com
 .inveno.com
@@ -31730,7 +31730,6 @@ www4-static.gog-statics.com
 .jdxs5200.net
 .jdxzz.com
 .jdy.com
-.jdy8848.com
 .jdycdn.com
 .jdyou.com
 .jdypf.com
@@ -32911,7 +32910,6 @@ www4-static.gog-statics.com
 .jmhd8.com
 .jmj1995.com
 .jmjc.tech
-.jmjiuchang.com
 .jmjxc.com
 .jmkjmob2.xyz
 .jmkjmob5.xyz
@@ -33889,6 +33887,7 @@ www4-static.gog-statics.com
 .jzrb.com
 .jzrc.net
 .jzrsrc.com
+.jzsadlkfadf.com
 .jzsc.net
 .jzsc8.com
 .jzsec.com
@@ -34158,7 +34157,6 @@ www4-static.gog-statics.com
 .kaocat.com
 .kaochong.com
 .kaoder.com
-.kaodianer.com
 .kaogua.com
 .kaojionline.com
 .kaola.com
@@ -34245,6 +34243,7 @@ www4-static.gog-statics.com
 .kbtv.me
 .kbw2018.com
 .kbyun.com
+.kcdn0.com
 .kcdns.net
 .kcdnvip.com
 .kchance.com
@@ -37843,7 +37842,6 @@ www4-static.gog-statics.com
 .lvshi567.com
 .lvshiminglu.com
 .lvshou.com
-.lvshouwe.com
 .lvshunfang.com
 .lvshunmuseum.org
 .lvsongguo.com
@@ -38683,7 +38681,6 @@ www4-static.gog-statics.com
 .mchat.com
 .mchifi.com
 .mcidc.net
-.mcjcjx.com
 .mcjd.net
 .mcmssc.com
 .mcooks.com
@@ -39758,7 +39755,6 @@ www4-static.gog-statics.com
 .mnihyc.com
 .mnjj.group
 .mnkan.com
-.mnlscz.com
 .mnoswqa.com
 .mnpz8.com
 .mnwww.com
@@ -42327,6 +42323,7 @@ www4-static.gog-statics.com
 .ooopic.com
 .ooopn.com
 .ooppoo.com
+.ootu.cc
 .oouee.com
 .oouyan.com
 .ooxx.me
@@ -44773,6 +44770,7 @@ www4-static.gog-statics.com
 .qijee.com
 .qiji.tech
 .qijiadianzi.com
+.qijian99.com
 .qijianzs.com
 .qijiapay.com
 .qijiarui-test.com
@@ -45101,6 +45099,7 @@ www4-static.gog-statics.com
 .qiyexinyong.org
 .qiyexun.com
 .qiyexxw.com
+.qiyeyougou.com
 .qiyeyouxiang.net
 .qiyi.com
 .qiyicc.com
@@ -45345,6 +45344,7 @@ www4-static.gog-statics.com
 .qqpao.com
 .qqpifu.com
 .qqppt.com
+.qqpss.cc
 .qqq.tv
 .qqqiyemail.com
 .qqqnm.com
@@ -48302,7 +48302,6 @@ www4-static.gog-statics.com
 .shiciyun.com
 .shida66.com
 .shidaedu.vip
-.shidaiyuhu.com
 .shidapx.com
 .shidastudy.com
 .shidi.org
@@ -49575,6 +49574,7 @@ www4-static.gog-statics.com
 .smtdc.com
 .smth.org
 .smthome.net
+.smtlzb.com
 .smtsvs.com
 .smttouch.com
 .smtvip.com
@@ -50807,7 +50807,6 @@ www4-static.gog-statics.com
 .swakopuranium.com
 .swang8.com
 .swansea86.com
-.swansonchina.com
 .swap.wang
 .swaqds.com
 .swarma.net
@@ -51645,6 +51644,7 @@ www4-static.gog-statics.com
 .taokouling.com
 .taoku.com
 .taolusm.com
+.taoluzhibo56.com
 .taolx.com
 .taomanhua.com
 .taomee.com
@@ -52589,7 +52589,6 @@ www4-static.gog-statics.com
 .tips1000.com
 .tiqiaa.com
 .tiqianle.com
-.tired.im
 .tiruna-cn.com
 .tisgame.com
 .tisino.com
@@ -57620,6 +57619,7 @@ www4-static.gog-statics.com
 .writebp.com
 .wrjzj.com
 .wrkdih.com
+.wrl163.com
 .wrltxt.com
 .wrmjk.com
 .wrsa.net
@@ -59311,7 +59311,6 @@ www4-static.gog-statics.com
 .xindie.net
 .xindingwealth.com
 .xindns.com
-.xindns.mobi
 .xindong.com
 .xinduihuan.com
 .xinduo.com
@@ -59712,6 +59711,7 @@ www4-static.gog-statics.com
 .xixisys.com
 .xixiwg.com
 .xiyacs.com
+.xiyamaoyi.com
 .xiyang1.icu
 .xiyijiang.com
 .xiyin.life
