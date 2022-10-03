@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-03 02:32:45
+# UPDATED: 2022-10-04 02:37:31
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
-# DOMAIN: 10345
+# DOMAIN: 10361
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 90272
+# DOMAIN-SUFFIX: 90284
 # IP-CIDR: 242
 # URL-REGEX: 301
-# TOTAL: 101425
+# TOTAL: 101453
 00-gov.cn
 0026645142c89aeb1.com
 00ae8b5a9c1d597.com
@@ -487,6 +487,7 @@ ackgroupsevention.info
 acount.alley.ws
 acrididae.com
 acrmzrucy.com
+act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com
 actionlocker.com
 activetracker.activehotels.com
 acwyoynw.com
@@ -537,6 +538,7 @@ adhome.biz
 adigniter.org
 adimpression.net
 adinfinity.com.au
+adjaco.com
 adjunky.com
 adlandpro.com
 adlipacbrakmjp.com
@@ -2003,7 +2005,6 @@ cvembcmcvrxly.com
 cvixcaboqq.com
 cvlqivkartyki.com
 cvofpjhscrj.com
-cvshknd.cn
 cvsuqfsul.com
 cvupqfim.com
 cvvwaepygjzczp.com
@@ -2397,7 +2398,6 @@ duamuprs.com
 dugqbllwslqrlj.com
 dui88.com
 dujbubzvrdw.com
-dukesike.top
 dulrlifipkbac.com
 dump1.no-ip.biz
 durnowar.com
@@ -2630,6 +2630,7 @@ engage.gsfn.us
 engage.meltwater.com
 engagement-bus-prod-713264365.us-east-1.elb.amazonaws.com
 engingsecondu.info
+englandrelent.com
 enjoynet.fuse-ad.com
 enrcqdgqnjb.com
 ensign.unbounce.com
@@ -3392,6 +3393,7 @@ gmtrack.net
 gmxetthnzmqo.com
 gmzaaeenp.com
 gnamwmixa.com
+gnkpvpjjeyrhx.com
 gnpecuwegllca.com
 gntzacjc.com
 gnuxgnnkflvkm.com
@@ -3494,6 +3496,7 @@ gtlcgovlg.com
 gtnlyyxfhkjv.com
 gtnmyddlf.com
 gtsgdddss.com
+gtxqkkxlvqmiysl.com
 guamokqekridi.com
 guardwork.info
 gueqndbe.com
@@ -3555,6 +3558,7 @@ h.mobcells.com
 h56h5r.xyz
 h6y654wgfdhd.com
 h83zvgrg29.com
+h8brccv4zf5h.com
 h92zbpn4zcv1.com
 ha-link.sailthru.com
 ha.zixuekaoshi.net
@@ -4637,6 +4641,7 @@ kifxgosycvxplk.com
 kikuzip.com
 kilomonj.net
 kimqbvkaidbwst.com
+kinesis.eu-west-1.amazonaws.com
 kingsoft.com
 kiobmbncsrwc.com
 kioxqnfhyh.com
@@ -4736,6 +4741,7 @@ krsutcnex.com
 krtpkaha.com
 krwasgyensttng.com
 kryptosda.kryptosmobile.com
+ks9f.top
 ksevfixrkqdx.com
 ksfubacmhdcc.com
 kshzzbmgbmoqad.com
@@ -5021,6 +5027,7 @@ lnxsrmsebsd.com
 lnyhnpwjviyn.com
 lnyypjocad.com
 lockscalecompare.com
+locold.com
 loddawqst.com
 lodoxfwite.com
 lodqycbq.com
@@ -5199,6 +5206,7 @@ m328ii38yg76vw.com
 m5prod.net
 mabeetam.com
 macandcheeseandads.com
+maculedfalls.com
 madsabz.com
 madsats.com
 madsatz.com
@@ -5264,6 +5272,7 @@ mbmwfufkaxll.com
 mbpjpmcz.com
 mbsivmsbuteaz.com
 mc.yandex.ru
+mcc-tags.cisco.com
 mcdstorage.com
 mcgndenytmy.com
 mchpowtyj.com
@@ -5405,6 +5414,7 @@ mkgosjtrbhag.com
 mkkosxvmn.com
 mkkxioajtwm.com
 mkt4477.com
+mktcs.cloudapps.cisco.com
 mkto-ab180008.com
 mkxgvmswfmypy.com
 mkyrxfftdmqx.com
@@ -5631,7 +5641,6 @@ mz28ismn.com
 mzaugggxs.com
 mzgqqjpnbez.com
 mzjotkigwu.com
-mzlas.xyz
 mzmnrczlsqtlya.com
 mzmtpdcouoa.com
 mznzltgotp.com
@@ -5874,7 +5883,6 @@ nswnseld.com
 nsxawdatuetbq.com
 nt-associates.com
 nt-cdn.coccoc.com
-nt6f.top
 ntbftkhrsrh.com
 ntbtvdbomevgzs.com
 ntdbjlngermplx.com
@@ -5946,6 +5954,7 @@ nzkxmphfbqrfzs.com
 nzlydrgumirn.com
 nzopgzncs.com
 nzpjatzkwdzb.com
+o.027eat.com
 o.a0shop.top
 o.nkwwpw.com
 o12zs3u2n.com
@@ -6856,6 +6865,7 @@ qhuktypo.com
 qiaepasvtp.com
 qibbblerzykelr.com
 qiheptnm80.com
+qingshu.live
 qinxpsktrelpl.com
 qirkwipiamqsi.com
 qithimsuejs.com
@@ -7044,6 +7054,7 @@ qziqnfwzk.com
 qzismxssqf.com
 qzljxgufyvmupa.com
 qzsccm.com
+qzthueo.cn
 qzvgrwayranpn.com
 qzxtbsnaebfw.com
 qzzepglnyaufi.com
@@ -7442,6 +7453,7 @@ saywidgets.awe.sm
 sayzziir.com
 sb.scorecardresearch.com.edgekey.net
 sb.voicefive.com.edgekey.net
+sb89347.com
 sbardlhk.com
 sbealpvjpzzs.com
 sbgftsoe.com
@@ -7839,6 +7851,7 @@ stats.origin.kaltura.perf.akadns.net
 stats.pingdom.com
 stats.sapo.vn
 stats.unibiller.com
+stats.video.globo.com
 stats.video.search.yahoo.com
 statsonline.pushct.baidu.com
 stauckag.com
@@ -7863,6 +7876,7 @@ strangeduckfilms.com
 strawdense.com
 streamdownloadonline.com
 stringroadway.com
+strnguz.cn
 strongexplain.com
 stserver.immomo.com
 style-eyes.eu
@@ -8272,6 +8286,7 @@ track.mypcbackup.com
 track.opicle.com
 track.sp.actionkit.com
 track.tapatalk.com
+track.tom.com
 trackbar.info
 trackcustomer.laredoute.com
 tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
@@ -9196,7 +9211,6 @@ wilwasharrabred.pro
 windspotter.net
 winhugebonus.com
 winrar-soft.ru
-wisdomvalley.wang
 wisozk.link
 with-binaryoption.com
 withbinaryoptions.com
@@ -9496,6 +9510,7 @@ wxupwyabry.com
 wxwbvytlvabs.com
 wyaeyjaqx.com
 wybfcxze.com
+wydnbnni.xyz
 wyhcocqu.com
 wyjtscdjfcmsy.com
 wylblxhn.com
@@ -9552,6 +9567,7 @@ xbynkkqi.com
 xbzakxofyhdy.com
 xbzwwsagli.com
 xc.xiyqjea.cn
+xcaqa.xyz
 xcbteuhokmcj.com
 xcgebfplttrdg.com
 xchangebanners.com
@@ -10492,6 +10508,7 @@ zzxosget.com
 .0594529.com
 .059e025e7484.com
 .05ee3a24ed11df058c8.com
+.05fc725q.cn
 .05q9n.cn
 .05tz2e9.com
 .05xz0h2xo799.com
@@ -12498,6 +12515,7 @@ zzxosget.com
 .5qg9ibt1a6.com
 .5rocks.io
 .5rxk.cn
+.5s34y422.cn
 .5shbet.com
 .5t15.cn
 .5t4o.cn
@@ -33184,6 +33202,7 @@ zzxosget.com
 .cvqgnkeqme.com
 .cvs.kireimo.jp
 .cvsheil.com
+.cvshknd.cn
 .cvt1.sibnet.ru
 .cvtr.io
 .cvtspo.moebel24.de
@@ -37331,6 +37350,7 @@ zzxosget.com
 .duiwai.baidu.com
 .dukagrygro.com
 .dukeendorsement.com
+.dukesike.top
 .dukimo.com
 .dukirliaon.com
 .dulcormutated.com
@@ -52169,6 +52189,7 @@ zzxosget.com
 .joophesh.com
 .jooptibi.net
 .joorijet.net
+.joowkijejv.com
 .jopd.ru
 .jorbfstarn.com
 .joredi.com
@@ -57031,6 +57052,7 @@ zzxosget.com
 .lskrfj.outletcenter.gr
 .lslld.xyz
 .lslmetrics.djlmgdigital.com
+.lsnoownml.fun
 .lsoiat.svetodom.ru
 .lsper.top
 .lspfuw.siwonschool.com
@@ -59438,6 +59460,7 @@ zzxosget.com
 .mcprofits.com
 .mcpuwpush.com
 .mcqmall.com
+.mcs-va.tiktok.com
 .mcs-va.tiktokv.com
 .mcs.delvenetworks.com
 .mcs.snssdk.com
@@ -61909,6 +61932,7 @@ zzxosget.com
 .moekyepkd.com
 .moengage.com
 .moengagewebsdk.imgix.net
+.moes3quba.cyou
 .moevideo.biz
 .moffreelance.biz
 .mofox.com
@@ -63131,6 +63155,7 @@ zzxosget.com
 .mzcsuuuwox.com
 .mzhw.xyz
 .mzjruy.yocoyoco.com
+.mzlas.xyz
 .mzlit.com
 .mzlscqarnm.com
 .mzokqm.cn
@@ -63822,6 +63847,7 @@ zzxosget.com
 .newideasdaily.com
 .newip-info.com
 .newip427.changeip.net
+.newir3ltyug79aiman.com
 .newjulads.com
 .newjunk4u.com
 .newknowledge.cn
@@ -64855,6 +64881,7 @@ zzxosget.com
 .nsybcghuv.xyz
 .nszmz.com
 .nt.phpwind.com
+.nt6f.top
 .nta1vb6cdlrl.com
 .ntafihnubwg.com
 .ntalker.com
@@ -95155,6 +95182,7 @@ zzxosget.com
 .wirial.com
 .wirsauco.com
 .wisafnie.space
+.wisdomvalley.wang
 .wiseezab.com
 .wisepops.com
 .wisepush.video.baidu.com

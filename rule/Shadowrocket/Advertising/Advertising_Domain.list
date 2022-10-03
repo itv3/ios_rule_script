@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-03 02:32:05
+# UPDATED: 2022-10-04 02:36:53
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 14159
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 77212
+# DOMAIN-SUFFIX: 77225
 # IP-CIDR: 241
 # URL-REGEX: 301
-# TOTAL: 91990
+# TOTAL: 92003
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -34091,6 +34091,7 @@ zzxosget.com
 .cvqgnkeqme.com
 .cvs.kireimo.jp
 .cvsheil.com
+.cvshknd.cn
 .cvt1.sibnet.ru
 .cvtr.io
 .cw.nu
@@ -34127,6 +34128,7 @@ zzxosget.com
 .cxmolk.com
 .cxmygp.xyz
 .cxnroh6u.xyz
+.cxp1c050.cn
 .cxqblog.xyz
 .cxrfns.gu-global.com
 .cxrjjwsh.com
@@ -37616,6 +37618,7 @@ zzxosget.com
 .duiwai.baidu.com
 .dukagrygro.com
 .dukeendorsement.com
+.dukesike.top
 .dukimo.com
 .dukirliaon.com
 .dulcormutated.com
@@ -45754,6 +45757,7 @@ zzxosget.com
 .heighthouseworklizard.com
 .heimen.xyz
 .heimo.rrsdl.com
+.heip3keop.cyou
 .heiqirelle.com
 .heirchurchill.com
 .heiressplane.com
@@ -47286,6 +47290,7 @@ zzxosget.com
 .i36mf.cn
 .i3818.com
 .i3yz.icu
+.i4gk3rxn.cn
 .i4rsrcj6.top
 .i4track.net
 .i4tvy8vk9f74.com
@@ -50339,6 +50344,7 @@ zzxosget.com
 .joophesh.com
 .jooptibi.net
 .joorijet.net
+.joowkijejv.com
 .jopd.ru
 .jorbfstarn.com
 .joredi.com
@@ -56216,6 +56222,7 @@ zzxosget.com
 .mcount.ru
 .mcpuwpush.com
 .mcqmall.com
+.mcs-va.tiktok.com
 .mcs-va.tiktokv.com
 .mcs.delvenetworks.com
 .mcs.snssdk.com
@@ -59209,6 +59216,7 @@ zzxosget.com
 .mzcsuuuwox.com
 .mzhw.xyz
 .mzjruy.yocoyoco.com
+.mzlas.xyz
 .mzlscqarnm.com
 .mzokqm.cn
 .mzol7lbm.com
@@ -59844,6 +59852,7 @@ zzxosget.com
 .newideasdaily.com
 .newip-info.com
 .newip427.changeip.net
+.newir3ltyug79aiman.com
 .newjulads.com
 .newjunk4u.com
 .newknowledge.cn
@@ -60720,6 +60729,7 @@ zzxosget.com
 .nsxtob.cn
 .nsybcghuv.xyz
 .nt.phpwind.com
+.nt6f.top
 .nta1vb6cdlrl.com
 .ntafihnubwg.com
 .ntalker.com
@@ -62312,6 +62322,7 @@ zzxosget.com
 .osmoticanansi.com
 .osndy.com
 .osniffer.pro
+.osnoownmk.fun
 .osnqmw.shooos.cz
 .osonscomprendre.fr
 .osp45qr.site
@@ -81978,6 +81989,7 @@ zzxosget.com
 .tukj.net
 .tukkpixabay.com
 .tukuru.cotta.jp
+.tuleceti.com
 .tulecheja.pro
 .tuliglsd.space
 .tulip18.com
@@ -86362,6 +86374,7 @@ zzxosget.com
 .wirial.com
 .wirsauco.com
 .wisafnie.space
+.wisdomvalley.wang
 .wiseezab.com
 .wisepops.com
 .wisepush.video.baidu.com
