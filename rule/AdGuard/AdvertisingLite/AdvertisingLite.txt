@@ -1,7 +1,7 @@
 ! Title: AdvertisingLite
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-10-05 02:38:54
+! Updated: 2022-10-06 02:41:45
 ! Total: 37167
 
 
