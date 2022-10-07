@@ -1,82 +1,73 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-07 02:36:36
-# DOMAIN: 10414
+# UPDATED: 2022-10-08 02:37:12
+# DOMAIN: 10404
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 91078
+# DOMAIN-SUFFIX: 91150
 # IP-CIDR: 242
-# TOTAL: 101998
+# TOTAL: 102060
 46186911.vtt
-5886316040.com
-7ahj.icu
+609999.xyz
 80055404.vtt
-aa.hwigroup.com
-ab.hwigroup.com
 absurdapple.com
+acc5a261f3.com
 adfstat.yandex.ru
 ads.yahoo.com
 ads.youtube.com
 anxiousapples.com
+aopdqdrkgqbtgci.com
 api.sec.miui.com
 app.ssp.yahoo.com
 appboy-images.com
 applebarq.com
 applequan.com
 applescringe.com
-avellingand.xyz
 awsync.yandex.ru
 beacon.search.yahoo.com
 beap-bc.yahoo.com
-biedawo1004.xyz
-c3daf7c22c.com
+chautchy.net
 crypta.js
-cubimates.com
-cvpvwiody.com
 d1stxfv94hrhia.cloudfront
-daf58a0948.com
+d3evio1yid77jr.cloudfront.net
 dmg-dd.oss-accelerate.aliyuncs.com
-dy5t1b0a29j1v.cloudfront.net
+domestich.xyz
+ducmiptu.net
+farmerfireman.com
+fddf7d58ea.com
+figuis.com
 fpb1.apple886.com
-gsinspiring.xyz
-hotchedbearhug.com
-hppvkbfcuq.com
+freshmall.shop
+ghlyrecome.xyz
+gx4g.top
 https-apple.com
 iadsdk.apple.com
 ib.snssdk.com
-interesteddeterminedeurope.com
-ituoniao.co
-janufa.com
+idesce.com
+improviserelenthousing.com
 jpaasne.e.shifen.com
-lmepychqzfpqlw.com
+liftoff-creatives.io
 log.strm.yandex.ru
-lyrfyti.cn
 marketingsolutions.yahoo.com
 mediaappletree.com
 meitaolianmeng.ltd
 mm.n3w1d0ma1n
 mo.vlpyj.xy
-petwoodfustet.com
+mobidriven.com
+nsweq.xyz
 pr.comet.yahoo.com
-roosteem.net
+qopj.xyz
 rrf.fat1domain1
 shackapple.com
-stats.landingi.com
 stats.video.search.yahoo.com
 sub.powerapple.com
-teurop.com
 theapple.site
-uiteo.xyz
-untrendenam.com
-vfyxjsclor.com
-vnrkbnmoow.com
-wirratailage.com
 wondefulapplend.com
 wzjs1.oss-accelerate.aliyuncs.com
-xlplssgki.com
-xmjikcz.xyz
+xijkye.top
+yfkgnqu.cn
 youtube.local
-ys3g.top
+zt5g.top
 ad.xy2013.cn
 ads.play.cbsi.video
 ads.reembed.com
@@ -10406,7 +10397,6 @@ securemetrics.experience.apple
 securemvt.apple.com
 securemvt.apple.com.cn
 ssp.rambler.ru
-stat.u.sb
 sugar.zhihu.com
 supportmetrics.apple.com
 t.nypost.com
@@ -11384,6 +11374,7 @@ wup-content23.bmoharris.com
 .57e3ascxh1.com
 .57fd2911f09b76.com
 .583d46135c.com
+.5886316040.com
 .588o.top
 .58b291f917728a2.com
 .58gs7b32jy.com
@@ -11739,6 +11730,7 @@ wup-content23.bmoharris.com
 .7ad.media
 .7adea8620f.com
 .7adpower.com
+.7ahj.icu
 .7anfpatlo8lwmb.com
 .7aohmul.cn
 .7b532401e9.com
@@ -12233,6 +12225,7 @@ wup-content23.bmoharris.com
 .aa-metrics.recruit-card.jp
 .aa-metrics.trip-ai.jp
 .aa.0755rc.com
+.aa.hwigroup.com
 .aa.pornvideotop.com
 .aa.voice2page.com
 .aa53df329975c325.com
@@ -12290,6 +12283,7 @@ wup-content23.bmoharris.com
 .ab-log.datahou.se
 .ab.5.p2l.info
 .ab.blogs.es
+.ab.hwigroup.com
 .ab.rejushe.com
 .ab.servogram.io
 .ab.tweakers.nl
@@ -17523,6 +17517,7 @@ wup-content23.bmoharris.com
 .avazunativeads.com
 .avdego.net
 .aveark.com
+.avellingand.xyz
 .avencio.de
 .avenseo.com
 .avenuea.com
@@ -17741,7 +17736,6 @@ wup-content23.bmoharris.com
 .azygeydluhz.com
 .azz.badazz.org
 .azzpbn.com
-.b-aws.huffingtonpost.com
 .b-click.net
 .b-m.xyz
 .b.1istochnik.ru
@@ -17751,7 +17745,6 @@ wup-content23.bmoharris.com
 .b.ddestiny.ru
 .b.dotbrataev.ru
 .b.grvcdn.com
-.b.huffingtonpost.com
 .b.isbnrs.com
 .b.kakoysegodnyaprazdnik.ru
 .b.liquidustv.com
@@ -18007,6 +18000,7 @@ wup-content23.bmoharris.com
 .balsascotleak.com
 .baltchd.net
 .balvalur.com
+.balxetnlnqrna.com
 .bam-bam-slam.com
 .bam-x.com
 .bamagamalama.com
@@ -19034,6 +19028,7 @@ wup-content23.bmoharris.com
 .bidvance.com
 .bidverdrd.com
 .bidvol.com
+.biedawo1004.xyz
 .biemedia.com
 .bienlyclatchy.website
 .biercloud.love
@@ -20427,6 +20422,7 @@ wup-content23.bmoharris.com
 .c3.myapkcdn.in
 .c303.pw
 .c3113b90b1.com
+.c3daf7c22c.com
 .c3h5cae95p.ru
 .c3metrics.com
 .c3t-system-err.club
@@ -21273,6 +21269,7 @@ wup-content23.bmoharris.com
 .challeges.fr
 .challengecircuit.com
 .challengehurts.com
+.chambersthanweed.com
 .chameleon.ad
 .champagne.futurecdn.net
 .championwin.ru
@@ -21334,6 +21331,7 @@ wup-content23.bmoharris.com
 .chavoads.com
 .chawhuxachi.com
 .chayibu.com
+.chazanscapita.com
 .chch.fr
 .cheap-adipex.hut1.ru
 .cheap-ads.net
@@ -21369,6 +21367,7 @@ wup-content23.bmoharris.com
 .cheeltee.net
 .cheemtoo.com
 .cheeradvise.com
+.cheerlessfunnelconcealed.com
 .cheerysequelhoax.com
 .cheetieaha.com
 .cheewhoa.net
@@ -23429,6 +23428,7 @@ wup-content23.bmoharris.com
 .cuberoot.co
 .cuberssnur.com
 .cubeslichees.com
+.cubimates.com
 .cucalm.com
 .cuckooretire.com
 .cuculf.name
@@ -23538,6 +23538,7 @@ wup-content23.bmoharris.com
 .cvastico.com
 .cvintertain.club
 .cvlfqxeujyg.com
+.cvpvwiody.com
 .cvqgnkeqme.com
 .cvsheil.com
 .cvshknd.cn
@@ -23964,6 +23965,7 @@ wup-content23.bmoharris.com
 .d2j1fszo1axgmp.cloudfront.net
 .d2j3te7y7s8xxp.cloudfront.net
 .d2j74sjmqqyf26.cloudfront.net
+.d2jp87c2eoduan.cloudfront.net
 .d2juccxzu13rax.cloudfront.net
 .d2k487jakgs1mb.cloudfront.net
 .d2k7b1tjy36ro0.cloudfront.net
@@ -24322,6 +24324,7 @@ wup-content23.bmoharris.com
 .dadspms.com
 .dadspmz.com
 .daedaelousscri.com
+.daf58a0948.com
 .dafacai360.com
 .daffaite.com
 .dafoljqjmlopaf.com
@@ -24566,6 +24569,7 @@ wup-content23.bmoharris.com
 .dbnghpxnbqpquh.com
 .dbouhtqfxafn.com
 .dbuadjcelk.com
+.dbutilovetr.xyz
 .dbv0r7a702yve.cloudfront.net
 .dby7kx9z9yzse.cloudfront.net
 .dc-storm.com
@@ -25986,6 +25990,7 @@ wup-content23.bmoharris.com
 .dspdy.cn
 .dsply.com
 .dspmulti.com
+.dspsuper.com
 .dspultra.com
 .dspunion.com
 .dspxxy.com
@@ -26023,6 +26028,7 @@ wup-content23.bmoharris.com
 .dtu2kitmpserg.cloudfront.net
 .dtv5loup63fac.cloudfront.net
 .dtwangicrur.com
+.dtx.click
 .dtxngr.com
 .dtxtngytz5im1.cloudfront.net
 .dtyry4ejybx0.cloudfront.net
@@ -26184,6 +26190,7 @@ wup-content23.bmoharris.com
 .dxzky.love
 .dy-home.cc
 .dy2xcjk8s1dbz.cloudfront.net
+.dy5t1b0a29j1v.cloudfront.net
 .dybxezbel1g44.cloudfront.net
 .dycej.com
 .dycxkj.cn
@@ -26502,6 +26509,7 @@ wup-content23.bmoharris.com
 .econda-monitor.de
 .economyobserver.com
 .econrus.ru
+.econtinue.xyz
 .ecortb.com
 .ecossn.com
 .ecoupons.com
@@ -27100,6 +27108,7 @@ wup-content23.bmoharris.com
 .eondunpea.com
 .eonsmedia.com
 .eonwayaha.com
+.eoop6vepv.cyou
 .eoopersed.one
 .eooslfyhziubo.com
 .eopa5tepa.icu
@@ -28303,6 +28312,7 @@ wup-content23.bmoharris.com
 .fhits.xyz
 .fhlong2000.xyz
 .fhlwetaynptikef.xyz
+.fhmrnsbclbdoi.com
 .fhnmzqw.cn
 .fhnsjshsirs.com
 .fhsiqk.xyz
@@ -28796,6 +28806,7 @@ wup-content23.bmoharris.com
 .forflygonom.com
 .forfrogadiertor.com
 .forgerylimit.com
+.forgivenessimpact.com
 .forgivenesspeltanalyse.com
 .forgoprokick.icu
 .forgottedvere.xyz
@@ -30815,6 +30826,7 @@ wup-content23.bmoharris.com
 .gsecurecontent.com
 .gserv.cneteu.net
 .gsimedia.net
+.gsinspiring.xyz
 .gsmonitor.ru
 .gsmtop.net
 .gsqweb.cn
@@ -31355,6 +31367,7 @@ wup-content23.bmoharris.com
 .hddss.top
 .hdgzta.com
 .hdherpc.cn
+.hdhqrlcbmmvol.com
 .hditers.com
 .hdjlkj.vip
 .hdkal67.cn
@@ -32084,6 +32097,7 @@ wup-content23.bmoharris.com
 .hotbanner.site
 .hotchat-im.iqiyi.com
 .hotchatdate.com
+.hotchedbearhug.com
 .hotchix.servepics.com
 .hotcounter.de
 .hotdesertknights.fr
@@ -32173,11 +32187,13 @@ wup-content23.bmoharris.com
 .hpljupfyb.com
 .hplose.de
 .hpmhvni.cn
+.hppvkbfcuq.com
 .hpqhqvko.com
 .hpqkefubptfsb.xyz
 .hprofits.com
 .hpvhxydnsa.com
 .hpvvn.com
+.hpxfqehx.com
 .hpxlfmddqw.xyz
 .hpygame.com
 .hpyjmp.com
@@ -32700,6 +32716,7 @@ wup-content23.bmoharris.com
 .iddu1vvb7sk8-a.akamaihd.net
 .ideahealkeeper.com
 .idealmedia.io
+.ideatehimawan.com
 .idelv.net
 .identads.com
 .identificationralphrefuel.com
@@ -33066,6 +33083,7 @@ wup-content23.bmoharris.com
 .impressionmonster.com
 .impressionz.co.uk
 .impressivepointcircular.com
+.impril.com
 .improveapesbates.com
 .improvedevictpanther.com
 .improvedigital.com
@@ -33480,6 +33498,7 @@ wup-content23.bmoharris.com
 .intercom-clicks.com
 .interdfp.com
 .interestclank.com
+.interesteddeterminedeurope.com
 .interesting.cc
 .interestingclear.com
 .interfacewarrefrain.com
@@ -33867,6 +33886,7 @@ wup-content23.bmoharris.com
 .itsfree123.com
 .itskiddoan.club
 .ittorchicer.com
+.ituoniao.co
 .itweedler.com
 .itweepinbelltor.com
 .itxinrou.com
@@ -34008,6 +34028,7 @@ wup-content23.bmoharris.com
 .jadeitite.com
 .jadout.com
 .jaftouja.net
+.jaggiertridii.com
 .jagoiklan.com
 .jagopromo.com
 .jailershowmen.com
@@ -34034,6 +34055,7 @@ wup-content23.bmoharris.com
 .janimperativefinance.com
 .janitoraccrue.com
 .janrain.xyz
+.janufa.com
 .jao38.xyz
 .jaodpowmsdnqgd.xyz
 .japabi.com
@@ -34260,6 +34282,7 @@ wup-content23.bmoharris.com
 .jiese.fun
 .jiezoiq.cn
 .jiffspogonia.com
+.jigado.com
 .jigdigtry.com
 .jighucme.com
 .jiglarexi.com
@@ -36880,6 +36903,7 @@ wup-content23.bmoharris.com
 .lmcraft.pw
 .lmeexisten.xyz
 .lmefarketi.com
+.lmepychqzfpqlw.com
 .lmht-membership.com
 .lmiutil.com
 .lmjy.us
@@ -37360,6 +37384,7 @@ wup-content23.bmoharris.com
 .lpirha.com
 .lpjgr.top
 .lpjms.cn
+.lplimjxiyx.com
 .lpnottech.com
 .lpoint.fr
 .lporirxe.com
@@ -37388,6 +37413,7 @@ wup-content23.bmoharris.com
 .lrqugqq.cn
 .lrxlbekpmav.com
 .lrysogsil.uno
+.lrzsksw.cn
 .ls.srvcs.tumblr.com
 .lsaeb.com
 .lsariz.com
@@ -37600,6 +37626,7 @@ wup-content23.bmoharris.com
 .lyophililse.fr
 .lypn.com
 .lypn.net
+.lyrfyti.cn
 .lyricalcomfortfatherinlaw.com
 .lyricslocusvaried.com
 .lyricsmint.red
@@ -37946,6 +37973,7 @@ wup-content23.bmoharris.com
 .mankindenvelope.com
 .mannerstiring.com
 .mansavou.net
+.mansernema.com
 .mansion66.com
 .mantisadnetwork.com
 .mantledonager.com
@@ -39302,6 +39330,7 @@ wup-content23.bmoharris.com
 .modesesameway.com
 .modestknownspooky.com
 .modestsunf.com
+.modichytdc.com
 .modificationdispatch.com
 .modifymaintenance.com
 .modoro360.com
@@ -39591,6 +39620,7 @@ wup-content23.bmoharris.com
 .mpkwleyxkmt.com
 .mplaylist-ads.zadn.vn
 .mplaylist-ads.zascdn.me
+.mployeesihi.xyz
 .mplxtms.com
 .mpnrs.com
 .mpnvhuokd.com
@@ -40474,6 +40504,7 @@ wup-content23.bmoharris.com
 .nestcook.com
 .nestedmedia.com
 .nestledmph.com
+.nestleexperiment.com
 .neszmely.eu
 .net-filter.com
 .net-protector.com
@@ -41190,6 +41221,7 @@ wup-content23.bmoharris.com
 .nshynvupjnm.com
 .nsionscorm.com
 .nsmartad.com
+.nsnoownmc.fun
 .nsontrackso.online
 .nsoqa.com
 .nsparket.top
@@ -41292,6 +41324,7 @@ wup-content23.bmoharris.com
 .nums1.link
 .nunailsum.com
 .nunhoefey.com
+.nuniceberg.com
 .nuninz.com
 .nunscawamok.icu
 .nupcn.com
@@ -41324,6 +41357,7 @@ wup-content23.bmoharris.com
 .nversitymi.com
 .nvidpn.com
 .nvjqm.com
+.nvkvrqlkglwn.com
 .nvmcavgqcr.com
 .nvmjdpbjgrh.com
 .nvqhbij.cn
@@ -42888,6 +42922,7 @@ wup-content23.bmoharris.com
 .pakbanners.com
 .pakistant.club
 .pakpolice.com
+.palama2.co
 .palama2.com
 .palandan.com
 .palasidesdoor.com
@@ -43119,6 +43154,7 @@ wup-content23.bmoharris.com
 .paulflashlight.com
 .paulomatosconsultores.com.br
 .paulsnetwork.com
+.paunct.com
 .paurif.com
 .paurozel.net
 .pauzajoo.net
@@ -43429,6 +43465,7 @@ wup-content23.bmoharris.com
 .pettybitternessablebodied.com
 .pettybureaushady.com
 .petunsehemiope.com
+.petwoodfustet.com
 .petzel.be
 .peukasrsihav.xyz
 .pewdomdiff.com
@@ -45729,6 +45766,7 @@ wup-content23.bmoharris.com
 .qlqtnqlruou.com
 .qlsvowqnbzu.com
 .qlugsc.cn
+.qmbaabdsyg.com
 .qmbnkdh.cn
 .qmdllqv.cn
 .qmgaozjo.com
@@ -47439,6 +47477,7 @@ wup-content23.bmoharris.com
 .roommatespacioushrs.com
 .roomspublisher.com
 .roosevelt.gjbig.com
+.roosteem.net
 .roosterfirework.com
 .rootbuzz.com
 .rootstood.club
@@ -47944,6 +47983,7 @@ wup-content23.bmoharris.com
 .saambaa.com
 .sabafon.info
 .sabaistsubmit.com
+.sabaothamsonia.com
 .sabavision.com
 .saber.srvcs.tumblr.com
 .sabio.us
@@ -48435,6 +48475,7 @@ wup-content23.bmoharris.com
 .searchwe.com
 .seasonale.1.p2l.info
 .seatsmoke.com
+.seatsrehearseinitial.com
 .seaweedludicrous.com
 .seayipsex.com
 .seb121.net
@@ -49025,6 +49066,7 @@ wup-content23.bmoharris.com
 .shinearmor.space
 .shinebliss.com
 .shinedns.net
+.shinglelatitude.com
 .shinkado.ru
 .shino3ur.xyz
 .shinyarcadiaproximity.com
@@ -50122,6 +50164,7 @@ wup-content23.bmoharris.com
 .specialadves.com
 .specialfox.cool
 .specialistcartoonparable.com
+.specialityharmoniousgypsy.com
 .specially4u.net
 .specialoffers.aol.com
 .specialscammerinitially.com
@@ -50584,6 +50627,7 @@ wup-content23.bmoharris.com
 .stat.teleport.media
 .stat.thestartmagazine.com
 .stat.torrentbar.com
+.stat.u.sb
 .stat.uitools.space
 .stat.ustore.bz
 .stat.videonow.ru
@@ -50745,6 +50789,7 @@ wup-content23.bmoharris.com
 .stats.investors.com
 .stats.jippii.com
 .stats.ladotstats.nl
+.stats.landingi.com
 .stats.lptracker.ru
 .stats.macmillanusa.com
 .stats.mehrnews.com
@@ -52299,6 +52344,7 @@ wup-content23.bmoharris.com
 .tetoolbox.com
 .tetrantreverer.com
 .tetrylscullion.com
+.teurop.com
 .tevwyvmashluaf.com
 .tevyshila.com
 .tework.cn
@@ -52351,6 +52397,7 @@ wup-content23.bmoharris.com
 .tgadv.it
 .tgadvcdn.it
 .tgajkmoylonqew.com
+.tgandmotiv.xyz
 .tgaqxo.com
 .tgdaudience.com
 .tgdmpf.com
@@ -54502,6 +54549,7 @@ wup-content23.bmoharris.com
 .uiqakwjmugofbuu.com
 .uisafnit.space
 .uiswtr3.xyz
+.uiteo.xyz
 .uitrens.ru
 .uiuspakmn.bar
 .uj0g7.com
@@ -54790,6 +54838,7 @@ wup-content23.bmoharris.com
 .untily.com
 .untimburra.com
 .untr.xyz
+.untrendenam.com
 .untripemegrez.casa
 .untropiuson.com
 .untruecitycheater.com
@@ -55544,6 +55593,7 @@ wup-content23.bmoharris.com
 .vftbnl.com
 .vfunls.com
 .vfvdsati.com
+.vfyxjsclor.com
 .vg4u8rvq65t6.com
 .vgfutxwgq.com
 .vggdaiesp.com
@@ -55902,6 +55952,7 @@ wup-content23.bmoharris.com
 .visitstreamer.com
 .visitsviolatedifficult.com
 .visitweb.com
+.vissregion.com
 .vistashomonid.com
 .visto1.net
 .vistoolr.net
@@ -56036,6 +56087,7 @@ wup-content23.bmoharris.com
 .vnr82.com
 .vnr83.com
 .vnrherdsxr.com
+.vnrkbnmoow.com
 .vnrvss.com
 .vntop88.com
 .vntsm.com
@@ -57276,6 +57328,7 @@ wup-content23.bmoharris.com
 .wirenth.com
 .wirewuss.com
 .wirial.com
+.wirratailage.com
 .wirsauco.com
 .wisafnie.space
 .wisdomvalley.wang
@@ -58482,6 +58535,7 @@ wup-content23.bmoharris.com
 .xflsj.com
 .xflz.xyz
 .xfnkds.com
+.xfpyfswogmnyb.com
 .xfreeservice.com
 .xfrena.com
 .xfvbs.cn
@@ -58641,6 +58695,7 @@ wup-content23.bmoharris.com
 .xjsq.xyz
 .xjwrq.com
 .xjzcbddnj.com
+.xjzyxlesdcq.com
 .xk3b.top
 .xkd.hk
 .xketil.com
@@ -58672,6 +58727,7 @@ wup-content23.bmoharris.com
 .xlog.tiktokv.com
 .xlounge.ru
 .xlow.xyz
+.xlplssgki.com
 .xlrdr.com
 .xlviiirdr.com
 .xlviirdr.com
@@ -58686,6 +58742,7 @@ wup-content23.bmoharris.com
 .xmgdgo.cn
 .xmhaorizi.cn
 .xmilqyyg.com
+.xmjikcz.xyz
 .xml-api.online
 .xml.adtech.fr
 .xml.adtech.us
@@ -58854,6 +58911,7 @@ wup-content23.bmoharris.com
 .xuchangmuying.com
 .xuculit.ru
 .xudawhuwa.com
+.xueaaai.cn
 .xueaaaw.cn
 .xuebim.top
 .xuekalun.com
@@ -59601,6 +59659,7 @@ wup-content23.bmoharris.com
 .ys2000.cdn.bcebos.com
 .ys2727.xyz
 .ys3e965d.top
+.ys3g.top
 .ys9mw1u.cn
 .ysclub.top
 .ysczggasfx.com
@@ -75744,6 +75803,7 @@ wup-content23.bmoharris.com
 .aurorapush.cn
 .aurorapush.com
 .ausaas.cn
+.autdjng.cn
 .auth.follow-apps.com
 .auth.split.io
 .auth.wosms.cn
@@ -78573,6 +78633,7 @@ wup-content23.bmoharris.com
 .embed.sendtonews.com
 .embed.tagboard.com.herokudns.com
 .embeds.fanmatics.com
+.emblvw.cn
 .embpyf.flaghouse.com
 .emea.kollmorgen.com
 .emetrics.bose.com
@@ -78639,7 +78700,6 @@ wup-content23.bmoharris.com
 .eoiaso.onofre.com.br
 .eokzre.jd-sports.com.au
 .eolvci.olx.ro
-.eoop6vepv.cyou
 .eozwcp.jetex.com
 .ep.americanexpress.com
 .epcdko.forevernew.com.au
@@ -79992,6 +80052,7 @@ wup-content23.bmoharris.com
 .i.justblinds.com
 .i.po.st
 .i0.webgame.kanimg.com
+.i0l7.icu
 .i1.webgame.kanimg.com
 .i16-tb.isnssdk.com.edgekey.net
 .i2.webgame.kanimg.com
@@ -81173,6 +81234,7 @@ wup-content23.bmoharris.com
 .limkokwing-edu.cn
 .limpet.coinponent.com
 .limpet.yago.dev
+.limpingfish.pro
 .lindawei.cn
 .lingd.cn
 .linglong.supersuer.com
@@ -81394,7 +81456,6 @@ wup-content23.bmoharris.com
 .lrevfhmp.cn
 .lrhyty.weeronline.nl
 .lrjjly.rockler.com
-.lrzsksw.cn
 .lsad.net
 .lsawards.com
 .lsebay.com
@@ -83404,7 +83465,6 @@ wup-content23.bmoharris.com
 .nsfwads.com
 .nsm.dell.com
 .nsmetrics.ni.com
-.nsnoownmc.fun
 .nssipj.naturaselection.com
 .nsteq.queensland.com
 .nszmz.com
@@ -85014,6 +85074,7 @@ wup-content23.bmoharris.com
 .rs.adledge.com
 .rs2.adledge.com
 .rscc3.cc
+.rsnoownmz.fun
 .rss-loader.com
 .rsspump.com
 .rt2.m.630book.la
@@ -89671,6 +89732,7 @@ wup-content23.bmoharris.com
 .weighted.com.akadns.net
 .weilang.site
 .weiledi.com
+.weio6nkoe.cyou
 .weixinxx.com
 .weizjzg.com
 .wejibk.com.cn
@@ -90182,13 +90244,13 @@ wup-content23.bmoharris.com
 .xuawdz.xn--b1aedqiqb.xn--p1ai
 .xuchuang.com
 .xudmrz.conforama.fr
-.xueaaai.cn
 .xuexingkeji.cn
 .xukekk.oshkosh.com
 .xun.mobi
 .xunchn.com
 .xunfan.net
 .xunleiii.com
+.xunsilu.com
 .xunyangdianzi4.cn
 .xunyibaike.com
 .xushenghb.com
