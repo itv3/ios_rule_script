@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-08 02:38:10
-# DOMAIN: 84
+# UPDATED: 2022-10-09 02:33:15
+# DOMAIN: 78
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66549
+# DOMAIN-SUFFIX: 66546
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 66657
+# TOTAL: 66648
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -21,7 +21,6 @@ payload:
   - DOMAIN,origin-a.akamaihd.ne
   - DOMAIN,origin-a.akamaihd.net
   - DOMAIN,outlook.office365.com
-  - DOMAIN,safebrowsing.googleapis.com
   - DOMAIN,sms.imagetasks.com
   - DOMAIN,smtp.office365.com
   - DOMAIN,steamcommunity-a.akamaihd.net
@@ -39,7 +38,6 @@ payload:
   - DOMAIN,cdn.ampproject.org
   - DOMAIN,checkin.gstatic.com
   - DOMAIN,clickserve.dartsearch.net
-  - DOMAIN,clientservices.googleapis.com
   - DOMAIN,connectivitycheck.gstatic.com
   - DOMAIN,crl.pki.goog
   - DOMAIN,dartsearch-cn.net
@@ -47,7 +45,6 @@ payload:
   - DOMAIN,doubleclick.net
   - DOMAIN,emoi-cncdn.bing.com
   - DOMAIN,firebase-settings.crashlytics.com
-  - DOMAIN,fonts.googleapis.com
   - DOMAIN,fonts.gstatic.com
   - DOMAIN,g1.gstatic.com
   - DOMAIN,g2.gstatic.com
@@ -74,7 +71,6 @@ payload:
   - DOMAIN,gvt2-cn.com
   - DOMAIN,hospital.pku.edu.cn
   - DOMAIN,images-cn-8.ssl-images-amazon.com
-  - DOMAIN,imasdk.googleapis.com
   - DOMAIN,kc.kexinshe.com
   - DOMAIN,menu-static.gog-statics.com
   - DOMAIN,moocs.unipus.cn
@@ -83,12 +79,10 @@ payload:
   - DOMAIN,productcard.gog-statics.com
   - DOMAIN,recaptcha.net
   - DOMAIN,redirector.gvt1.com
-  - DOMAIN,regioninfo-pa.googleapis.com
   - DOMAIN,ss.bjmu.edu.cn
   - DOMAIN,ssl.gstatic.com
   - DOMAIN,static-login.gog-statics.com
   - DOMAIN,tesla-cdn.thron.cn
-  - DOMAIN,update.googleapis.com
   - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
   - DOMAIN,www.gstatic.com
   - DOMAIN,www.recaptcha.net
@@ -522,7 +516,6 @@ payload:
   - DOMAIN-SUFFIX,sinaapp.com
   - DOMAIN-SUFFIX,sinaimg.cn
   - DOMAIN-SUFFIX,sinaimg.com
-  - DOMAIN-SUFFIX,sm.ms
   - DOMAIN-SUFFIX,smartisan.com
   - DOMAIN-SUFFIX,smzdm.com
   - DOMAIN-SUFFIX,snapdrop.net
@@ -2665,7 +2658,6 @@ payload:
   - DOMAIN-SUFFIX,217wo.com
   - DOMAIN-SUFFIX,218318.com
   - DOMAIN-SUFFIX,218996.com
-  - DOMAIN-SUFFIX,2197079.com
   - DOMAIN-SUFFIX,21bcr.com
   - DOMAIN-SUFFIX,21beats.com
   - DOMAIN-SUFFIX,21bm.com
@@ -66193,7 +66185,6 @@ payload:
   - DOMAIN-SUFFIX,zuankezu.com
   - DOMAIN-SUFFIX,zuanshi.com
   - DOMAIN-SUFFIX,zuanshitoupiao.com
-  - DOMAIN-SUFFIX,zuanshivpn.com
   - DOMAIN-SUFFIX,zuantao.cc
   - DOMAIN-SUFFIX,zuber.im
   - DOMAIN-SUFFIX,zubunet.com

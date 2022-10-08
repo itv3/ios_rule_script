@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-08 02:38:08
-# DOMAIN: 84
+# UPDATED: 2022-10-09 02:33:14
+# DOMAIN: 78
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66549
+# DOMAIN-SUFFIX: 66546
 # IP-CIDR: 10
 # IP-CIDR6: 4
 # USER-AGENT: 31
-# TOTAL: 66688
+# TOTAL: 66679
 265.com
 2mdn-cn.net
 2mdn.net
@@ -27,7 +27,6 @@ cdp.cloud.unity3d.com
 checkin.gstatic.com
 clickserve.dartsearch.net
 client.amplifi.com
-clientservices.googleapis.com
 connectivitycheck.gstatic.com
 crl.pki.goog
 dartsearch-cn.net
@@ -37,7 +36,6 @@ doubleclick.net
 download.jetbrains.com
 emoi-cncdn.bing.com
 firebase-settings.crashlytics.com
-fonts.googleapis.com
 fonts.gstatic.com
 g1.gstatic.com
 g2.gstatic.com
@@ -65,7 +63,6 @@ gvt2-cn.com
 hospital.pku.edu.cn
 images-cn-8.ssl-images-amazon.com
 images-cn.ssl-images-amazon.com
-imasdk.googleapis.com
 ip.istatmenus.app
 kc.kexinshe.com
 menu-static.gog-statics.com
@@ -79,8 +76,6 @@ outlook.office365.com
 productcard.gog-statics.com
 recaptcha.net
 redirector.gvt1.com
-regioninfo-pa.googleapis.com
-safebrowsing.googleapis.com
 sms.imagetasks.com
 smtp.office365.com
 ss.bjmu.edu.cn
@@ -88,7 +83,6 @@ ssl.gstatic.com
 static-login.gog-statics.com
 steamcommunity-a.akamaihd.net
 tesla-cdn.thron.cn
-update.googleapis.com
 uplaypc-s-ubisoft.cdn.ubi.com
 www.gstatic.com
 www.recaptcha.net
@@ -2118,7 +2112,6 @@ www4-static.gog-statics.com
 .217wo.com
 .218318.com
 .218996.com
-.2197079.com
 .21bcr.com
 .21beats.com
 .21bm.com
@@ -49587,7 +49580,6 @@ www4-static.gog-statics.com
 .sm-check.com
 .sm-cq.com
 .sm-main.com
-.sm.ms
 .sm012.com
 .sm160.com
 .sm160.net
@@ -66193,7 +66185,6 @@ www4-static.gog-statics.com
 .zuankezu.com
 .zuanshi.com
 .zuanshitoupiao.com
-.zuanshivpn.com
 .zuantao.cc
 .zuber.im
 .zubunet.com

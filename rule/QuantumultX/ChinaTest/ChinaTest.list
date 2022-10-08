@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-08 02:38:09
-# HOST: 84
+# UPDATED: 2022-10-09 02:33:14
+# HOST: 78
 # HOST-KEYWORD: 10
-# HOST-SUFFIX: 66549
+# HOST-SUFFIX: 66546
 # IP-CIDR: 10
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 66688
+# TOTAL: 66679
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdp.cloud.unity3d.com,ChinaTest
@@ -21,7 +21,6 @@ HOST,mtalk.google.com,ChinaTest
 HOST,origin-a.akamaihd.ne,ChinaTest
 HOST,origin-a.akamaihd.net,ChinaTest
 HOST,outlook.office365.com,ChinaTest
-HOST,safebrowsing.googleapis.com,ChinaTest
 HOST,sms.imagetasks.com,ChinaTest
 HOST,smtp.office365.com,ChinaTest
 HOST,steamcommunity-a.akamaihd.net,ChinaTest
@@ -39,7 +38,6 @@ HOST,c.admob.com,ChinaTest
 HOST,cdn.ampproject.org,ChinaTest
 HOST,checkin.gstatic.com,ChinaTest
 HOST,clickserve.dartsearch.net,ChinaTest
-HOST,clientservices.googleapis.com,ChinaTest
 HOST,connectivitycheck.gstatic.com,ChinaTest
 HOST,crl.pki.goog,ChinaTest
 HOST,dartsearch-cn.net,ChinaTest
@@ -47,7 +45,6 @@ HOST,doubleclick-cn.net,ChinaTest
 HOST,doubleclick.net,ChinaTest
 HOST,emoi-cncdn.bing.com,ChinaTest
 HOST,firebase-settings.crashlytics.com,ChinaTest
-HOST,fonts.googleapis.com,ChinaTest
 HOST,fonts.gstatic.com,ChinaTest
 HOST,g1.gstatic.com,ChinaTest
 HOST,g2.gstatic.com,ChinaTest
@@ -74,7 +71,6 @@ HOST,gvt1-cn.com,ChinaTest
 HOST,gvt2-cn.com,ChinaTest
 HOST,hospital.pku.edu.cn,ChinaTest
 HOST,images-cn-8.ssl-images-amazon.com,ChinaTest
-HOST,imasdk.googleapis.com,ChinaTest
 HOST,kc.kexinshe.com,ChinaTest
 HOST,menu-static.gog-statics.com,ChinaTest
 HOST,moocs.unipus.cn,ChinaTest
@@ -83,12 +79,10 @@ HOST,opencourse.pku.edu.cn,ChinaTest
 HOST,productcard.gog-statics.com,ChinaTest
 HOST,recaptcha.net,ChinaTest
 HOST,redirector.gvt1.com,ChinaTest
-HOST,regioninfo-pa.googleapis.com,ChinaTest
 HOST,ss.bjmu.edu.cn,ChinaTest
 HOST,ssl.gstatic.com,ChinaTest
 HOST,static-login.gog-statics.com,ChinaTest
 HOST,tesla-cdn.thron.cn,ChinaTest
-HOST,update.googleapis.com,ChinaTest
 HOST,uplaypc-s-ubisoft.cdn.ubi.com,ChinaTest
 HOST,www.gstatic.com,ChinaTest
 HOST,www.recaptcha.net,ChinaTest
@@ -522,7 +516,6 @@ HOST-SUFFIX,sina.com,ChinaTest
 HOST-SUFFIX,sinaapp.com,ChinaTest
 HOST-SUFFIX,sinaimg.cn,ChinaTest
 HOST-SUFFIX,sinaimg.com,ChinaTest
-HOST-SUFFIX,sm.ms,ChinaTest
 HOST-SUFFIX,smartisan.com,ChinaTest
 HOST-SUFFIX,smzdm.com,ChinaTest
 HOST-SUFFIX,snapdrop.net,ChinaTest
@@ -2665,7 +2658,6 @@ HOST-SUFFIX,217play.com,ChinaTest
 HOST-SUFFIX,217wo.com,ChinaTest
 HOST-SUFFIX,218318.com,ChinaTest
 HOST-SUFFIX,218996.com,ChinaTest
-HOST-SUFFIX,2197079.com,ChinaTest
 HOST-SUFFIX,21bcr.com,ChinaTest
 HOST-SUFFIX,21beats.com,ChinaTest
 HOST-SUFFIX,21bm.com,ChinaTest
@@ -66193,7 +66185,6 @@ HOST-SUFFIX,zuanke8.com,ChinaTest
 HOST-SUFFIX,zuankezu.com,ChinaTest
 HOST-SUFFIX,zuanshi.com,ChinaTest
 HOST-SUFFIX,zuanshitoupiao.com,ChinaTest
-HOST-SUFFIX,zuanshivpn.com,ChinaTest
 HOST-SUFFIX,zuantao.cc,ChinaTest
 HOST-SUFFIX,zuber.im,ChinaTest
 HOST-SUFFIX,zubunet.com,ChinaTest

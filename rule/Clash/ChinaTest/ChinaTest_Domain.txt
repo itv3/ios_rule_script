@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-08 02:38:10
-# DOMAIN: 84
+# UPDATED: 2022-10-09 02:33:15
+# DOMAIN: 78
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66549
+# DOMAIN-SUFFIX: 66546
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 66657
+# TOTAL: 66648
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdp.cloud.unity3d.com
@@ -20,7 +20,6 @@ mtalk.google.com
 origin-a.akamaihd.ne
 origin-a.akamaihd.net
 outlook.office365.com
-safebrowsing.googleapis.com
 sms.imagetasks.com
 smtp.office365.com
 steamcommunity-a.akamaihd.net
@@ -38,7 +37,6 @@ c.admob.com
 cdn.ampproject.org
 checkin.gstatic.com
 clickserve.dartsearch.net
-clientservices.googleapis.com
 connectivitycheck.gstatic.com
 crl.pki.goog
 dartsearch-cn.net
@@ -46,7 +44,6 @@ doubleclick-cn.net
 doubleclick.net
 emoi-cncdn.bing.com
 firebase-settings.crashlytics.com
-fonts.googleapis.com
 fonts.gstatic.com
 g1.gstatic.com
 g2.gstatic.com
@@ -73,7 +70,6 @@ gvt1-cn.com
 gvt2-cn.com
 hospital.pku.edu.cn
 images-cn-8.ssl-images-amazon.com
-imasdk.googleapis.com
 kc.kexinshe.com
 menu-static.gog-statics.com
 moocs.unipus.cn
@@ -82,12 +78,10 @@ opencourse.pku.edu.cn
 productcard.gog-statics.com
 recaptcha.net
 redirector.gvt1.com
-regioninfo-pa.googleapis.com
 ss.bjmu.edu.cn
 ssl.gstatic.com
 static-login.gog-statics.com
 tesla-cdn.thron.cn
-update.googleapis.com
 uplaypc-s-ubisoft.cdn.ubi.com
 www.gstatic.com
 www.recaptcha.net
@@ -521,7 +515,6 @@ www4-static.gog-statics.com
 .sinaapp.com
 .sinaimg.cn
 .sinaimg.com
-.sm.ms
 .smartisan.com
 .smzdm.com
 .snapdrop.net
@@ -2664,7 +2657,6 @@ www4-static.gog-statics.com
 .217wo.com
 .218318.com
 .218996.com
-.2197079.com
 .21bcr.com
 .21beats.com
 .21bm.com
@@ -66192,7 +66184,6 @@ www4-static.gog-statics.com
 .zuankezu.com
 .zuanshi.com
 .zuanshitoupiao.com
-.zuanshivpn.com
 .zuantao.cc
 .zuber.im
 .zubunet.com
