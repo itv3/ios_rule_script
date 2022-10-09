@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-09 02:31:43
+# UPDATED: 2022-10-10 02:30:52
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 1
 # DOMAIN: 14214
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 76746
+# DOMAIN-SUFFIX: 76770
 # IP-CIDR: 241
 # URL-REGEX: 301
-# TOTAL: 91580
+# TOTAL: 91604
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -14280,6 +14280,7 @@ zzxosget.com
 .0272bb.com
 .0272dd.com
 .027whht.com
+.028708717f.com
 .029mxhs.cn
 .02aa19117f396e9.com
 .02b57bb965.com
@@ -16667,6 +16668,7 @@ zzxosget.com
 .8xbet71.com
 .8xbet96.com
 .8zhou.wang
+.8zzo.icu
 .9001476746.com
 .90053999.com
 .90158js.com
@@ -24781,6 +24783,7 @@ zzxosget.com
 .arsdev.net
 .arshelmeton.com
 .arshineensnarl.com
+.arsnivyr.com
 .arsonexchangefly.com
 .arsonunemployedcask.com
 .arswabluchan.com
@@ -28316,6 +28319,7 @@ zzxosget.com
 .boomj.club
 .boomselljamwelunch.com
 .boomtrain.com
+.boorishregt.com
 .boosirad.net
 .boost-next.co.jp
 .boostable.com
@@ -30082,6 +30086,7 @@ zzxosget.com
 .cchfjz.com
 .cchvc.net
 .ccieurope.fr
+.ccio6rope.cyou
 .ccioo.vip
 .ccjrapjmxq.com
 .ccjudian.com
@@ -30595,6 +30600,7 @@ zzxosget.com
 .cgznataqg.com
 .ch.sharpmarketing.eu
 .ch0p.darty.com
+.ch6g.top
 .ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 .cha2spoi3rasne.com
 .chabeiren.com
@@ -32824,6 +32830,7 @@ zzxosget.com
 .conusmedia.com
 .conv.youdao.com
 .convdlink.com
+.conventforgotten.com
 .conventionforgetful.com
 .converge-digital.com
 .convergetrack.com
@@ -40340,6 +40347,7 @@ zzxosget.com
 .eyouv.cn
 .eysmaa.pw
 .eywvmnf.cn
+.eyxtfk.cn
 .eyzubm.gooutdoors.co.uk
 .ez33.org.cn
 .ezaktak.ru
@@ -47083,6 +47091,7 @@ zzxosget.com
 .hzlm.cc
 .hzmiyou.cn
 .hznvtg.com
+.hzrrmh.cn
 .hzs1202.site
 .hzsod71wov.me
 .hzucji.com
@@ -49439,6 +49448,7 @@ zzxosget.com
 .j.zhdap.com
 .j.zlszw.com
 .j04.xyz
+.j04r.top
 .j05.xyz
 .j1.piaobing.com
 .j158.hearstmediact.com
@@ -51052,6 +51062,7 @@ zzxosget.com
 .kehuziliaona.com
 .keighleynews-gb.keighleynews.co.uk
 .keitush.ru
+.kejasosy.com
 .kejebbirmaxmwhv.xyz
 .kejet.com
 .kejet.net
@@ -53436,6 +53447,8 @@ zzxosget.com
 .littlecutelions.com
 .littleduck.fr
 .littlementok.site
+.littleneptunenews.com
+.littlmarsnews22.com
 .litusher.com
 .liuchengming.com
 .liufang1994.top
@@ -59272,6 +59285,7 @@ zzxosget.com
 .nbasicalbuffere.info
 .nbazhaheic.top
 .nbcxa65t002z.net.zooplus.fr
+.nbd56.cn
 .nbet.com
 .nbet.top
 .nbet.vip
@@ -60156,6 +60170,7 @@ zzxosget.com
 .noagliph.com
 .noagloot.net
 .noahos.cn
+.noahparroty.com
 .noaloheb.com
 .noamiagainst.pro
 .noamiscience.pro
@@ -63344,6 +63359,7 @@ zzxosget.com
 .pegasuson.com
 .pegasusplate.com
 .peggedolga.com
+.peggedperfins.com
 .pegloang.com
 .pegristofi.com
 .pei-ads.playboy.com
@@ -71473,6 +71489,7 @@ zzxosget.com
 .shengduobao.shop
 .shenghemy.mobi
 .shenghuo.xiaomi.com
+.shenglishamo.com
 .shenglonghg.net
 .shengshipump.cn
 .shengtaiyuan.mobi
@@ -72307,6 +72324,7 @@ zzxosget.com
 .sls2.loisirsencheres.com
 .slshiye.cn
 .slsynmlb.fun
+.slsyuulb.cam
 .sltcp.cn
 .sluicejell.com
 .sluiceliable.com
@@ -75720,6 +75738,7 @@ zzxosget.com
 .stats.seedthemes.com
 .stats.seedwebs.com
 .stats.self.com
+.stats.seotraff.team
 .stats.sexemodel.com
 .stats.sexplore.app
 .stats.share.link
@@ -77762,6 +77781,7 @@ zzxosget.com
 .tdtxjhel.com
 .tdtxkvj.cn
 .tdugvspdnq.com
+.tdvwmdn.cn
 .tdzvm.pw
 .te.about.com
 .te.ackermann.ch
@@ -87812,6 +87832,7 @@ zzxosget.com
 .xcsypkknp.com
 .xcummws.cn
 .xcvgdf.party
+.xcvur.xyz
 .xcwzq.xyz
 .xcxzxc.cn
 .xcy8.com
@@ -90662,6 +90683,7 @@ zzxosget.com
 .zprelandappslab.com
 .zprelandings.com
 .zprk.io
+.zpsh.shop
 .zptxjlh.cn
 .zpu.samsungelectronics.com
 .zpujlrylfvk.com
@@ -90727,6 +90749,7 @@ zzxosget.com
 .zslhmw.com
 .zsmmflxvkgvmcf.com
 .zsmyzg.cn
+.zsnoownmq.fun
 .zstjy.com
 .zswph.com
 .zswxrfwnapgg.com
@@ -90877,6 +90900,7 @@ zzxosget.com
 .zybpj.com
 .zybrdr.com
 .zybveu.swappie.com
+.zycaphede.com
 .zychologla.com
 .zycvyudt.com
 .zydyjzw.cn

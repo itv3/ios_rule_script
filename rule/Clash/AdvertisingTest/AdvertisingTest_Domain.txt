@@ -1,59 +1,84 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-09 02:32:30
-# DOMAIN: 10391
+# UPDATED: 2022-10-10 02:31:34
+# DOMAIN: 10396
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 91194
+# DOMAIN-SUFFIX: 91220
 # IP-CIDR: 242
-# TOTAL: 102091
+# TOTAL: 102122
+3p-geo.yahoo.com
+3p-udc.yahoo.com
 46186911.vtt
 80055404.vtt
-8zzo.icu
+abc2022.ys137.com.cn
 absurdapple.com
+adfox.yandex.ru
 adfstat.yandex.ru
 ads.yahoo.com
 ads.youtube.com
+adsdk.yandex.ru
+an.yandex.ru
 anxiousapples.com
 api.sec.miui.com
 app.ssp.yahoo.com
 appboy-images.com
+apple.www.letv.com
 applebarq.com
 applequan.com
 applescringe.com
+awaps.yandex.ru
 awsync.yandex.ru
+bats.video.yahoo.com
 beacon.search.yahoo.com
 beap-bc.yahoo.com
+bs.yandex.ru
+collector2c.zhihuishu.com
+cookiex.ngd.yahoo.com
 crypta.js
 d1stxfv94hrhia.cloudfront
+dm50.ys137.com
 dmg-dd.oss-accelerate.aliyuncs.com
+elsyuulw.cam
 fpb1.apple886.com
+ganon.yahoo.com
+gblvwv.com
+geo.yahoo.com
 https-apple.com
-hzrrmh.cn
 iadsdk.apple.com
 ib.snssdk.com
-j04r.top
+informer.yandex.ru
+jill.fc.yahoo.com
 jpaasne.e.shifen.com
 log.strm.yandex.ru
 marketingsolutions.yahoo.com
+mc.yandex.ru
 mediaappletree.com
 meitaolianmeng.ltd
 mm.n3w1d0ma1n
 mo.vlpyj.xy
-nbd56.cn
+nol.yahoo.com
+openfpcdn.io
+oureh.xyz
 pr.comet.yahoo.com
+pv.sohu.com
+qjkfqcmxzxhg.ink
+rljjt.cn
 rrf.fat1domain1
 shackapple.com
-shenglishamo.com
-slsyuulb.cam
 stats.video.search.yahoo.com
 sub.powerapple.com
+supportmetrics.apple.com
+sz7g.top
+test.vast
 theapple.site
+visit.webhosting.yahoo.com
 wondefulapplend.com
 wzjs1.oss-accelerate.aliyuncs.com
-xcvur.xyz
+xn--2qu92fhtxsxexqab.xn--fiqs8s
+xuefffd.cn
 youtube.local
-zpsh.shop
+yyujke.top
 ad.xy2013.cn
 ads.play.cbsi.video
 ads.reembed.com
@@ -7401,6 +7426,7 @@ taozgpkjzpdtgr.com
 tapffdskgjr.com
 targetctracker.com
 tarteaucitron.ml
+tat.pandora.xiaomi.com
 tataget.ru
 tatami-solutions.com
 tauwhout.net
@@ -9636,7 +9662,6 @@ zzxlukodff.com
 zzxosget.com
 519332da.rtc.youme.im
 gvod.aiseejapp.atianqi.com
-tat.pandora.xiaomi.com
 204.scloud.lfengmobile.com
 2mdnsys.com
 39d83s.com
@@ -10347,37 +10372,20 @@ yume.com
 zen.sr
 10008919.pomelo.fashion
 2mammis9kbgg.datree.io
-3p-geo.yahoo.com
-3p-udc.yahoo.com
 ad.kddi-fs.com
-adfox.yandex.ru
-adsdk.yandex.ru
-an.yandex.ru
-apple.www.letv.com
-awaps.yandex.ru
-bats.video.yahoo.com
 bhhpo9xbgry3.www.cybernetman.com
-bs.yandex.ru
 cdn1.skrill.com
-collector2c.zhihuishu.com
 content22.bmoharris.com
-cookiex.ngd.yahoo.com
 d.rp-online.de
+datadome.patreon.com
 fvf3adsna5qc.www.earthclassmail.com
-ganon.yahoo.com
-geo.yahoo.com
-informer.yandex.ru
 insight.olx.ba
-jill.fc.yahoo.com
 l.ctrl.blog
 log.kuwo.cn
 logstash-3.radio-canada.ca
-mc.yandex.ru
 mcc-tags.cisco.com
 metrics.apple.com
 mktcs.cloudapps.cisco.com
-nol.yahoo.com
-pv.sohu.com
 retcode.taobao.com
 securemetrics.apple.com
 securemetrics.experience.apple
@@ -10385,10 +10393,8 @@ securemvt.apple.com
 securemvt.apple.com.cn
 ssp.rambler.ru
 sugar.zhihu.com
-supportmetrics.apple.com
 t.nypost.com
 tags.esri.rw
-test.vast
 tms.hft.everyplate.com
 tms.hft.factor75.com
 tms.hft.greenchef.com
@@ -10396,7 +10402,6 @@ tms.hft.hellofresh.com
 track.mrgugu.com
 track.tom.com
 views.b1tv.ro
-visit.webhosting.yahoo.com
 wup-content23.bmoharris.com
 .0-000.store
 .0.code.cotsta.ru
@@ -10423,6 +10428,7 @@ wup-content23.bmoharris.com
 .0272bb.com
 .0272dd.com
 .027whht.com
+.028708717f.com
 .029mxhs.cn
 .02aa19117f396e9.com
 .02b57bb965.com
@@ -11924,6 +11930,7 @@ wup-content23.bmoharris.com
 .8xbet71.com
 .8xbet96.com
 .8zhou.wang
+.8zzo.icu
 .9001476746.com
 .90158js.com
 .9053fe03868ab.com
@@ -16973,6 +16980,7 @@ wup-content23.bmoharris.com
 .arsdev.net
 .arshelmeton.com
 .arshineensnarl.com
+.arsnivyr.com
 .arsonexchangefly.com
 .arsonunemployedcask.com
 .arswabluchan.com
@@ -19622,6 +19630,7 @@ wup-content23.bmoharris.com
 .boomj.club
 .boomselljamwelunch.com
 .boomtrain.com
+.boorishregt.com
 .boosirad.net
 .boost-next.co.jp
 .boostable.com
@@ -20874,6 +20883,7 @@ wup-content23.bmoharris.com
 .ccgtime-gn.xyz
 .cchvc.net
 .ccieurope.fr
+.ccio6rope.cyou
 .ccioo.vip
 .ccjrapjmxq.com
 .ccjudian.com
@@ -21239,6 +21249,7 @@ wup-content23.bmoharris.com
 .cgirm.greatfallstribune.com
 .cgmt.co.id
 .cgznataqg.com
+.ch6g.top
 .ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 .cha2spoi3rasne.com
 .chabeiren.com
@@ -22706,6 +22717,7 @@ wup-content23.bmoharris.com
 .conurs.com
 .conusmedia.com
 .convdlink.com
+.conventforgotten.com
 .conventionforgetful.com
 .converge-digital.com
 .convergetrack.com
@@ -27743,6 +27755,7 @@ wup-content23.bmoharris.com
 .eylqbeu.cn
 .eyoupie.cn
 .eywvmnf.cn
+.eyxtfk.cn
 .ezaktak.ru
 .ezakus.net
 .ezaste.ru
@@ -32539,6 +32552,7 @@ wup-content23.bmoharris.com
 .hzihupwzovva.com
 .hzkachqd.com
 .hznvtg.com
+.hzrrmh.cn
 .hzs1202.site
 .hzucji.com
 .hzxlly.com
@@ -34004,6 +34018,7 @@ wup-content23.bmoharris.com
 .j.sousoudus.com
 .j.zlszw.com
 .j04.xyz
+.j04r.top
 .j05.xyz
 .j158.hearstmediact.com
 .j1oxqq05ry.ru
@@ -35088,6 +35103,7 @@ wup-content23.bmoharris.com
 .kegsandremembrance.com
 .kehalim.com
 .keitush.ru
+.kejasosy.com
 .kejebbirmaxmwhv.xyz
 .kejia.pw
 .kejiadoor.cn
@@ -36777,6 +36793,8 @@ wup-content23.bmoharris.com
 .littlecutedogs.com
 .littlecutelions.com
 .littleduck.fr
+.littleneptunenews.com
+.littlmarsnews22.com
 .litusher.com
 .liuchengming.com
 .liuhemei.com.cn
@@ -40347,6 +40365,7 @@ wup-content23.bmoharris.com
 .nb.5.p2l.info
 .nbads.com
 .nbazhaheic.top
+.nbd56.cn
 .nbet.com
 .nbet.top
 .nbet.vip
@@ -40979,6 +40998,7 @@ wup-content23.bmoharris.com
 .nnxugnisebisq.xyz
 .no2veeamggaseber.com
 .noagliph.com
+.noahparroty.com
 .noamiscience.pro
 .noanawie.com
 .noaon2.com
@@ -43324,6 +43344,7 @@ wup-content23.bmoharris.com
 .pegablackjal.com
 .pegasuson.com
 .peggedolga.com
+.peggedperfins.com
 .pegloang.com
 .pegristofi.com
 .pei-ads.thesmokingjacket.com
@@ -49041,6 +49062,7 @@ wup-content23.bmoharris.com
 .shenfagg.com
 .shengduobao.shop
 .shenghemy.mobi
+.shenglishamo.com
 .shengshipump.cn
 .shengtaiyuan.mobi
 .shengxinrong.net
@@ -49656,6 +49678,7 @@ wup-content23.bmoharris.com
 .slrviazqkilu.com
 .slshiye.cn
 .slsynmlb.fun
+.slsyuulb.cam
 .sltcp.cn
 .sluicejell.com
 .sluiceliable.com
@@ -50836,6 +50859,7 @@ wup-content23.bmoharris.com
 .stats.rutracker.ga
 .stats.searchsight.com
 .stats.self.com
+.stats.seotraff.team
 .stats.sharenet.co.za
 .stats.simply-hentai.com
 .stats.slashgear.com
@@ -52123,6 +52147,7 @@ wup-content23.bmoharris.com
 .tdtxjhel.com
 .tdtxkvj.cn
 .tdugvspdnq.com
+.tdvwmdn.cn
 .te.about.com
 .te.adlandpro.com
 .te.advance.net
@@ -58509,6 +58534,7 @@ wup-content23.bmoharris.com
 .xcsypkknp.com
 .xcummws.cn
 .xcvgdf.party
+.xcvur.xyz
 .xcwzq.xyz
 .xd4a.top
 .xdbnwjtpyvfu.com
@@ -60390,6 +60416,7 @@ wup-content23.bmoharris.com
 .zprelandappslab.com
 .zprelandings.com
 .zprk.io
+.zpsh.shop
 .zptxjlh.cn
 .zpu.samsungelectronics.com
 .zpujlrylfvk.com
@@ -60429,6 +60456,7 @@ wup-content23.bmoharris.com
 .zslhmw.com
 .zsmmflxvkgvmcf.com
 .zsmyzg.cn
+.zsnoownmq.fun
 .zswph.com
 .zswxrfwnapgg.com
 .zswzri7ju3.ru
@@ -60530,6 +60558,7 @@ wup-content23.bmoharris.com
 .zyban-store.shengen.ru
 .zyban.1.p2l.info
 .zybrdr.com
+.zycaphede.com
 .zychologla.com
 .zycvyudt.com
 .zyezhz.cn
@@ -76558,7 +76587,6 @@ wup-content23.bmoharris.com
 .ccc.sys.miui.com
 .ccdace.hupu.com
 .ccies.cn
-.ccio6rope.cyou
 .cclink.carfax.com
 .ccm.abload.de
 .ccm.takuma.de
@@ -77831,6 +77859,7 @@ wup-content23.bmoharris.com
 .devices.carnivalmobile.com
 .devscroll.com
 .devtest.app-birdy.com
+.dextsz.cn
 .df9377.com
 .dfp.bouncex.net
 .dg-hospital.com
@@ -78846,7 +78875,6 @@ wup-content23.bmoharris.com
 .eymiwj.promotor.ro
 .eymiwj.prosport.ro
 .eywvko.shaddy.jp
-.eyxtfk.cn
 .ez33.com
 .ezadblocker.com
 .ezdownloadpro.info
@@ -80736,6 +80764,7 @@ wup-content23.bmoharris.com
 .jkzoac.headphones.com
 .jl368.cn
 .jlrfx.com
+.jlsynmla.fun
 .jm1.xiao89.com
 .jmait.cn
 .jmjkix.tofisa.com
@@ -80744,6 +80773,7 @@ wup-content23.bmoharris.com
 .jmogo.cn
 .jngdg.top
 .jnm.o41qed.cn
+.jnmami.cn
 .jntmedia.cn
 .jnykjgs.cn
 .jnzedp.his-j.com
@@ -80849,6 +80879,7 @@ wup-content23.bmoharris.com
 .jtyutq.chaussures.fr
 .juandou.com
 .jubi.ai
+.jubudayu.com
 .judantech.site
 .juejdkio.com
 .jufenglc.com
@@ -80953,7 +80984,6 @@ wup-content23.bmoharris.com
 .keet1liod.com
 .kefeng56.com
 .kehuduan.com
-.kejasosy.com
 .kekw.givetip.to
 .kelun13.top
 .kendingfa.com
@@ -82660,6 +82690,7 @@ wup-content23.bmoharris.com
 .metrics.ralphlauren.com
 .metrics.realsimple.com
 .metrics.recunia.de
+.metrics.redgifs.com
 .metrics.refinitiv.com
 .metrics.regions.com
 .metrics.resortdeveloper.com
@@ -84701,6 +84732,7 @@ wup-content23.bmoharris.com
 .pvstat.baomihua.com
 .pw321.com
 .pwk.nextinpact.com
+.px.redgifs.com
 .px.tvadsync.com
 .pxblmj.com
 .pxfindtwo.com
@@ -87502,7 +87534,6 @@ wup-content23.bmoharris.com
 .stats.rs-online.com
 .stats.russellstover.com
 .stats.safeway.com
-.stats.seotraff.team
 .stats.servicedesignjobs.com
 .stats.sim.de
 .stats.simplytel.de
@@ -88234,7 +88265,6 @@ wup-content23.bmoharris.com
 .tdcoincore.org
 .tddmp.com
 .tdi.cartoonnetwork.com
-.tdvwmdn.cn
 .te.witt-international.cz
 .te.your-look-for-less.se
 .te37w.cn
@@ -90208,6 +90238,7 @@ wup-content23.bmoharris.com
 .xjjkjo.pw
 .xjuneuud.cn
 .xkddvf.gigantti.fi
+.xkeo6sleo.cyou
 .xladapi.izuiyou.com
 .xlcun.com
 .xleecw.wlane.com.au
@@ -90290,6 +90321,7 @@ wup-content23.bmoharris.com
 .xxcgdq.com
 .xxdlg.cn
 .xxdongfa.com
+.xxkacrc.cn
 .xxlefq.commentcamarche.net
 .xxsdtb.edreams.com
 .xxxblackbook.com
@@ -90652,7 +90684,6 @@ wup-content23.bmoharris.com
 .zsasvs.hey.car
 .zsdzcpw.mobi
 .zsh-work.com
-.zsnoownmq.fun
 .zswhcsfww.mobi
 .zszgjiejuw.mobi
 .ztd.dds.microsoft.com

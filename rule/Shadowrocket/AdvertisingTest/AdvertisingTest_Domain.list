@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-09 02:32:30
+# UPDATED: 2022-10-10 02:31:34
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 10391
+# DOMAIN: 10396
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 91194
+# DOMAIN-SUFFIX: 91220
 # IP-CIDR: 242
 # URL-REGEX: 301
-# TOTAL: 102392
+# TOTAL: 102423
 00-gov.cn
 0026645142c89aeb1.com
 00ae8b5a9c1d597.com
@@ -359,7 +359,6 @@
 8y7th.cn
 8yxupue8.com
 8zr4g.cn
-8zzo.icu
 9104cecde1c32cb25f5.com
 913h6.cn
 91mobiles.com
@@ -459,6 +458,7 @@ ab8ce655c175b0d.com
 abb963a46029eb.com
 abbp1.space
 abc.hearst.co.uk
+abc2022.ys137.com.cn
 abcdespanol.com
 abctrack.bid
 abfcfxfkzmiqht.com
@@ -2115,6 +2115,7 @@ das5ku9q.com
 dasdk.luojilab.com
 dashboardad.net
 data-hoisin.coocaa.com
+datadome.patreon.com
 datasecu.download
 datefree.com
 dating-adv.com
@@ -2290,6 +2291,7 @@ dlrwabzugcyj.com
 dltags.com
 dlwssyqp.com
 dm.66wenshen.com
+dm50.ys137.com
 dmg-dd.oss-accelerate.aliyuncs.com
 dmg-mobile.com
 dmgcxznqmmiek.com
@@ -2617,6 +2619,7 @@ elmissouri.fr
 eloumbsyd.com
 elqsjecdav.com
 elsad.tw
+elsyuulw.cam
 elwraek.xyz
 em-use.dynamicyield.com
 email.pipedrive.com
@@ -3263,6 +3266,7 @@ gazukakdlk.com
 gb.it1352.com
 gb0rd.com
 gbdzznirg.com
+gblvwv.com
 gbtoxwxmahhctv.com
 gbwieawjiylgx.com
 gbwnpchivh.com
@@ -3873,7 +3877,6 @@ hz3137.com
 hzcrhwmi.com
 hzlewuunwm.com
 hzlsghfoqsvawe.com
-hzrrmh.cn
 hzskbnafzwsu.com
 hzsmmfohtye.com
 hztjenzlrrwinq.com
@@ -4270,7 +4273,6 @@ j.ajaxxy.net
 j.chuanxianwanguan.com
 j.geluck.net
 j.taokeweizhan.com
-j04r.top
 j2k9.in
 jaaqcdrpmyju.com
 jaavpuhxrsryk.com
@@ -5691,7 +5693,6 @@ navaxudoru.com
 navigis.uc.cn
 naxrjxij.com
 nbbqgaeqnxun.com
-nbd56.cn
 nbeejafjpbm.com
 nbhubocsduzn.com
 nbijjhqnzcwr.com
@@ -6174,6 +6175,7 @@ opencdb84507.com
 opencdb84508.com
 opencdb84509.com
 opendownloadmanager.com
+openfpcdn.io
 openrate.aweber.com
 opens.responder.co.il
 operatedelivery.com
@@ -6268,6 +6270,7 @@ ouo.io
 ouptoobe.net
 ouqlhdajsaq.com
 ourbanners.net
+oureh.xyz
 ourgeche.net
 oushenoo.net
 outils.f5biz.com
@@ -6893,6 +6896,7 @@ qiumodies.com
 qiunckxdgf.com
 qixlpaaeaspr.com
 qjgqelsvt.com
+qjkfqcmxzxhg.ink
 qjkxoniuj.com
 qjlgyiuesk.com
 qjnofrpbv.com
@@ -7260,6 +7264,7 @@ rkpecade.com
 rkvduvtdz.com
 rlbvwdviqx.com
 rlcciwjyl.com
+rljjt.cn
 rlsqhgku.com
 rlxqaczszvjvp.com
 rmnwxcpccuzwe.com
@@ -7639,7 +7644,6 @@ shawsuburbanauto.com
 shawsuburbanhomes.com
 shemeejo.com
 shemirta.info
-shenglishamo.com
 shftscdisov.com
 shgnts.net
 shicao.icantv.cn
@@ -7724,7 +7728,6 @@ slfjsqnmp.com
 slickdeals.meritline.com
 slightlyoffcenter.net
 sloansagnersro.com
-slsyuulb.cam
 slvcwiabpgyxa.com
 sm.pcmag.com
 smapohsnoww.com
@@ -7973,6 +7976,7 @@ symbiosting.com
 syndicatedsearchresults.com
 synhandler.net
 sywwplqqumjgm.com
+sz7g.top
 szausichl.com
 szdfteyb.com
 szinhaz.hu
@@ -9603,7 +9607,6 @@ xcqgkkccjjucf.com
 xcttavcu.com
 xcvibxsdchxh.com
 xcvtpwxz.com
-xcvur.xyz
 xcwmyyglayg.com
 xcwnwrgvwg.com
 xcwqzbcpberyp.com
@@ -9714,6 +9717,7 @@ xmylgmmt.com
 xn--17921-iua.biz
 xn--18225-zta.biz
 xn--20531-uua.biz
+xn--2qu92fhtxsxexqab.xn--fiqs8s
 xncyiwbwfuqx.com
 xndskrtxkiv.com
 xnfdvmzb.com
@@ -9804,6 +9808,7 @@ xtjmmnjr.com
 xtmjaetqtbm.com
 xts7fgss.com
 xtsnbxwak.com
+xuefffd.cn
 xunkhuczqnuf.com
 xurrehqawu.com
 xuwptpzdwyaw.com
@@ -10098,6 +10103,7 @@ yxyfsghyk.com
 yycocbzc.com
 yydmdsdnbtcduu.com
 yyivakszwh.com
+yyujke.top
 yyvvnutdokptca.com
 yywctdppuncv.com
 yyxntcpxxvtpuk.com
@@ -10301,7 +10307,6 @@ zpiqwngppibmf.com
 zpolivtjrhjquo.com
 zppkpktskuf.com
 zpqejgbya.com
-zpsh.shop
 zpwqnicvzi.com
 zpwtylxpfeje.com
 zpxgdlqoofx.com
@@ -10479,6 +10484,7 @@ zzxosget.com
 .0272bb.com
 .0272dd.com
 .027whht.com
+.028708717f.com
 .028yhtz.com
 .029mxhs.cn
 .02aa19117f396e9.com
@@ -13436,6 +13442,7 @@ zzxosget.com
 .8xbet71.com
 .8xbet96.com
 .8zhou.wang
+.8zzo.icu
 .9001476746.com
 .90053999.com
 .900bets10.com
@@ -22411,6 +22418,7 @@ zzxosget.com
 .arsdev.net
 .arshelmeton.com
 .arshineensnarl.com
+.arsnivyr.com
 .arsonexchangefly.com
 .arsonunemployedcask.com
 .arswabluchan.com
@@ -26463,6 +26471,7 @@ zzxosget.com
 .boomj.club
 .boomselljamwelunch.com
 .boomtrain.com
+.boorishregt.com
 .boosirad.net
 .boost-next.co.jp
 .boostable.com
@@ -29122,6 +29131,7 @@ zzxosget.com
 .ch3301-g.1drv.com
 .ch3302-c.1drv.com
 .ch3302-e.1drv.com
+.ch6g.top
 .ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me
 .cha2spoi3rasne.com
 .chabeiren.com
@@ -31769,6 +31779,7 @@ zzxosget.com
 .conusmedia.com
 .conv.youdao.com
 .convdlink.com
+.conventforgotten.com
 .conventionforgetful.com
 .converge-digital.com
 .convergetrack.com
@@ -35552,6 +35563,7 @@ zzxosget.com
 .dexinyi.cn
 .dexplatform.com
 .dexpredict.com
+.dextsz.cn
 .deya.ink
 .deyidesign.com
 .dezfu.com
@@ -48675,6 +48687,7 @@ zzxosget.com
 .hzlm.cc
 .hzmiyou.cn
 .hznvtg.com
+.hzrrmh.cn
 .hzs1202.site
 .hzsod71wov.me
 .hzucji.com
@@ -51534,6 +51547,7 @@ zzxosget.com
 .j.zhdap.com
 .j.zlszw.com
 .j04.xyz
+.j04r.top
 .j05.xyz
 .j05ot.online
 .j07773.com
@@ -52286,6 +52300,7 @@ zzxosget.com
 .jlpbyt.com
 .jlrfx.com
 .jlssbz.com
+.jlsynmla.fun
 .jlsyuula.cam
 .jlvqhftliz.com
 .jlvskg.cn
@@ -52345,6 +52360,7 @@ zzxosget.com
 .jnhofgrcmsqw.xyz
 .jnkangnuo.com
 .jnm.o41qed.cn
+.jnmami.cn
 .jnmqym4.cn
 .jnqiangzhi.xyz
 .jnrsjm.com
@@ -52818,6 +52834,7 @@ zzxosget.com
 .jubnaadserve.com
 .jubsaugn.com
 .jubsouth.com
+.jubudayu.com
 .jucaishequ.com
 .judaisydfs.club
 .judantech.site
@@ -56202,6 +56219,8 @@ zzxosget.com
 .littlecutelions.com
 .littleduck.fr
 .littlementok.site
+.littleneptunenews.com
+.littlmarsnews22.com
 .litusher.com
 .liuchengming.com
 .liufang1994.top
@@ -61106,6 +61125,7 @@ zzxosget.com
 .metrics.reallymoving.com
 .metrics.realsimple.com
 .metrics.recunia.de
+.metrics.redgifs.com
 .metrics.refinitiv.com
 .metrics.regal.es
 .metrics.regions.com
@@ -63926,6 +63946,7 @@ zzxosget.com
 .nbbull.com
 .nbcuni.com
 .nbcxa65t002z.net.zooplus.fr
+.nbd56.cn
 .nbet.com
 .nbet.top
 .nbet.vip
@@ -64949,6 +64970,7 @@ zzxosget.com
 .noagliph.com
 .noagloot.net
 .noahos.cn
+.noahparroty.com
 .noaloheb.com
 .noamiagainst.pro
 .noamiscience.pro
@@ -68808,6 +68830,7 @@ zzxosget.com
 .pegasuson.com
 .pegasusplate.com
 .peggedolga.com
+.peggedperfins.com
 .pegloang.com
 .pegristofi.com
 .pei-ads.playboy.com
@@ -72303,6 +72326,7 @@ zzxosget.com
 .px.mvfglobal.com
 .px.pandora.com
 .px.reactrmod.com
+.px.redgifs.com
 .px.spiceworks.com
 .px.staticfiles.at
 .px.topspin.net
@@ -78368,6 +78392,7 @@ zzxosget.com
 .shengduobao.shop
 .shenghemy.mobi
 .shenghuo.xiaomi.com
+.shenglishamo.com
 .shenglonghg.net
 .shengshipump.cn
 .shengtaiyuan.mobi
@@ -79335,6 +79360,7 @@ zzxosget.com
 .sls2.loisirsencheres.com
 .slshiye.cn
 .slsynmlb.fun
+.slsyuulb.cam
 .sltcp.cn
 .sltint.adv.ott.cibntv.net
 .sluicejell.com
@@ -97919,6 +97945,7 @@ zzxosget.com
 .xcummws.cn
 .xcvf.info
 .xcvgdf.party
+.xcvur.xyz
 .xcwzq.xyz
 .xcxzxc.cn
 .xcy8.com
@@ -98310,6 +98337,7 @@ zzxosget.com
 .xkd.hk
 .xkddvf.gigantti.fi
 .xkena.com
+.xkeo6sleo.cyou
 .xketil.com
 .xkjxgt.com
 .xkkhgnszfd.com
@@ -98807,6 +98835,7 @@ zzxosget.com
 .xxguan.cn
 .xxgxqscl.com
 .xxhrd.com
+.xxkacrc.cn
 .xxkhh.com
 .xxkio.com
 .xxladu.com
@@ -101227,6 +101256,7 @@ zzxosget.com
 .zprelandappslab.com
 .zprelandings.com
 .zprk.io
+.zpsh.shop
 .zptncsir.com
 .zptxjlh.cn
 .zpu.samsungelectronics.com
@@ -101484,6 +101514,7 @@ zzxosget.com
 .zybpj.com
 .zybrdr.com
 .zybveu.swappie.com
+.zycaphede.com
 .zychologla.com
 .zycvyudt.com
 .zydyjzw.cn
