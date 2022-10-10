@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-10-10 02:32:20
+# UPDATED: 2022-10-11 02:40:08
 # DOMAIN: 177
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66530
+# DOMAIN-SUFFIX: 66521
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 66731
+# TOTAL: 66722
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdp.cloud.unity3d.com
@@ -1402,7 +1402,6 @@ DOMAIN-SUFFIX,0rz.in
 DOMAIN-SUFFIX,0s8s.com
 DOMAIN-SUFFIX,0sm.com
 DOMAIN-SUFFIX,0x0.biz
-DOMAIN-SUFFIX,0x0.ooo
 DOMAIN-SUFFIX,0x100.club
 DOMAIN-SUFFIX,0x3.me
 DOMAIN-SUFFIX,0x5.me
@@ -3979,7 +3978,6 @@ DOMAIN-SUFFIX,3g210.com
 DOMAIN-SUFFIX,3g2win.com
 DOMAIN-SUFFIX,3g3h.org
 DOMAIN-SUFFIX,3g567.com
-DOMAIN-SUFFIX,3gcomet.com
 DOMAIN-SUFFIX,3gdisk.com
 DOMAIN-SUFFIX,3glasses.com
 DOMAIN-SUFFIX,3gmimo.com
@@ -5133,7 +5131,6 @@ DOMAIN-SUFFIX,52dfg.com
 DOMAIN-SUFFIX,52dgs.net
 DOMAIN-SUFFIX,52digua.com
 DOMAIN-SUFFIX,52dmtp.com
-DOMAIN-SUFFIX,52dns.com
 DOMAIN-SUFFIX,52doc.com
 DOMAIN-SUFFIX,52dr.net
 DOMAIN-SUFFIX,52dsy.com
@@ -7488,7 +7485,6 @@ DOMAIN-SUFFIX,9466.com
 DOMAIN-SUFFIX,94831.com
 DOMAIN-SUFFIX,9495.com
 DOMAIN-SUFFIX,949678.com
-DOMAIN-SUFFIX,9499.net
 DOMAIN-SUFFIX,94994.com
 DOMAIN-SUFFIX,949949.com
 DOMAIN-SUFFIX,94afx.com
@@ -12126,7 +12122,6 @@ DOMAIN-SUFFIX,bkweek.com
 DOMAIN-SUFFIX,bkxs.net
 DOMAIN-SUFFIX,bkzzy.com
 DOMAIN-SUFFIX,bl.com
-DOMAIN-SUFFIX,bl9k.com
 DOMAIN-SUFFIX,bla01.com
 DOMAIN-SUFFIX,black-unique.com
 DOMAIN-SUFFIX,blackbirdsport.com
@@ -12385,6 +12380,7 @@ DOMAIN-SUFFIX,boleihg.com
 DOMAIN-SUFFIX,bolejiang.com
 DOMAIN-SUFFIX,bolelink.com
 DOMAIN-SUFFIX,bolexiaozhao.com
+DOMAIN-SUFFIX,boling04.com
 DOMAIN-SUFFIX,boll.me
 DOMAIN-SUFFIX,bolo.me
 DOMAIN-SUFFIX,bolopp.com
@@ -14558,7 +14554,6 @@ DOMAIN-SUFFIX,chengedeco.com
 DOMAIN-SUFFIX,chengezhao.com
 DOMAIN-SUFFIX,chengfeilong.com
 DOMAIN-SUFFIX,chenggongguiji.com
-DOMAIN-SUFFIX,chenggua.com
 DOMAIN-SUFFIX,chengguw.com
 DOMAIN-SUFFIX,chengji1859.com
 DOMAIN-SUFFIX,chengjieos.com
@@ -15568,7 +15563,6 @@ DOMAIN-SUFFIX,chtwm.com
 DOMAIN-SUFFIX,chuaiguo.com
 DOMAIN-SUFFIX,chuairan.com
 DOMAIN-SUFFIX,chuaizhe.com
-DOMAIN-SUFFIX,chuanbofanyi.com
 DOMAIN-SUFFIX,chuanbojia.com
 DOMAIN-SUFFIX,chuanboyi.com
 DOMAIN-SUFFIX,chuandaizc.com
@@ -37461,7 +37455,6 @@ DOMAIN-SUFFIX,liweijia.com
 DOMAIN-SUFFIX,liweiliang.com
 DOMAIN-SUFFIX,liwenzhou.com
 DOMAIN-SUFFIX,liwinon.com
-DOMAIN-SUFFIX,liwngad.com
 DOMAIN-SUFFIX,liwuhy.com
 DOMAIN-SUFFIX,liwumaoapp.com
 DOMAIN-SUFFIX,liwushuo.com
@@ -39055,6 +39048,7 @@ DOMAIN-SUFFIX,maxuscloud.com
 DOMAIN-SUFFIX,maxvinch.com
 DOMAIN-SUFFIX,maxwealthfund.com
 DOMAIN-SUFFIX,maxwi.com
+DOMAIN-SUFFIX,maxws.com
 DOMAIN-SUFFIX,maxxipoint.com
 DOMAIN-SUFFIX,may.ltd
 DOMAIN-SUFFIX,maya09.com
@@ -49893,7 +49887,6 @@ DOMAIN-SUFFIX,smohan.net
 DOMAIN-SUFFIX,smokeliq.com
 DOMAIN-SUFFIX,smoothgroup.cc
 DOMAIN-SUFFIX,smovie168.com
-DOMAIN-SUFFIX,smpeizi.com
 DOMAIN-SUFFIX,smppw.com
 DOMAIN-SUFFIX,sms9.net
 DOMAIN-SUFFIX,smsbao.com
@@ -49996,7 +49989,6 @@ DOMAIN-SUFFIX,so-w.com
 DOMAIN-SUFFIX,so147.com
 DOMAIN-SUFFIX,so8848.com
 DOMAIN-SUFFIX,soarwatch.com
-DOMAIN-SUFFIX,soba8.com
 DOMAIN-SUFFIX,sobaidupan.com
 DOMAIN-SUFFIX,sobeian.com
 DOMAIN-SUFFIX,sobereva.com
@@ -53625,7 +53617,6 @@ DOMAIN-SUFFIX,tsingpost.com
 DOMAIN-SUFFIX,tsingtoo.com
 DOMAIN-SUFFIX,tskscn.com
 DOMAIN-SUFFIX,tskscn.org
-DOMAIN-SUFFIX,tslapinshang.com
 DOMAIN-SUFFIX,tsljzs.com
 DOMAIN-SUFFIX,tslongtai.com
 DOMAIN-SUFFIX,tslsmart.com
@@ -60497,6 +60488,7 @@ DOMAIN-SUFFIX,xtuo.net
 DOMAIN-SUFFIX,xtutoring.com
 DOMAIN-SUFFIX,xtxcm.com
 DOMAIN-SUFFIX,xtyxdq.com
+DOMAIN-SUFFIX,xtzjcz.com
 DOMAIN-SUFFIX,xu1s.com
 DOMAIN-SUFFIX,xu7b.com
 DOMAIN-SUFFIX,xuanad.com
@@ -60550,7 +60542,6 @@ DOMAIN-SUFFIX,xudongfood.com
 DOMAIN-SUFFIX,xudoodoo.com
 DOMAIN-SUFFIX,xuduan.vip
 DOMAIN-SUFFIX,xue163.net
-DOMAIN-SUFFIX,xue3dmax.com
 DOMAIN-SUFFIX,xue51.com
 DOMAIN-SUFFIX,xue63.com
 DOMAIN-SUFFIX,xueanquan.com
